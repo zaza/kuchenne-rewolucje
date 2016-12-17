@@ -1,9 +1,47 @@
 {
 	"odcinki": [{
-			"odcinek":1,
-			"nazwa":"Dziki Młyn",
-			"adres":"Czorsztyńska 1, 01-410 Warszawa",
-			"url":"http://kuchennerewolucje.tvn.pl/odcinki-online,1/odcinek-1-sezon-1,10265,o.html"
+			"odcinek": 1,
+			"nazwa": "Dziki Młyn",
+			"adres": "Czorsztyńska 1, 01-410 Warszawa",
+			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,1/odcinek-1-sezon-1,10265,o.html"
+		}, {
+			"odcinek": 2,
+			"nazwa": "Panorama",
+			"adres": "Wały Piastowskie 1, 80-854 Gdańsk",
+			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,1/odcinek-2-sezon-1,10266,o.html"
+		}, {
+			"odcinek": 3,
+			"nazwa": "Gościniec Franc Josef",
+			"adres": "Mikołowska 44, 40-001 Katowice",
+			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,1/odcinek-3-sezon-1,10267,o.html"
+		}, {
+			"odcinek": 4,
+			"nazwa": "Impuls",
+			"adres": "Maratońska 57, 94-102 Łódź",
+			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,1/odcinek-4-sezon-1,10268,o.html",
+			"zamkniete": true
+		}, {
+			"odcinek": 5,
+			"nazwa": "Artemis",
+			"adres": "Wroniecka 21, 60-101 Poznań",
+			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,1/odcinek-5-sezon-1,10269,o.html",
+			"zamkniete": true
+		}, {
+			"odcinek": 6,
+			"nazwa": "Pod Arsenałem",
+			"adres": "Dominikańska 9, 87-100 Toruń",
+			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,1/odcinek-6-sezon-1,10270,o.html",
+			"zamkniete": true
+		}, {
+			"odcinek": 7,
+			"nazwa": "Restauracja U Zosi",
+			"adres": "Flisacka 35B, 34-460 Gmina Szczawnica",
+			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,1/odcinek-7-sezon-1,10271,o.html"
+		}, {
+			"odcinek": 8,
+			"nazwa": "Grande Azzurro",
+			"adres": "Michała Ogińskiego 5, 03-318 Warszawa",
+			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,1/odcinek-8-sezon-1,10272,o.html"
 		}
 	]
 }

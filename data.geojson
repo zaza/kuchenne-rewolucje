@@ -13,6 +13,76 @@
   }, {
     "type" : "Feature",
     "properties" : {
+      "nazwa" : "Panorama",
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,1/odcinek-2-sezon-1,10266,o.html"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 18.6464598, 54.3588785 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "nazwa" : "Gościniec Franc Josef",
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,1/odcinek-3-sezon-1,10267,o.html"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.0073699, 50.2517349 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "nazwa" : "Impuls",
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,1/odcinek-4-sezon-1,10268,o.html"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.3951001, 51.7379932 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "nazwa" : "Artemis",
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,1/odcinek-5-sezon-1,10269,o.html"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.9342939, 52.40967 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "nazwa" : "Pod Arsenałem",
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,1/odcinek-6-sezon-1,10270,o.html"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 18.606851, 53.01283 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "nazwa" : "Restauracja U Zosi",
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,1/odcinek-7-sezon-1,10271,o.html"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.461305, 49.4247839 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "nazwa" : "Grande Azzurro",
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,1/odcinek-8-sezon-1,10272,o.html"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 21.0267948, 52.284432 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "nazwa" : "Karczma Zamczyko",
       "url" : "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-15,malbork-karczma-zamczysko,S14E15,65006.html"
     },
@@ -39,6 +109,186 @@
     "geometry" : {
       "type" : "Point",
       "coordinates" : [ 19.1036499, 50.309529 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "nazwa" : "Twoja Kolejka",
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,14/odcinek-11,67742,o.html"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.149145, 49.720002 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "nazwa" : "Gęś na Jaśku",
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,14/odcinek-10,67485,o.html"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 15.284276, 51.0492212 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "nazwa" : "Przystanek Wrocek",
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,14/odcinek-9,67314,o.html"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 17.053942, 51.1029599 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "nazwa" : "Bistro La Rosa",
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,14/odcinek-8,67206,o.html"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.4491999, 51.8157 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "nazwa" : "Restauracja Prawdziwa Knajpka",
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,14/odcinek-7,67172,o.html"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.1759, 52.4523 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "nazwa" : "Cynamon",
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,14/odcinek-5,66627,o.html"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.355959, 52.592141 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "nazwa" : "Karczma Dzika Chata",
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,14/odcinek-4,66499,o.html"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.5289219, 49.6254299 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "nazwa" : "Montenegro",
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,14/odcinek-3,66342,o.html"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.4519999, 51.7669999 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "nazwa" : "Szalotka",
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,14/odcinek-2,66178,o.html"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 15.0532651, 51.1591134 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "nazwa" : "Nie bo Mleczne",
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,14/odcinek-1,65953,o.html"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.2843585, 50.7653471 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "nazwa" : "Cinamon",
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,2/odcinek-3-sezon-2,10273,o.html"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 18.219383, 50.092859 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "nazwa" : "Restauracja Weranda",
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,2/odcinek-4-sezon-2,10274,o.html"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 21.8026241, 52.1657407 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "nazwa" : "Wook and roll",
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,2/odcinek-5-sezon-2,10275,o.html"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 21.0080413, 52.2518349 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "nazwa" : "Broniszówka",
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,2/odcinek-8-sezon-2,10276,o.html"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.842529, 52.211397 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "nazwa" : "Restauracja Zamkowa",
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,2/odcinek-9-sezon-2,10277,o.html"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 15.76869, 53.772472 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "nazwa" : "Paroles",
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,2/odcinek-10-sezon-2,10278,o.html"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.9438896, 50.0491501 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "nazwa" : "Czarcia Łapa",
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,2/odcinek-12-sezon-2,10279,o.html"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.567227, 51.2478801 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "nazwa" : "Tawerna Dominikańska",
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,2/odcinek-14-sezon-2,10281,o.html"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 18.6576655, 54.3527517 ]
     }
   }, {
     "type" : "Feature",

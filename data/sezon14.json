@@ -1,27 +1,88 @@
 {
 	"odcinki": [{
-			"odcinek":15,
-			"nazwa":"Karczma Zamczyko",
-			"adres":"Kałdowo Wieś 10, 82-200 Malbork",
-			"url":"http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-15,malbork-karczma-zamczysko,S14E15,65006.html"
-		},
-		{
-			"odcinek":14,
-			"nazwa":"Cykada",
-			"adres":"Chlastawa 18A, 66-210 Zbąszynek",
-			"url":"http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-14,chlastawa-karczma-cykada,S14E14,65005.html"
-		},
-		{
-			"odcinek":13,
-			"nazwa":"Chata po zbóju",
-			"adres":"Wiślańska 16, 43-246 Bąków",
-			"url":"http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-13,bakow-chata-po-zboju,S14E13,65004.html"
-		},
-		{
-			"odcinek":12,
-			"nazwa":"Trzy smaki",
-			"adres":"Wiejska 40, 41-253 Czeladź",
-			"url":"http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-12,czeladz-trzy-smaki,S14E12,65003.html"
+			"odcinek": 15,
+			"nazwa": "Karczma Zamczyko",
+			"adres": "Kałdowo Wieś 10, 82-200 Malbork",
+			"url": "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-15,malbork-karczma-zamczysko,S14E15,65006.html"
+		}, {
+			"odcinek": 14,
+			"nazwa": "Cykada",
+			"adres": "Chlastawa 18A, 66-210 Zbąszynek",
+			"url": "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-14,chlastawa-karczma-cykada,S14E14,65005.html"
+		}, {
+			"odcinek": 13,
+			"nazwa": "Chata po zbóju",
+			"adres": "Wiślańska 16, 43-246 Bąków",
+			"url": "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-13,bakow-chata-po-zboju,S14E13,65004.html"
+		}, {
+			"odcinek": 12,
+			"nazwa": "Trzy smaki",
+			"adres": "Wiejska 40, 41-253 Czeladź",
+			"url": "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-12,czeladz-trzy-smaki,S14E12,65003.html"
+		}, {
+			"odcinek": 11,
+			"nazwa": "Twoja Kolejka",
+			"stara-nazwa": "Garnuszek",
+			"adres": "Królowej Jadwigi 2, 34-325 Łodygowice",
+			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,14/odcinek-11,67742,o.html"
+		}, {
+			"odcinek": 10,
+			"nazwa": "Gęś na Jaśku",
+			"stara-nazwa": "Stacja Kościelniki",
+			"adres": "Kościelniki Górne, 59-820 Leśna",
+			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,14/odcinek-10,67485,o.html",
+			"homepage": "http://gesnajasku.pl"
+		}, {
+			"odcinek": 9,
+			"nazwa": "Przystanek Wrocek",
+			"stara-nazwa": "Bar na Szybkiej",
+			"adres": "Szybka 6/10, 50-421 Wrocław",
+			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,14/odcinek-9,67314,o.html",
+			"homepage": "http://askonkret.pl"
+		}, {
+			"odcinek": 8,
+			"nazwa": "Bistro La Rosa",
+			"stara-nazwa": "Bistro Oliwka",
+			"adres": "Pawilońska 61, 90-001 Łódź",
+			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,14/odcinek-8,67206,o.html",
+			"homepage": "https://www.facebook.com/BistrolaRosa/"
+		}, {
+			"odcinek": 7,
+			"nazwa": "Restauracja Prawdziwa Knajpka",
+			"stara-nazwa": "Domowy zakątek",
+			"adres": "Powstańców Wielkopolskich 38, 64-310 Lwówek",
+			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,14/odcinek-7,67172,o.html",
+			"homepage": "http://prawdziwaknajpka.pl"
+		}, {
+			"odcinek": 5,
+			"nazwa": "Cynamon",
+			"adres": "Skrzynka 3a, 09-100 Płońsk",
+			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,14/odcinek-5,66627,o.html"
+		}, {
+			"odcinek": 4,
+			"nazwa": "Karczma Dzika Chata",
+			"stara-nazwa": "Karczma Styrnol",
+			"adres": "Zawoja 2035, 34-223 Zawoja",
+			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,14/odcinek-4,66499,o.html",
+			"homepage": "http://dzikachata.com"
+		}, {
+			"odcinek": 3,
+			"nazwa": "Montenegro",
+			"adres": "Wólczańska 51, 90-608 Łódź",
+			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,14/odcinek-3,66342,o.html",
+			"homepage": "http://montenegro.lodz.pl"
+		}, {
+			"odcinek": 2,
+			"nazwa": "Szalotka",
+			"adres": "Leśna 2, 59-900 Łagów",
+			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,14/odcinek-2,66178,o.html"
+		}, {
+			"odcinek": 1,
+			"nazwa": "Nie bo Mleczne",
+			"stara-nazwa": "Piekielna Kuchnia",
+			"adres": "Świętej Jadwigi 6, 58-300 Wałbrzych",
+			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,14/odcinek-1,65953,o.html",
+			"homepage": "http://piekielna-kuchnia.blogspot.com"
 		}
 	]
 }

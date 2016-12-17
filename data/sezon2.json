@@ -1,0 +1,59 @@
+{
+	"odcinki": [{
+			"odcinek": 3,
+			"nazwa": "Cinamon",
+			"adres": "Odrzańska 2A, Racibórz",
+			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,2/odcinek-3-sezon-2,10273,o.html",
+			"zamkniete": true
+		}, {
+			"odcinek": 4,
+			"stara-nazwa": "Incognito Club",
+			"nazwa": "Restauracja Weranda",
+			"adres": "Kilińskiego 6, 05-320 Mrozy",
+			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,2/odcinek-4-sezon-2,10274,o.html",
+			"homepage": "werandamrozy.pl"
+		}, {
+			"odcinek": 5,
+			"nazwa": "Wook and roll",
+			"adres": "Freta 18, 00-227 Warszawa",
+			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,2/odcinek-5-sezon-2,10275,o.html",
+			"zamkniete": true
+		}, {
+			"odcinek": 8,
+			"nazwa": "Broniszówka",
+			"adres": "Przyparkowa 13, 05-850 Bronisze",
+			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,2/odcinek-8-sezon-2,10276,o.html",
+			"zamkniete": true
+		}, {
+			"odcinek": 9,
+			"nazwa": "Restauracja Zamkowa",
+			"adres": "Niedziałkowskiego 17, 78-300 Świdwin",
+			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,2/odcinek-9-sezon-2,10277,o.html",
+			"homepage": "http://www.restauracja-zamkowa.pl/"
+		}, {
+			"odcinek": 10,
+			"nazwa": "Paroles",
+			"adres": "plac Wolnica 4, 30-001 Kraków",
+			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,2/odcinek-10-sezon-2,10278,o.html",
+			"zamkniete": true
+		}, {
+			"odcinek": 12,
+			"nazwa": "Czarcia Łapa",
+			"adres": "Rynek 19, 20-111 Lublin",
+			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,2/odcinek-12-sezon-2,10279,o.html",
+			"homepage": "http://czarcia.pl/"
+		}, {
+			"odcinek": 13,
+			"nazwa": "Tabun",
+			"adres": "Konna 29, 80-174 Otomin",
+			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,2/odcinek-13-sezon-2,10280,o.html",
+			"homepage": "http://restauracjatabun.kuznia.net/"
+		}, {
+			"odcinek": 14,
+			"nazwa": "Tawerna Dominikańska",
+			"adres": "Targ Rybny 9, 80-001 Gdańsk",
+			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,2/odcinek-14-sezon-2,10281,o.html",
+			"homepage": "http://tawernadominikanska.pl"
+		}
+	]
+}
