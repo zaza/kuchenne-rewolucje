@@ -23,13 +23,14 @@
     <script>
       var map;
       function initMap() {
+        var warsaw = {lat: 52.15, lng: 21.00};
         map = new google.maps.Map(document.getElementById('map'), {
-          center: {lat: -34.397, lng: 150.644},
-          zoom: 8
+          center: {lat: 52, lng: 20},
+          zoom: 7
         });
+        map.data.loadGeoJson('data.geojson');
       }
     </script>
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBK2NmAIJsuNGPly3weCkJ8T94trHWsrVs&callback=initMap&language=pl&region=PL"
-    async defer></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBK2NmAIJsuNGPly3weCkJ8T94trHWsrVs&callback=initMap&language=pl&region=PL" async defer></script>
   </body>
 </html>
