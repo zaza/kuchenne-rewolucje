@@ -1,0 +1,27 @@
+{
+	"odcinki": [{
+			"odcinek":15,
+			"nazwa":"Karczma Zamczyko",
+			"adres":"Kałdowo Wieś 10, 82-200 Malbork",
+			"url":"http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-15,malbork-karczma-zamczysko,S14E15,65006.html"
+		},
+		{
+			"odcinek":14,
+			"nazwa":"Cykada",
+			"adres":"Chlastawa 18A, 66-210 Zbąszynek",
+			"url":"http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-14,chlastawa-karczma-cykada,S14E14,65005.html"
+		},
+		{
+			"odcinek":13,
+			"nazwa":"Chata po zbóju",
+			"adres":"Wiślańska 16, 43-246 Bąków",
+			"url":"http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-13,bakow-chata-po-zboju,S14E13,65004.html"
+		},
+		{
+			"odcinek":12,
+			"nazwa":"Trzy smaki",
+			"adres":"Wiejska 40, 41-253 Czeladź",
+			"url":"http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-12,czeladz-trzy-smaki,S14E12,65003.html"
+		}
+	]
+}

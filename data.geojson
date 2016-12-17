@@ -1,10 +1,54 @@
 {
-	"type": "Feature",
-	"geometry": {
-		"type": "Point",
-		"coordinates": [21, 52]
-	},
-	"properties": {
-		"name": "Warszawa"
-	}
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "properties" : {
+      "nazwa" : "Dziki Młyn",
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,1/odcinek-1-sezon-1,10265,o.html"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.952693, 52.2432139 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "nazwa" : "Karczma Zamczyko",
+      "url" : "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-15,malbork-karczma-zamczysko,S14E15,65006.html"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.0221284, 54.049321 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "nazwa" : "Chata po zbóju",
+      "url" : "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-13,bakow-chata-po-zboju,S14E13,65004.html"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 18.737486, 49.9040279 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "nazwa" : "Trzy smaki",
+      "url" : "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-12,czeladz-trzy-smaki,S14E12,65003.html"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.1036499, 50.309529 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "nazwa" : "Folklor",
+      "url" : "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-1,S07E01,17913.html"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.8033, 53.415414 ]
+    }
+  } ]
 }
