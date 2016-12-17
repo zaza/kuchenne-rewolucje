@@ -33,36 +33,6 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "nazwa" : "Impuls",
-      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,1/odcinek-4-sezon-1,10268,o.html"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 19.3951001, 51.7379932 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "nazwa" : "Artemis",
-      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,1/odcinek-5-sezon-1,10269,o.html"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 16.9342939, 52.40967 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "nazwa" : "Pod Arsenałem",
-      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,1/odcinek-6-sezon-1,10270,o.html"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 18.606851, 53.01283 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
       "nazwa" : "Restauracja U Zosi",
       "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,1/odcinek-7-sezon-1,10271,o.html"
     },
@@ -213,16 +183,6 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "nazwa" : "Cinamon",
-      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,2/odcinek-3-sezon-2,10273,o.html"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 18.219383, 50.092859 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
       "nazwa" : "Restauracja Weranda",
       "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,2/odcinek-4-sezon-2,10274,o.html"
     },
@@ -233,42 +193,12 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "nazwa" : "Wook and roll",
-      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,2/odcinek-5-sezon-2,10275,o.html"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 21.0080413, 52.2518349 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "nazwa" : "Broniszówka",
-      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,2/odcinek-8-sezon-2,10276,o.html"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 20.842529, 52.211397 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
       "nazwa" : "Restauracja Zamkowa",
       "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,2/odcinek-9-sezon-2,10277,o.html"
     },
     "geometry" : {
       "type" : "Point",
       "coordinates" : [ 15.76869, 53.772472 ]
-    }
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "nazwa" : "Paroles",
-      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,2/odcinek-10-sezon-2,10278,o.html"
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 19.9438896, 50.0491501 ]
     }
   }, {
     "type" : "Feature",

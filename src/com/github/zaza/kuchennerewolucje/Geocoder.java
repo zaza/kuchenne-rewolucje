@@ -37,11 +37,16 @@ public class Geocoder {
 		FeatureCollection featureCollection = new FeatureCollection();
 		for (Path season : seasons) {
 			readEpisodes(season.toFile()).stream() //
+					.filter(e -> isOpen(e)) //
 					.map(e -> convertToFeature(e)) //
 					.filter(f -> f.isPresent()) //
 					.forEach(f -> featureCollection.add(f.get()));
 		}
 		createObjectWriter().writeValue(new File("data.geojson"), featureCollection);
+	}
+
+	private static boolean isOpen(Map<String, Object> episode) {
+		return episode.get("zamkniete") == null || !((Boolean)episode.get("zamkniete"));
 	}
 
 	private static ObjectWriter createObjectWriter() {
