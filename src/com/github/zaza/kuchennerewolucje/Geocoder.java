@@ -4,12 +4,14 @@ import static java.lang.String.format;
 
 import java.io.File;
 import java.io.IOException;
-import java.util.Collection;
+import java.nio.file.DirectoryStream;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
 import java.util.List;
 import java.util.Map;
 import java.util.Optional;
 
-import org.apache.commons.io.FileUtils;
 import org.geojson.Feature;
 import org.geojson.FeatureCollection;
 import org.geojson.Point;
@@ -30,10 +32,10 @@ public class Geocoder {
 	};
 
 	public static void main(String[] args) throws Exception {
-		Collection<File> seasons = listSeasons();
+		DirectoryStream<Path> seasons = listSeasons();
 		FeatureCollection featureCollection = new FeatureCollection();
-		for (File season : seasons) {
-			List<Map<String, Object>> episodes = readEpisodes(season);
+		for (Path season : seasons) {
+			List<Map<String, Object>> episodes = readEpisodes(season.toFile());
 			for (Map<String, Object> episode : episodes) {
 				Optional<Feature> feature = convertToFeature(episode);
 				if (feature.isPresent())
@@ -69,12 +71,11 @@ public class Geocoder {
 		return (List<Map<String, Object>>) sezon.get("odcinki");
 	}
 
-	@SuppressWarnings("unchecked")
-	private static Collection<File> listSeasons() {
-		return FileUtils.listFiles(new File("data"), new String[]{"json"}, false);
+	private static DirectoryStream<Path> listSeasons() throws IOException {
+		return Files.newDirectoryStream(new File("data").toPath(), "sezon*.json");
 	}
 
 	private static GeoApiContext createContext() throws IOException {
-		return new GeoApiContext().setApiKey(FileUtils.readFileToString(new File("api-key"), "UTF-8"));
+		return new GeoApiContext().setApiKey(new String(Files.readAllBytes(Paths.get("api-key")), "UTF-8"));
 	}
 }
