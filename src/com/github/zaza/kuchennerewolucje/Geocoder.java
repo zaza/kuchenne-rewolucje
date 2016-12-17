@@ -16,9 +16,7 @@ import org.geojson.Feature;
 import org.geojson.FeatureCollection;
 import org.geojson.Point;
 
-import com.fasterxml.jackson.core.JsonParseException;
 import com.fasterxml.jackson.core.type.TypeReference;
-import com.fasterxml.jackson.databind.JsonMappingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.ObjectWriter;
 import com.fasterxml.jackson.databind.SerializationFeature;
@@ -31,48 +29,65 @@ public class Geocoder {
 	private static final TypeReference<Map<String, Object>> MAP_TYPE = new TypeReference<Map<String, Object>>() {
 	};
 
+	private static GeoApiContext CONTEXT;
+
 	public static void main(String[] args) throws Exception {
+		CONTEXT = createContext();
 		DirectoryStream<Path> seasons = listSeasons();
 		FeatureCollection featureCollection = new FeatureCollection();
 		for (Path season : seasons) {
-			List<Map<String, Object>> episodes = readEpisodes(season.toFile());
-			for (Map<String, Object> episode : episodes) {
-				Optional<Feature> feature = convertToFeature(episode);
-				if (feature.isPresent())
-					featureCollection.add(feature.get());
-			}
+			readEpisodes(season.toFile()).stream() //
+					.map(e -> convertToFeature(e)) //
+					.filter(f -> f.isPresent()) //
+					.forEach(f -> featureCollection.add(f.get()));
 		}
-		ObjectWriter writer = new ObjectMapper().writer().with(SerializationFeature.INDENT_OUTPUT)
-				.without(SerializationFeature.WRITE_NULL_MAP_VALUES);
-		writer.writeValue(new File("data.geojson"), featureCollection);
+		createObjectWriter().writeValue(new File("data.geojson"), featureCollection);
 	}
 
-	private static Optional<Feature> convertToFeature(Map<String, Object> episode) throws Exception {
-		GeoApiContext context = createContext();
-		String adres = (String) episode.get("adres");
-		GeocodingResult[] results = GeocodingApi.geocode(context, adres).await();
-		if (results.length < 1) {
-			System.err.println(format("Nothing found for '%s'", adres));
+	private static ObjectWriter createObjectWriter() {
+		return new ObjectMapper().writer().with(SerializationFeature.INDENT_OUTPUT)
+				.without(SerializationFeature.WRITE_NULL_MAP_VALUES);
+	}
+
+	private static Optional<Feature> convertToFeature(Map<String, Object> episode) {
+		String address = (String) episode.get("adres");
+		Optional<GeocodingResult> result = geocode(address);
+		if (!result.isPresent())
 			return Optional.empty();
-		}
 		Feature feature = new Feature();
-		Point point = new Point(results[0].geometry.location.lng, results[0].geometry.location.lat);
+		Point point = new Point(result.get().geometry.location.lng, result.get().geometry.location.lat);
 		feature.setGeometry(point);
 		feature.getProperties().put("nazwa", episode.get("nazwa"));
 		feature.getProperties().put("url", episode.get("url"));
 		return Optional.of(feature);
 	}
 
+	private static Optional<GeocodingResult> geocode(String address) {
+		try {
+			GeocodingResult[] results = GeocodingApi.geocode(CONTEXT, address).await();
+			if (results.length < 1) {
+				System.out.println(format("No geocode results found for '%s'", address));
+				return Optional.empty();
+			}
+			if (results.length > 1) {
+				System.out.println(format("Found multiple geocode results for '%s'.", address));
+			}
+			return Optional.of(results[0]);
+		} catch (Exception e) {
+			System.err.println(format("Error occured retrieving coordinates for '%s': %s", address, e.getMessage()));
+			return Optional.empty();
+		}
+	}
+
 	@SuppressWarnings("unchecked")
-	private static List<Map<String, Object>> readEpisodes(File season)
-			throws JsonParseException, JsonMappingException, IOException {
+	private static List<Map<String, Object>> readEpisodes(File season) throws IOException {
 		ObjectMapper mapper = new ObjectMapper();
 		Map<String, Object> sezon = (Map<String, Object>) mapper.readValue(season, MAP_TYPE);
 		return (List<Map<String, Object>>) sezon.get("odcinki");
 	}
 
 	private static DirectoryStream<Path> listSeasons() throws IOException {
-		return Files.newDirectoryStream(new File("data").toPath(), "sezon*.json");
+		return Files.newDirectoryStream(Paths.get("data"), "sezon*.json");
 	}
 
 	private static GeoApiContext createContext() throws IOException {
