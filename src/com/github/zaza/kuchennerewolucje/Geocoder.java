@@ -1,4 +1,4 @@
-package com.github.zaza.kuchnnerewolucje;
+package com.github.zaza.kuchennerewolucje;
 
 import static java.lang.String.format;
 
