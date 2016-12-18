@@ -22,34 +22,34 @@
 		}, {
 			"odcinek": 11,
 			"nazwa": "Twoja Kolejka",
-			"stara-nazwa": "Garnuszek",
+			"dawniej": "Garnuszek",
 			"adres": "Królowej Jadwigi 2, 34-325 Łodygowice",
 			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,14/odcinek-11,67742,o.html"
 		}, {
 			"odcinek": 10,
 			"nazwa": "Gęś na Jaśku",
-			"stara-nazwa": "Stacja Kościelniki",
+			"dawniej": "Stacja Kościelniki",
 			"adres": "Kościelniki Górne, 59-820 Leśna",
 			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,14/odcinek-10,67485,o.html",
 			"homepage": "http://gesnajasku.pl"
 		}, {
 			"odcinek": 9,
 			"nazwa": "Przystanek Wrocek",
-			"stara-nazwa": "Bar na Szybkiej",
+			"dawniej": "Bar na Szybkiej",
 			"adres": "Szybka 6/10, 50-421 Wrocław",
 			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,14/odcinek-9,67314,o.html",
 			"homepage": "http://askonkret.pl"
 		}, {
 			"odcinek": 8,
 			"nazwa": "Bistro La Rosa",
-			"stara-nazwa": "Bistro Oliwka",
+			"dawniej": "Bistro Oliwka",
 			"adres": "Pawilońska 61, 90-001 Łódź",
 			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,14/odcinek-8,67206,o.html",
 			"homepage": "https://www.facebook.com/BistrolaRosa/"
 		}, {
 			"odcinek": 7,
 			"nazwa": "Restauracja Prawdziwa Knajpka",
-			"stara-nazwa": "Domowy zakątek",
+			"dawniej": "Domowy zakątek",
 			"adres": "Powstańców Wielkopolskich 38, 64-310 Lwówek",
 			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,14/odcinek-7,67172,o.html",
 			"homepage": "http://prawdziwaknajpka.pl"
@@ -61,7 +61,7 @@
 		}, {
 			"odcinek": 4,
 			"nazwa": "Karczma Dzika Chata",
-			"stara-nazwa": "Karczma Styrnol",
+			"dawniej": "Karczma Styrnol",
 			"adres": "Zawoja 2035, 34-223 Zawoja",
 			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,14/odcinek-4,66499,o.html",
 			"homepage": "http://dzikachata.com"
@@ -79,7 +79,7 @@
 		}, {
 			"odcinek": 1,
 			"nazwa": "Nie bo Mleczne",
-			"stara-nazwa": "Piekielna Kuchnia",
+			"dawniej": "Piekielna Kuchnia",
 			"adres": "Świętej Jadwigi 6, 58-300 Wałbrzych",
 			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,14/odcinek-1,65953,o.html",
 			"homepage": "http://piekielna-kuchnia.blogspot.com"

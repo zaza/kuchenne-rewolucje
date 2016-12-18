@@ -59,6 +59,138 @@
     "type" : "Feature",
     "properties" : {
       "marker-symbol" : "restaurant",
+      "name" : "PHÚC PHÚ",
+      "url" : "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-14,lubartow-ognisty-smok,S13E14,60229.html"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.6104911, 51.4539245 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "marker-symbol" : "restaurant",
+      "name" : "Papalina",
+      "url" : "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-13,warszawa-papalina,S13E13,60228.html"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 21.0499369, 52.1462603 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "marker-symbol" : "restaurant",
+      "name" : "Oberża Żar",
+      "url" : "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-11,dabrowa-gornicza-juran,S13E11,60226.html"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.2120068, 50.3172968 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "marker-symbol" : "restaurant",
+      "name" : "Pod Gołąbkiem",
+      "url" : "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-10,rzeszow-pablo-picasso,S13E10,60225.html"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.0080487, 50.0417542 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "marker-symbol" : "restaurant",
+      "name" : "Karczma Sidło",
+      "url" : "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-9,zukowo-karczma-sidlo,S13E09,60224.html"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 18.35275, 54.340789 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "marker-symbol" : "restaurant",
+      "name" : "Restauracja Zapiekane",
+      "url" : "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-8,brzeziny-pizzeria-kwadrans,S13E08,60223.html"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.7555549, 51.803318 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "marker-symbol" : "restaurant",
+      "name" : "Grande Cozze",
+      "url" : "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-7,warszawa-salon-kulinarny,S13E07,60222.html"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.621517, 50.869789 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "marker-symbol" : "restaurant",
+      "name" : "Zawijane Bistro",
+      "url" : "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-5,pruszcz-gdanski-kaskada-smaku,S13E05,58829.html"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 18.626471, 54.269137 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "marker-symbol" : "restaurant",
+      "name" : "Zawijane Bistro",
+      "url" : "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-4,komorow-karczma-u-wiencka,S13E04,58828.html"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.8111203, 52.1492578 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "marker-symbol" : "restaurant",
+      "name" : "Aramia",
+      "url" : "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-3,szczecin-aramia,S13E03,58827.html"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.488187, 53.453232 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "marker-symbol" : "restaurant",
+      "name" : "Zwyczajna",
+      "url" : "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-2,minsk-mazowiecki-mazowianka,S13E02,58752.html"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 21.5617685, 52.1778752 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "marker-symbol" : "restaurant",
+      "name" : "Garden Bar",
+      "url" : "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-1,knyszyn-bar-u-marka,S13E01,58751.html"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.9124354, 53.3163505 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "marker-symbol" : "restaurant",
       "name" : "Karczma Zamczyko",
       "url" : "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-15,malbork-karczma-zamczysko,S14E15,65006.html"
     },
