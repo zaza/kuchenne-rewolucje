@@ -36,6 +36,9 @@
           infowindow.setOptions({pixelOffset: new google.maps.Size(0,-30)});
           infowindow.open(map);
         });
+        map.data.setStyle(function(feature) {
+          return {icon:feature.getProperty('icon')};
+        });
         map.data.loadGeoJson('data.geojson');
       }
     </script>

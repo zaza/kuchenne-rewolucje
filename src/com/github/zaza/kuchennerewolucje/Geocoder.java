@@ -26,6 +26,9 @@ import com.google.maps.model.GeocodingResult;
 
 public class Geocoder {
 
+	private static final String MARKER_RED = "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png";
+	private static final String MARKER_PURPLE = "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_purple.png";
+
 	private static final TypeReference<Map<String, Object>> MAP_TYPE = new TypeReference<Map<String, Object>>() {
 	};
 
@@ -37,7 +40,6 @@ public class Geocoder {
 		FeatureCollection featureCollection = new FeatureCollection();
 		for (Path season : seasons) {
 			readEpisodes(season.toFile()).stream() //
-					.filter(e -> isOpen(e)) //
 					.map(e -> convertToFeature(e)) //
 					.filter(f -> f.isPresent()) //
 					.forEach(f -> featureCollection.add(f.get()));
@@ -46,7 +48,7 @@ public class Geocoder {
 	}
 
 	private static boolean isOpen(Map<String, Object> episode) {
-		return episode.get("zamkniete") == null || !((Boolean)episode.get("zamkniete"));
+		return episode.get("zamkniete") == null || !((Boolean) episode.get("zamkniete"));
 	}
 
 	private static ObjectWriter createObjectWriter() {
@@ -65,7 +67,12 @@ public class Geocoder {
 		feature.getProperties().put("name", episode.get("nazwa"));
 		feature.getProperties().put("url", episode.get("url"));
 		feature.getProperties().put("marker-symbol", "restaurant");
+		feature.getProperties().put("icon", getIcon(episode));
 		return Optional.of(feature);
+	}
+
+	private static String getIcon(Map<String, Object> episode) {
+		return isOpen(episode) ? MARKER_RED : MARKER_PURPLE;
 	}
 
 	private static Optional<GeocodingResult> geocode(String address) {
