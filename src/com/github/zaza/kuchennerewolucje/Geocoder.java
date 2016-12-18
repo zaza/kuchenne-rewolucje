@@ -62,8 +62,8 @@ public class Geocoder {
 		Feature feature = new Feature();
 		Point point = new Point(result.get().geometry.location.lng, result.get().geometry.location.lat);
 		feature.setGeometry(point);
-		feature.getProperties().put("title", episode.get("nazwa"));
-		feature.getProperties().put("description", episode.get("url"));
+		feature.getProperties().put("name", episode.get("nazwa"));
+		feature.getProperties().put("url", episode.get("url"));
 		feature.getProperties().put("marker-symbol", "restaurant");
 		return Optional.of(feature);
 	}

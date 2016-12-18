@@ -4,8 +4,8 @@
     "type" : "Feature",
     "properties" : {
       "marker-symbol" : "restaurant",
-      "description" : "http://kuchennerewolucje.tvn.pl/odcinki-online,1/odcinek-1-sezon-1,10265,o.html",
-      "title" : "Dziki Młyn"
+      "name" : "Dziki Młyn",
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,1/odcinek-1-sezon-1,10265,o.html"
     },
     "geometry" : {
       "type" : "Point",
@@ -15,8 +15,8 @@
     "type" : "Feature",
     "properties" : {
       "marker-symbol" : "restaurant",
-      "description" : "http://kuchennerewolucje.tvn.pl/odcinki-online,1/odcinek-2-sezon-1,10266,o.html",
-      "title" : "Panorama"
+      "name" : "Panorama",
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,1/odcinek-2-sezon-1,10266,o.html"
     },
     "geometry" : {
       "type" : "Point",
@@ -26,8 +26,8 @@
     "type" : "Feature",
     "properties" : {
       "marker-symbol" : "restaurant",
-      "description" : "http://kuchennerewolucje.tvn.pl/odcinki-online,1/odcinek-3-sezon-1,10267,o.html",
-      "title" : "Gościniec Franc Josef"
+      "name" : "Gościniec Franc Josef",
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,1/odcinek-3-sezon-1,10267,o.html"
     },
     "geometry" : {
       "type" : "Point",
@@ -37,8 +37,8 @@
     "type" : "Feature",
     "properties" : {
       "marker-symbol" : "restaurant",
-      "description" : "http://kuchennerewolucje.tvn.pl/odcinki-online,1/odcinek-7-sezon-1,10271,o.html",
-      "title" : "Restauracja U Zosi"
+      "name" : "Restauracja U Zosi",
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,1/odcinek-7-sezon-1,10271,o.html"
     },
     "geometry" : {
       "type" : "Point",
@@ -48,8 +48,8 @@
     "type" : "Feature",
     "properties" : {
       "marker-symbol" : "restaurant",
-      "description" : "http://kuchennerewolucje.tvn.pl/odcinki-online,1/odcinek-8-sezon-1,10272,o.html",
-      "title" : "Grande Azzurro"
+      "name" : "Grande Azzurro",
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,1/odcinek-8-sezon-1,10272,o.html"
     },
     "geometry" : {
       "type" : "Point",
@@ -59,8 +59,8 @@
     "type" : "Feature",
     "properties" : {
       "marker-symbol" : "restaurant",
-      "description" : "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-15,malbork-karczma-zamczysko,S14E15,65006.html",
-      "title" : "Karczma Zamczyko"
+      "name" : "Karczma Zamczyko",
+      "url" : "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-15,malbork-karczma-zamczysko,S14E15,65006.html"
     },
     "geometry" : {
       "type" : "Point",
@@ -70,8 +70,8 @@
     "type" : "Feature",
     "properties" : {
       "marker-symbol" : "restaurant",
-      "description" : "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-13,bakow-chata-po-zboju,S14E13,65004.html",
-      "title" : "Chata po zbóju"
+      "name" : "Chata po zbóju",
+      "url" : "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-13,bakow-chata-po-zboju,S14E13,65004.html"
     },
     "geometry" : {
       "type" : "Point",
@@ -81,8 +81,8 @@
     "type" : "Feature",
     "properties" : {
       "marker-symbol" : "restaurant",
-      "description" : "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-12,czeladz-trzy-smaki,S14E12,65003.html",
-      "title" : "Trzy smaki"
+      "name" : "Trzy smaki",
+      "url" : "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-12,czeladz-trzy-smaki,S14E12,65003.html"
     },
     "geometry" : {
       "type" : "Point",
@@ -92,8 +92,8 @@
     "type" : "Feature",
     "properties" : {
       "marker-symbol" : "restaurant",
-      "description" : "http://kuchennerewolucje.tvn.pl/odcinki-online,14/odcinek-11,67742,o.html",
-      "title" : "Twoja Kolejka"
+      "name" : "Twoja Kolejka",
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,14/odcinek-11,67742,o.html"
     },
     "geometry" : {
       "type" : "Point",
@@ -103,8 +103,8 @@
     "type" : "Feature",
     "properties" : {
       "marker-symbol" : "restaurant",
-      "description" : "http://kuchennerewolucje.tvn.pl/odcinki-online,14/odcinek-10,67485,o.html",
-      "title" : "Gęś na Jaśku"
+      "name" : "Gęś na Jaśku",
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,14/odcinek-10,67485,o.html"
     },
     "geometry" : {
       "type" : "Point",
@@ -114,8 +114,8 @@
     "type" : "Feature",
     "properties" : {
       "marker-symbol" : "restaurant",
-      "description" : "http://kuchennerewolucje.tvn.pl/odcinki-online,14/odcinek-9,67314,o.html",
-      "title" : "Przystanek Wrocek"
+      "name" : "Przystanek Wrocek",
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,14/odcinek-9,67314,o.html"
     },
     "geometry" : {
       "type" : "Point",
@@ -125,8 +125,8 @@
     "type" : "Feature",
     "properties" : {
       "marker-symbol" : "restaurant",
-      "description" : "http://kuchennerewolucje.tvn.pl/odcinki-online,14/odcinek-8,67206,o.html",
-      "title" : "Bistro La Rosa"
+      "name" : "Bistro La Rosa",
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,14/odcinek-8,67206,o.html"
     },
     "geometry" : {
       "type" : "Point",
@@ -136,8 +136,8 @@
     "type" : "Feature",
     "properties" : {
       "marker-symbol" : "restaurant",
-      "description" : "http://kuchennerewolucje.tvn.pl/odcinki-online,14/odcinek-7,67172,o.html",
-      "title" : "Restauracja Prawdziwa Knajpka"
+      "name" : "Restauracja Prawdziwa Knajpka",
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,14/odcinek-7,67172,o.html"
     },
     "geometry" : {
       "type" : "Point",
@@ -147,8 +147,8 @@
     "type" : "Feature",
     "properties" : {
       "marker-symbol" : "restaurant",
-      "description" : "http://kuchennerewolucje.tvn.pl/odcinki-online,14/odcinek-5,66627,o.html",
-      "title" : "Cynamon"
+      "name" : "Cynamon",
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,14/odcinek-5,66627,o.html"
     },
     "geometry" : {
       "type" : "Point",
@@ -158,8 +158,8 @@
     "type" : "Feature",
     "properties" : {
       "marker-symbol" : "restaurant",
-      "description" : "http://kuchennerewolucje.tvn.pl/odcinki-online,14/odcinek-4,66499,o.html",
-      "title" : "Karczma Dzika Chata"
+      "name" : "Karczma Dzika Chata",
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,14/odcinek-4,66499,o.html"
     },
     "geometry" : {
       "type" : "Point",
@@ -169,8 +169,8 @@
     "type" : "Feature",
     "properties" : {
       "marker-symbol" : "restaurant",
-      "description" : "http://kuchennerewolucje.tvn.pl/odcinki-online,14/odcinek-3,66342,o.html",
-      "title" : "Montenegro"
+      "name" : "Montenegro",
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,14/odcinek-3,66342,o.html"
     },
     "geometry" : {
       "type" : "Point",
@@ -180,8 +180,8 @@
     "type" : "Feature",
     "properties" : {
       "marker-symbol" : "restaurant",
-      "description" : "http://kuchennerewolucje.tvn.pl/odcinki-online,14/odcinek-2,66178,o.html",
-      "title" : "Szalotka"
+      "name" : "Szalotka",
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,14/odcinek-2,66178,o.html"
     },
     "geometry" : {
       "type" : "Point",
@@ -191,8 +191,8 @@
     "type" : "Feature",
     "properties" : {
       "marker-symbol" : "restaurant",
-      "description" : "http://kuchennerewolucje.tvn.pl/odcinki-online,14/odcinek-1,65953,o.html",
-      "title" : "Nie bo Mleczne"
+      "name" : "Nie bo Mleczne",
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,14/odcinek-1,65953,o.html"
     },
     "geometry" : {
       "type" : "Point",
@@ -202,8 +202,8 @@
     "type" : "Feature",
     "properties" : {
       "marker-symbol" : "restaurant",
-      "description" : "http://kuchennerewolucje.tvn.pl/odcinki-online,2/odcinek-4-sezon-2,10274,o.html",
-      "title" : "Restauracja Weranda"
+      "name" : "Restauracja Weranda",
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,2/odcinek-4-sezon-2,10274,o.html"
     },
     "geometry" : {
       "type" : "Point",
@@ -213,8 +213,8 @@
     "type" : "Feature",
     "properties" : {
       "marker-symbol" : "restaurant",
-      "description" : "http://kuchennerewolucje.tvn.pl/odcinki-online,2/odcinek-9-sezon-2,10277,o.html",
-      "title" : "Restauracja Zamkowa"
+      "name" : "Restauracja Zamkowa",
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,2/odcinek-9-sezon-2,10277,o.html"
     },
     "geometry" : {
       "type" : "Point",
@@ -224,8 +224,8 @@
     "type" : "Feature",
     "properties" : {
       "marker-symbol" : "restaurant",
-      "description" : "http://kuchennerewolucje.tvn.pl/odcinki-online,2/odcinek-12-sezon-2,10279,o.html",
-      "title" : "Czarcia Łapa"
+      "name" : "Czarcia Łapa",
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,2/odcinek-12-sezon-2,10279,o.html"
     },
     "geometry" : {
       "type" : "Point",
@@ -235,8 +235,8 @@
     "type" : "Feature",
     "properties" : {
       "marker-symbol" : "restaurant",
-      "description" : "http://kuchennerewolucje.tvn.pl/odcinki-online,2/odcinek-14-sezon-2,10281,o.html",
-      "title" : "Tawerna Dominikańska"
+      "name" : "Tawerna Dominikańska",
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,2/odcinek-14-sezon-2,10281,o.html"
     },
     "geometry" : {
       "type" : "Point",
@@ -246,8 +246,8 @@
     "type" : "Feature",
     "properties" : {
       "marker-symbol" : "restaurant",
-      "description" : "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-1,S07E01,17913.html",
-      "title" : "Folklor"
+      "name" : "Folklor",
+      "url" : "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-1,S07E01,17913.html"
     },
     "geometry" : {
       "type" : "Point",
