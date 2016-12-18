@@ -1,0 +1,35 @@
+{
+	"odcinki": [{
+			"odcinek": 11,
+			"nazwa": "Cechowowy Bar",
+			"dawniej": "Cechowa",
+			"adres": "Cechowa 11, 77-400 Złotów",
+			"url": "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-11,S10E11,34595.html",
+			"homepage": "https://www.facebook.com/cechowybar"
+		}, {
+			"odcinek": 8,
+			"nazwa": "Francja Elegancja",
+			"dawniej": "Szachownica",
+			"adres": "Wroniecka 18, 61-763 Poznań",
+			"url": "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-8,S10E08,33897.html"
+		}, {
+			"odcinek": 6,
+			"nazwa": "Pod Cielakiem",
+			"dawniej": "El Mundo",
+			"adres": "Dmowskiego 15, 80-243 Gdańsk",
+			"url": "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-6,S10E06,33152.html"
+		}, {
+			"odcinek": 4,
+			"nazwa": "Przystanek Łosoś",
+			"dawniej": "Jurand",
+			"adres": "Egiertowo 77, 83-312 Egiertowo",
+			"url": "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-4,S10E04,33150.html",
+			"homepage": "http://przystanek-losos.pl/restauracja.html"
+		}, {
+			"odcinek": 1,
+			"nazwa": "Gościniec Myśliwski",
+			"adres": "Jaśkowa Dolina 114, 80-286 Gdańsk",
+			"url": "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-1,S10E01,32135.html"
+		}
+	]
+}

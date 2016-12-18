@@ -100,6 +100,186 @@
     "type" : "Feature",
     "properties" : {
       "marker-symbol" : "restaurant",
+      "name" : "Cechowowy Bar",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "url" : "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-11,S10E11,34595.html"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 17.038235, 53.362697 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "marker-symbol" : "restaurant",
+      "name" : "Francja Elegancja",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "url" : "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-8,S10E08,33897.html"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.9340874, 52.4099458 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "marker-symbol" : "restaurant",
+      "name" : "Pod Cielakiem",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "url" : "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-6,S10E06,33152.html"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 18.6072114, 54.3792483 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "marker-symbol" : "restaurant",
+      "name" : "Gościniec Myśliwski",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "url" : "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-1,S10E01,32135.html"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 18.589819, 54.365514 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "marker-symbol" : "restaurant",
+      "name" : "Sielawka",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "url" : "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-8,S11E08,50131.html"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 18.2955039, 54.319854 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "marker-symbol" : "restaurant",
+      "name" : "Restauracja Młyn",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "url" : "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-6,S11E06,38120.html"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 17.4887416, 54.1642821 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "marker-symbol" : "restaurant",
+      "name" : "Kolorowe Gary",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "url" : "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-15,rabien-el-fuego,S12E15,57230.html"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.3203539, 51.7894862 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "marker-symbol" : "restaurant",
+      "name" : "El Toro",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "url" : "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-14,lodz-el-toro,S12E14,53192.html"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.4753097, 51.7720975 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "marker-symbol" : "restaurant",
+      "name" : "Gospoda",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "url" : "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-12,gubin-gospoda,S12E12,53190.html"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.7421257, 51.9518382 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "marker-symbol" : "restaurant",
+      "name" : "Nowy Relax",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "url" : "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-11,bielsko-biala-relax,S12E11,53189.html"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.0341565, 49.8182514 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "marker-symbol" : "restaurant",
+      "name" : "Chrup Chrup Kartofel",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "url" : "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-10,jelcz-laskowice-boczek-i-spolka,S12E10,53188.html"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 17.3502771, 51.0397122 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "marker-symbol" : "restaurant",
+      "name" : "Sowa Nasza Kasza",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_purple.png",
+      "url" : "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-8,sanok-berhida,S12E08,53186.html"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.2027888, 49.5597217 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "marker-symbol" : "restaurant",
+      "name" : "Krochmal",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "url" : "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-7,piotrkow-trybunalski-u-dunina,S12E07,53185.html"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.6957346, 51.4080454 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "marker-symbol" : "restaurant",
+      "name" : "Gusto",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "url" : "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-6,piaseczno-gusto,S12E06,53184.html"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 21.0234077, 52.0994542 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "marker-symbol" : "restaurant",
+      "name" : "Owce i róża",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "url" : "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-5,brenna-karczma-gorecka,S12E05,53183.html"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 18.7949549, 49.802575 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "marker-symbol" : "restaurant",
       "name" : "PHÚC PHÚ",
       "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
       "url" : "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-14,lubartow-ognisty-smok,S13E14,60229.html"
@@ -515,6 +695,30 @@
     "geometry" : {
       "type" : "Point",
       "coordinates" : [ 16.8033, 53.415414 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "marker-symbol" : "restaurant",
+      "name" : "Bistro Jajo",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "url" : "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-11,S09E11,29706.html"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 15.971809, 54.008947 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "marker-symbol" : "restaurant",
+      "name" : "Pad Thai",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "url" : "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-2,S09E02,27680.html"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.9183601, 52.4411068 ]
     }
   } ]
 }

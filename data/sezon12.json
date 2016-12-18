@@ -1,0 +1,72 @@
+{
+	"odcinki": [{
+			"odcinek": 15,
+			"nazwa": "Kolorowe Gary",
+			"dawniej": "El Fuego",
+			"adres": "Pańska 4, 95-070 Rąbień",
+			"url": "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-15,rabien-el-fuego,S12E15,57230.html",
+			"homepage": "http://www.kolorowegary.pl/"
+		}, {
+			"odcinek": 14,
+			"nazwa": "El Toro",
+			"adres": "Narutowicza 69, 90-132 Łódź",
+			"url": "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-14,lodz-el-toro,S12E14,53192.html",
+			"homepage": "https://www.facebook.com/eltorolodz/"
+		}, {
+			"odcinek": 13,
+			"nazwa": "Restauracja Zajezdnia",
+			"dawniej": "Bistro Obora",
+			"adres": "Ulica Warszawska 291, przy Biedronce, 05-082 Zielonki Parcela, Zachodnie Mazowieckie",
+			"url": "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-13,zielonki-bistro-obora,S12E13,53191.html"
+		}, {
+			"odcinek": 12,
+			"nazwa": "Gospoda",
+			"adres": "Pułaskiego 154/2, 66-620 Gubin",
+			"url": "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-12,gubin-gospoda,S12E12,53190.html"
+		}, {
+			"odcinek": 11,
+			"nazwa": "Nowy Relax",
+			"dawniej": "Relax",
+			"adres": "Cieszyńska 71, 43-316 Bielsko-Biała",
+			"url": "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-11,bielsko-biala-relax,S12E11,53189.html",
+			"homepage": "https://www.facebook.com/nowy.relax/"
+		}, {
+			"odcinek": 11,
+			"nazwa": "Chrup Chrup Kartofel",
+			"dawniej": "Boczek i spółka",
+			"adres": "Wincentego Witosa 39, 55-200 Jelcz-Laskowice",
+			"url": "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-10,jelcz-laskowice-boczek-i-spolka,S12E10,53188.html"
+		}, {
+			"odcinek": 10,
+			"nazwa": "Restauracja Dymarka",
+			"adres": "Dąbrówki 431, 37-100 Łańcut",
+			"url": "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-9,lancut-dymarka,S12E09,53187.html"
+		}, {
+			"odcinek": 9,
+			"nazwa": "Sowa Nasza Kasza",
+			"dawniej": "Berhida",
+			"adres": "Kościuszki 15, 38-500 Sanok",
+			"url": "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-8,sanok-berhida,S12E08,53186.html",
+			"zamkniete": true
+		}, {
+			"odcinek": 8,
+			"nazwa": "Krochmal",
+			"dawniej": "U Dunina",
+			"adres": "Rynek Trybunalski, 97-200 Piotrków Trybunalski",
+			"url": "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-7,piotrkow-trybunalski-u-dunina,S12E07,53185.html"
+		}, {
+			"odcinek": 7,
+			"nazwa": "Gusto",
+			"adres": "Słowicza 1, 05-077 Mysiadło",
+			"url": "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-6,piaseczno-gusto,S12E06,53184.html",
+			"homepage": "http://restauracjagusto.pl"
+		}, {
+			"odcinek": 6,
+			"nazwa": "Owce i róża",
+			"dawniej": "Karczma górecka",
+			"adres": "Górecka 5, 43-430 Brenna",
+			"url": "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-5,brenna-karczma-gorecka,S12E05,53183.html",
+			"homepage": "https://pl-pl.facebook.com/owceiroza"
+		}
+	]
+}
