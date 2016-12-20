@@ -1,0 +1,33 @@
+{
+	"odcinki": [{
+			"odcinek": 15,
+			"nazwa": "Marilyn",
+			"dawniej": "One Way",
+			"adres": "Starogardzka 42, 83-010 Straszyn",
+			"url": "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-15,S08E15,24443.html"
+		}, {
+			"odcinek": 12,
+			"nazwa": "Zajazd pod Kłobukiem",
+			"adres": "Zamkowa 11, 14-330 Małdyty",
+			"url": "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-12,S08E12,23872.html",
+			"homepage": "http://klobuk.pl/"
+		}, {
+			"odcinek": 8,
+			"nazwa": "Bar Zigi",
+			"adres": "Kościuszki 34, 83-400 Kościerzyna",
+			"url": "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-8,S08E08,23327.html"
+		}, {
+			"odcinek": 4,
+			"nazwa": "Sielska Zagroda",
+			"adres": "Gdańska 12, 82-100 Nowy Dwór Gdański",
+			"url": "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-4,S08E04,22211.html",
+			"homepage": "http://www.sielskazagroda.com.pl/"
+		}, {
+			"odcinek": 1,
+			"nazwa": "U Przyjaciół",
+			"adres": "Polna 55, 81-701 Sopot",
+			"url": "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-1,S08E01,21796.html",
+			"homepage": "http://www.uprzyjaciol.com.pl/"
+		}
+	]
+}

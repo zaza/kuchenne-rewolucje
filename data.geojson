@@ -700,6 +700,66 @@
     "type" : "Feature",
     "properties" : {
       "marker-symbol" : "restaurant",
+      "name" : "Marilyn",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "url" : "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-15,S08E15,24443.html"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 18.5839839, 54.275849 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "marker-symbol" : "restaurant",
+      "name" : "Zajazd pod Kłobukiem",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "url" : "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-12,S08E12,23872.html"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.7317454, 53.9092707 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "marker-symbol" : "restaurant",
+      "name" : "Bar Zigi",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "url" : "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-8,S08E08,23327.html"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 17.958164, 54.115386 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "marker-symbol" : "restaurant",
+      "name" : "Sielska Zagroda",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "url" : "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-4,S08E04,22211.html"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.1075519, 54.214772 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "marker-symbol" : "restaurant",
+      "name" : "U Przyjaciół",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "url" : "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-1,S08E01,21796.html"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 18.5744616, 54.4327564 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "marker-symbol" : "restaurant",
       "name" : "Bistro Jajo",
       "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
       "url" : "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-11,S09E11,29706.html"
@@ -707,6 +767,18 @@
     "geometry" : {
       "type" : "Point",
       "coordinates" : [ 15.971809, 54.008947 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "marker-symbol" : "restaurant",
+      "name" : "Zajazd Rudzki",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_purple.png",
+      "url" : "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-4,S09E04,28058.html"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 18.8538508, 50.3011244 ]
     }
   }, {
     "type" : "Feature",
