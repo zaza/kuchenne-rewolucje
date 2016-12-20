@@ -2,7 +2,6 @@ package com.github.zaza.kuchennerewolucje;
 
 import static java.lang.String.format;
 
-import java.util.Map;
 import java.util.Optional;
 import java.util.function.Function;
 import java.util.regex.Matcher;
@@ -11,6 +10,7 @@ import java.util.regex.Pattern;
 import org.geojson.Feature;
 import org.geojson.Point;
 
+import com.github.zaza.kuchennerewolucje.model.Episode;
 import com.google.maps.GeoApiContext;
 import com.google.maps.GeocodingApi;
 import com.google.maps.PlacesApi;
@@ -18,7 +18,7 @@ import com.google.maps.model.GeocodingResult;
 import com.google.maps.model.PlaceType;
 import com.google.maps.model.PlacesSearchResult;
 
-class EpisodeToFeatureMapper implements Function<Map<String, Object>, Optional<Feature>> {
+class EpisodeToFeatureMapper implements Function<Episode, Optional<Feature>> {
 
 	private static final String MARKER_RED = "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png";
 
@@ -34,9 +34,9 @@ class EpisodeToFeatureMapper implements Function<Map<String, Object>, Optional<F
 	}
 
 	@Override
-	public Optional<Feature> apply(Map<String, Object> episode) {
-		String address = (String) episode.get("adres");
-		String name = (String) episode.get("nazwa");
+	public Optional<Feature> apply(Episode episode) {
+		String address = episode.getAddress();
+		String name = episode.getName();
 		if (hasZipCode(address)) {
 			Optional<GeocodingResult> result = geocode(address);
 			if (result.isPresent()) {
@@ -44,8 +44,9 @@ class EpisodeToFeatureMapper implements Function<Map<String, Object>, Optional<F
 				Point point = new Point(result.get().geometry.location.lng, result.get().geometry.location.lat);
 				feature.setGeometry(point);
 				feature.getProperties().put("name", name);
-				feature.getProperties().put("url", episode.get("url"));
-				feature.getProperties().put("marker-symbol", "restaurant");
+				feature.getProperties().put("url", episode.getUrl());
+				if (episode.hasHomepage())
+					feature.getProperties().put("homepage", episode.getHomepage());
 				feature.getProperties().put("icon", getIcon(episode));
 				return Optional.of(feature);
 			}
@@ -59,8 +60,10 @@ class EpisodeToFeatureMapper implements Function<Map<String, Object>, Optional<F
 		Point point = new Point(result.get().geometry.location.lng, result.get().geometry.location.lat);
 		feature.setGeometry(point);
 		feature.getProperties().put("name", name);
-		feature.getProperties().put("url", episode.get("url"));
-		feature.getProperties().put("marker-symbol", "restaurant");
+		feature.getProperties().put("url", episode.getUrl());
+		if (episode.hasHomepage())
+			feature.getProperties().put("homepage", episode.getHomepage());
+		// TODO: OpeningHours.permanentlyClosed
 		feature.getProperties().put("icon", getIcon(episode));
 		return Optional.of(feature);
 	}
@@ -97,12 +100,8 @@ class EpisodeToFeatureMapper implements Function<Map<String, Object>, Optional<F
 		return Optional.of(array[0]);
 	}
 
-	private static String getIcon(Map<String, Object> episode) {
-		return isOpen(episode) ? MARKER_RED : MARKER_PURPLE;
-	}
-
-	static boolean isOpen(Map<String, Object> episode) {
-		return episode.get("zamkniete") == null || !((Boolean) episode.get("zamkniete"));
+	private static String getIcon(Episode episode) {
+		return episode.isOpen() ? MARKER_RED : MARKER_PURPLE;
 	}
 
 	static boolean hasZipCode(String address) {

@@ -4,17 +4,22 @@ import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertTrue;
 
-import java.util.Collections;
 import java.util.HashMap;
+import java.util.Optional;
 
+import org.geojson.Feature;
 import org.junit.Test;
+
+import com.github.zaza.kuchennerewolucje.model.Episode;
 
 public class EpisodeToFeatureMapperTest {
 	@Test
-	public void isOpen() throws Exception {
-		assertTrue(EpisodeToFeatureMapper.isOpen(new HashMap<>()));
-		assertTrue(EpisodeToFeatureMapper.isOpen(Collections.singletonMap("zamkniete", false)));
-		assertFalse(EpisodeToFeatureMapper.isOpen(Collections.singletonMap("zamkniete", true)));
+	public void applyFeatureNotCreatedForEmptyEpisodeMap() throws Exception {
+		EpisodeToFeatureMapper mapper = new EpisodeToFeatureMapper(null);
+
+		Optional<Feature> feature = mapper.apply(new Episode(new HashMap<>()));
+
+		assertFalse(feature.isPresent());
 	}
 
 	@Test

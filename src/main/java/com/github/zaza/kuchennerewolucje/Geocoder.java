@@ -15,6 +15,7 @@ import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.ObjectWriter;
 import com.fasterxml.jackson.databind.SerializationFeature;
+import com.github.zaza.kuchennerewolucje.model.Episode;
 import com.google.maps.GeoApiContext;
 
 public class Geocoder {
@@ -30,6 +31,7 @@ public class Geocoder {
 		FeatureCollection featureCollection = new FeatureCollection();
 		for (Path season : seasons) {
 			readEpisodes(season.toFile()).stream() //
+					.map(e -> new Episode(e))
 					.map(new EpisodeToFeatureMapper(CONTEXT)) //
 					.filter(f -> f.isPresent()) //
 					.forEach(f -> featureCollection.add(f.get()));

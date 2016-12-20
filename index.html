@@ -31,9 +31,10 @@
           infowindow.close();
         });
         map.data.addListener('click', function(event) {
-          var name = event.feature.getProperty("name");
-          var url = event.feature.getProperty("url");
-          infowindow.setContent("<div style='width:150px; text-align:center;'><a href='"+url+"'>"+name+"</a></div>");
+         
+          var homepageLinkOrText = createHomepageLinkOrText(event.feature);
+          var episodeLink = createEpisodeLink(event.feature);
+          infowindow.setContent("<div style='width:150px; text-align:center;'>" + homepageLinkOrText + "<br>" + episodeLink + "</div>");
           infowindow.setPosition(event.feature.getGeometry().get());
           infowindow.setOptions({pixelOffset: new google.maps.Size(0,-30)});
           infowindow.open(map);
@@ -42,6 +43,18 @@
           return {icon:feature.getProperty('icon')};
         });
         map.data.loadGeoJson('data.geojson');
+      }
+      function createHomepageLinkOrText(feature) {
+        var name = feature.getProperty("name");
+        var homepage = feature.getProperty("homepage");
+        if (homepage){
+          return "<a target='_blank' href='" + homepage + "'>" + name + "</a>";
+        }
+        return name;
+      }
+      function createEpisodeLink(feature) {
+        var url = feature.getProperty("url");
+        return "<a target='_blank' href='" + url + "'>obejrzyj odcinek</a>";
       }
     </script>
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDQ94E8qaA17lf_xIdrKf0TPbN--dE-2Fo&callback=initMap&language=pl&region=PL" async defer></script>
