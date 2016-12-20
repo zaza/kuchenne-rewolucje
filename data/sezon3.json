@@ -1,0 +1,51 @@
+{
+	"odcinki":[{
+			"odcinek":12,
+			"nazwa":"Darjan Brydż",
+			"adres":"Bystrzyca Kłodzka",
+			"url":"http://kuchennerewolucje.tvn.pl/odcinki-online,3/odcinek-12-sezon-3,10293,o.html"
+		},
+		{
+			"odcinek":11,
+			"nazwa":"Barbarossa",
+			"adres":"Siedlce",
+			"url":"http://kuchennerewolucje.tvn.pl/odcinki-online,3/odcinek-11-sezon-3,10292,o.html"
+		},
+		{
+			"odcinek":9,
+			"nazwa":"Karczma U Jędzy",
+			"adres":"Kraków",
+			"url":"http://kuchennerewolucje.tvn.pl/odcinki-online,3/odcinek-9-sezon-3,10290,o.html"
+		},
+		{
+			"odcinek":9,
+			"nazwa":"Maxim",
+			"adres":"Wieliczka",
+			"url":"http://kuchennerewolucje.tvn.pl/odcinki-online,3/odcinek-7-sezon-3,10288,o.html"
+		},
+		{
+			"odcinek":5,
+			"nazwa":"Alchemik",
+			"adres":"Tomaszów Mazowiecki",
+			"url":"http://kuchennerewolucje.tvn.pl/odcinki-online,3/odcinek-5-sezon-3,10286,o.html"
+		},
+		{
+			"odcinek":3,
+			"nazwa":"Restauracja Peper's",
+			"adres":"Białystok",
+			"url":"http://kuchennerewolucje.tvn.pl/odcinki-online,3/odcinek-3-sezon-3,10284,o.html"
+		},
+		{
+			"odcinek":2,
+			"nazwa":"Colloseum",
+			"adres":"Tychy",
+			"url":"http://kuchennerewolucje.tvn.pl/odcinki-online,3/odcinek-2-sezon-3,10283,o.html"
+		},
+		{
+			"odcinek":1,
+			"nazwa":"Obrochtówka",
+			"adres":"Zakopane",
+			"url":"http://kuchennerewolucje.tvn.pl/odcinki-online,3/odcinek-1-sezon-3,10282,o.html"
+		}
+	]
+}
