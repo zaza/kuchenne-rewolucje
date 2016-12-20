@@ -1,7 +1,5 @@
 package com.github.zaza.kuchennerewolucje;
 
-import static java.lang.String.format;
-
 import java.io.File;
 import java.io.IOException;
 import java.nio.file.DirectoryStream;
@@ -10,24 +8,16 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.List;
 import java.util.Map;
-import java.util.Optional;
 
-import org.geojson.Feature;
 import org.geojson.FeatureCollection;
-import org.geojson.Point;
 
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.ObjectWriter;
 import com.fasterxml.jackson.databind.SerializationFeature;
 import com.google.maps.GeoApiContext;
-import com.google.maps.GeocodingApi;
-import com.google.maps.model.GeocodingResult;
 
 public class Geocoder {
-
-	private static final String MARKER_RED = "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png";
-	private static final String MARKER_PURPLE = "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_purple.png";
 
 	private static final TypeReference<Map<String, Object>> MAP_TYPE = new TypeReference<Map<String, Object>>() {
 	};
@@ -40,56 +30,16 @@ public class Geocoder {
 		FeatureCollection featureCollection = new FeatureCollection();
 		for (Path season : seasons) {
 			readEpisodes(season.toFile()).stream() //
-					.map(e -> convertToFeature(e)) //
+					.map(new EpisodeToFeatureMapper(CONTEXT)) //
 					.filter(f -> f.isPresent()) //
 					.forEach(f -> featureCollection.add(f.get()));
 		}
 		createObjectWriter().writeValue(new File("data.geojson"), featureCollection);
 	}
 
-	private static boolean isOpen(Map<String, Object> episode) {
-		return episode.get("zamkniete") == null || !((Boolean) episode.get("zamkniete"));
-	}
-
 	private static ObjectWriter createObjectWriter() {
 		return new ObjectMapper().writer().with(SerializationFeature.INDENT_OUTPUT)
 				.without(SerializationFeature.WRITE_NULL_MAP_VALUES);
-	}
-
-	private static Optional<Feature> convertToFeature(Map<String, Object> episode) {
-		String address = (String) episode.get("adres");
-		Optional<GeocodingResult> result = geocode(address);
-		if (!result.isPresent())
-			return Optional.empty();
-		Feature feature = new Feature();
-		Point point = new Point(result.get().geometry.location.lng, result.get().geometry.location.lat);
-		feature.setGeometry(point);
-		feature.getProperties().put("name", episode.get("nazwa"));
-		feature.getProperties().put("url", episode.get("url"));
-		feature.getProperties().put("marker-symbol", "restaurant");
-		feature.getProperties().put("icon", getIcon(episode));
-		return Optional.of(feature);
-	}
-
-	private static String getIcon(Map<String, Object> episode) {
-		return isOpen(episode) ? MARKER_RED : MARKER_PURPLE;
-	}
-
-	private static Optional<GeocodingResult> geocode(String address) {
-		try {
-			GeocodingResult[] results = GeocodingApi.geocode(CONTEXT, address).await();
-			if (results.length < 1) {
-				System.out.println(format("No geocode results found for '%s'", address));
-				return Optional.empty();
-			}
-			if (results.length > 1) {
-				System.out.println(format("Found multiple geocode results for '%s'.", address));
-			}
-			return Optional.of(results[0]);
-		} catch (Exception e) {
-			System.err.println(format("Error occured retrieving coordinates for '%s': %s", address, e.getMessage()));
-			return Optional.empty();
-		}
 	}
 
 	@SuppressWarnings("unchecked")

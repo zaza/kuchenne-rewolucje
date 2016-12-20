@@ -136,6 +136,18 @@
     "type" : "Feature",
     "properties" : {
       "marker-symbol" : "restaurant",
+      "name" : "Przystanek Łosoś",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "url" : "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-4,S10E04,33150.html"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 18.1969448, 54.2353932 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "marker-symbol" : "restaurant",
       "name" : "Gościniec Myśliwski",
       "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
       "url" : "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-1,S10E01,32135.html"
@@ -196,6 +208,18 @@
     "type" : "Feature",
     "properties" : {
       "marker-symbol" : "restaurant",
+      "name" : "Restauracja Zajezdnia",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "url" : "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-13,zielonki-bistro-obora,S12E13,53191.html"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.814727, 52.252355 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "marker-symbol" : "restaurant",
       "name" : "Gospoda",
       "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
       "url" : "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-12,gubin-gospoda,S12E12,53190.html"
@@ -227,6 +251,18 @@
     "geometry" : {
       "type" : "Point",
       "coordinates" : [ 17.3502771, 51.0397122 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "marker-symbol" : "restaurant",
+      "name" : "Restauracja Dymarka",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "url" : "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-9,lancut-dymarka,S12E09,53187.html"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.2382164, 50.1364179 ]
     }
   }, {
     "type" : "Feature",
@@ -299,6 +335,18 @@
     "geometry" : {
       "type" : "Point",
       "coordinates" : [ 21.0499369, 52.1462603 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "marker-symbol" : "restaurant",
+      "name" : "Wyszynk z szynką",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "url" : "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-12,kielce-jadlodajnia-bartosz,S13E12,60227.html"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.6350849, 50.8673626 ]
     }
   }, {
     "type" : "Feature",
@@ -443,6 +491,18 @@
     "geometry" : {
       "type" : "Point",
       "coordinates" : [ 19.0221284, 54.049321 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "marker-symbol" : "restaurant",
+      "name" : "Cykada",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "url" : "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-14,chlastawa-karczma-cykada,S14E14,65005.html"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 15.834606, 52.2447455 ]
     }
   }, {
     "type" : "Feature",
@@ -671,6 +731,18 @@
     "geometry" : {
       "type" : "Point",
       "coordinates" : [ 22.567227, 51.2478801 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "marker-symbol" : "restaurant",
+      "name" : "Tabun",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,2/odcinek-13-sezon-2,10280,o.html"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 18.5247061, 54.3206011 ]
     }
   }, {
     "type" : "Feature",
