@@ -1,0 +1,69 @@
+{
+	"odcinki":[{
+			"odcinek":14,
+			"nazwa":"Zapiecek",
+			"adres":"Poznań",
+			"url":"http://kuchennerewolucje.tvn.pl/odcinki-online,4/odcinek-14-sezon-4,10307,o.html"
+		}, {
+			"odcinek":13,
+			"nazwa":"Karczma Polany",
+			"adres":"Kościelisko",
+			"url":"http://kuchennerewolucje.tvn.pl/odcinki-online,4/odcinek-13-sezon-4,10306,o.html"
+		}, {
+			"odcinek":12,
+			"nazwa":"Karczma Nałęczowska",
+			"adres":"Nałęczów",
+			"url":"http://kuchennerewolucje.tvn.pl/odcinki-online,4/odcinek-12-sezon-4,10305,o.html"
+		}, {
+			"odcinek":11,
+			"nazwa":"Stella Cafe",
+			"adres":"Lębork",
+			"url":"http://kuchennerewolucje.tvn.pl/odcinki-online,4/odcinek-11-sezon-4,10304,o.html"
+		}, {
+			"odcinek":10,
+			"nazwa":"Galeria Smaku",
+			"adres":"Kozienice",
+			"url":"http://kuchennerewolucje.tvn.pl/odcinki-online,4/odcinek-10-sezon-4,10303,o.html"
+		}, {
+			"odcinek":9,
+			"nazwa":"Stara Kuźnia",
+			"adres":"Magnuszew",
+			"url":"http://kuchennerewolucje.tvn.pl/odcinki-online,4/odcinek-9-sezon-4,10302,o.html"
+		}, {
+			"odcinek":7,
+			"nazwa":"Braterska",
+			"adres":"Tarnów",
+			"url":"http://kuchennerewolucje.tvn.pl/odcinki-online,4/odcinek-7-sezon-4,10300,o.html"
+		}, {
+			"odcinek":6,
+			"nazwa":"Karczma przy dworze",
+			"adres":"Jasionka",
+			"url":"http://kuchennerewolucje.tvn.pl/odcinki-online,4/odcinek-6-sezon-4,10299,o.html"
+		}, {
+			"odcinek":5,
+			"nazwa":"Ania z Zielonego Wzgórza",
+			"adres":"Tarnowskie Góry",
+			"url":"http://kuchennerewolucje.tvn.pl/odcinki-online,4/odcinek-5-sezon-4,10298,o.html"
+		}, {
+			"odcinek":4,
+			"nazwa":"Penelopa",
+			"adres":"Inowrocław",
+			"url":"http://kuchennerewolucje.tvn.pl/odcinki-online,4/odcinek-4-sezon-4,10297,o.html"
+		}, {
+			"odcinek":3,
+			"nazwa":"Panorama",
+			"adres":"Nowogród",
+			"url":"http://kuchennerewolucje.tvn.pl/odcinki-online,4/odcinek-3-sezon-4,10296,o.html"
+		}, {
+			"odcinek":2,
+			"nazwa":"Steak House Rodeo",
+			"adres":"Kwidzyn",
+			"url":"http://kuchennerewolucje.tvn.pl/odcinki-online,4/odcinek-2-sezon-4,10295,o.html"
+		}, {
+			"odcinek":1,
+			"nazwa":"Open Air",
+			"adres":"Magdalenka",
+			"url":"http://kuchennerewolucje.tvn.pl/odcinki-online,4/odcinek-1-sezon-4,10294,o.html"
+		}
+	]
+}

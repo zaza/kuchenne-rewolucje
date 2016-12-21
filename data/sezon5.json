@@ -1,0 +1,64 @@
+{
+	"odcinki": [{
+			"odcinek": 1,
+			"nazwa": "Kapitan Nemo",
+			"adres": "Skarbimierz",
+			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,5/odcinek-1-sezon-5,10720,o.html"
+		}, {
+			"odcinek": 2,
+			"nazwa": "Karczma u Bartka",
+			"adres": "Bukowina Tatrzańska",
+			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,5/odcinek-2-sezon-5,10787,o.html"
+		}, {
+			"odcinek": 3,
+			"nazwa": "Tawerna",
+			"adres": "Dobre Miasto",
+			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,5/odcinek-3-sezon-5,11303,o.html"
+		}, {
+			"odcinek": 4,
+			"nazwa": "Syrenka",
+			"adres": "Ustka",
+			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,5/odcinek-4-sezon-5,11304,o.html"
+		}, {
+			"odcinek": 5,
+			"nazwa": "Enigma",
+			"adres": "Radom",
+			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,5/odcinek-5-sezon-5,11411,o.html"
+		}, {
+			"odcinek": 6,
+			"nazwa": "Greek",
+			"adres": "Augustów",
+			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,5/odcinek-6-sezon-5,11691,o.html"
+		}, {
+			"odcinek": 7,
+			"nazwa": "Campo di Fiori ",
+			"adres": "Nowy Sącz",
+			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,5/odcinek-7-sezon-5,11873,o.html"
+		}, {
+			"odcinek": 9,
+			"nazwa": "Niebieski Parasol",
+			"adres": "Chojnów",
+			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,5/odcinek-9-sezon-5,12512,o.html"
+		}, {
+			"odcinek": 10,
+			"nazwa": "Corum",
+			"adres": "Karpacz",
+			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,5/odcinek-10-sezon-5,12675,o.html"
+		}, {
+			"odcinek": 11,
+			"nazwa": "Namaste",
+			"adres": "Zielona Góra",
+			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,5/odcinek-11-sezon-5,12964,o.html"
+		}, {
+			"odcinek": 13,
+			"nazwa": "Karczma pod Łosiem",
+			"adres": "Wawrów",
+			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,5/odcinek-13-sezon-5,13360,o.html"
+		}, {
+			"odcinek": 14,
+			"nazwa": "Fregata  ",
+			"adres": "Koszalin",
+			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,5/odcinek-14-sezon-5,13603,o.html"
+		}
+	]
+}

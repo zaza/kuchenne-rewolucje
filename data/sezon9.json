@@ -1,9 +1,49 @@
 {
 	"odcinki": [{
+			"odcinek": 13,
+			"nazwa": "Villa Bianco",
+			"adres": "Wrocław",
+			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,9/odcinek-13-sezon-9,30204,o.html"
+		}, {
+			"odcinek": 12,
+			"nazwa": "Pizzeria La Torre",
+			"adres": "Miłakowo",
+			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,9/odcinek-12-sezon-9,29934,o.html"
+		}, {
 			"odcinek": 11,
 			"nazwa": "Bistro Jajo",
 			"adres": "Kołobrzeska 12, 78-200 Białogard",
 			"url": "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-11,S09E11,29706.html"
+		}, {
+			"odcinek": 10,
+			"nazwa": "Pizzeria OdNowa",
+			"adres": "Bochnia",
+			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,9/odcinek-10-sezon-9,29590,o.html"
+		}, {
+			"odcinek": 9,
+			"nazwa": "Zajazd pod zamkiem",
+			"adres": "Kętrzyn",
+			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,9/odcinek-9-sezon-9,29585,o.html"
+		}, {
+			"odcinek": 8,
+			"nazwa": "La Costa",
+			"adres": "Herby",
+			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,9/odcinek-8-sezon-9,29224,o.html"
+		}, {
+			"odcinek": 7,
+			"nazwa": "Bistro pod Aniołami",
+			"adres": "Nysa",
+			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,9/odcinek-7-sezon-9,29043,o.html"
+		}, {
+			"odcinek": 6,
+			"nazwa": "Italia",
+			"adres": "Bielsko-Biała",
+			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,9/odcinek-6-sezon-9,28909,o.html"
+		}, {
+			"odcinek": 5,
+			"nazwa": "Zośka",
+			"adres": "Zakopane",
+			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,9/odcinek-5-sezon-9,28635,o.html"
 		}, {
 			"odcinek": 4,
 			"nazwa": "Zajazd Rudzki",
@@ -11,11 +51,21 @@
 			"url": "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-4,S09E04,28058.html",
 			"zamkniete": true
 		}, {
+			"odcinek": 3,
+			"nazwa": "Black Jack",
+			"adres": "Słupsk",
+			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,9/odcinek-3-sezon-9,28183,o.html"
+		}, {
 			"odcinek": 2,
 			"nazwa": "Pad Thai",
 			"adres": "Drużbickiego, 61-693 Poznań",
 			"url": "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-2,S09E02,27680.html",
 			"homepage": "http://padthairestauracja.pl/"
+		}, {
+			"odcinek": 1,
+			"nazwa": "Łebska Chata",
+			"adres": "Łeba",
+			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,9/odcinek-1-sezon-9,27337,o.html"
 		}
 	]
 }

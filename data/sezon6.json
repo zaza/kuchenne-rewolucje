@@ -1,0 +1,64 @@
+{
+	"odcinki": [{
+			"odcinek": 1,
+			"nazwa": "Kameralna",
+			"adres": "Chodzież",
+			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,6/odcinek-1-sezon-6,14804,o.html"
+		}, {
+			"odcinek": 2,
+			"nazwa": "Magnolia",
+			"adres": "Gryfów Śląski",
+			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,6/odcinek-2-sezon-6,14849,o.html"
+		}, {
+			"odcinek": 4,
+			"nazwa": "Łabędź",
+			"adres": "Pyskowice",
+			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,6/odcinek-4-sezon-6,15080,o.html"
+		}, {
+			"odcinek": 5,
+			"nazwa": "Antykwariat",
+			"adres": "Lublin",
+			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,6/odcinek-5-sezon-6,15177,o.html"
+		}, {
+			"odcinek": 6,
+			"nazwa": "Leo Libra",
+			"adres": "Gniezno",
+			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,6/odcinek-6-sezon-6,15564,o.html"
+		}, {
+			"odcinek": 7,
+			"nazwa": "Kuźnia Smaków",
+			"adres": "Bielsko-Biała",
+			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,6/odcinek-7-sezon-6,15719,o.html"
+		}, {
+			"odcinek": 8,
+			"nazwa": "Orient Express",
+			"adres": "Lublin",
+			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,6/odcinek-8-sezon-6,15879,o.html"
+		}, {
+			"odcinek": 9,
+			"nazwa": "Zajazd pod Jodłową Górą",
+			"adres": "Tymbark",
+			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,6/odcinek-9-sezon-6,16011,o.html"
+		}, {
+			"odcinek": 10,
+			"nazwa": "Goczałkowice",
+			"adres": "Matalmara",
+			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,6/odcinek-10-sezon-6,16230,o.html"
+		}, {
+			"odcinek": 11,
+			"nazwa": "Karczma Leśniczanka",
+			"adres": "Wielbark",
+			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,6/odcinek-11-sezon-6,16382,o.html"
+		}, {
+			"odcinek": 12,
+			"nazwa": "Villa Toscania",
+			"adres": "Pszczew",
+			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,6/odcinek-12-sezon-6,16645,o.html"
+		}, {
+			"odcinek": 13,
+			"nazwa": "Restauracja Gaumarjos",
+			"adres": "Warszawa",
+			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,6/odcinek-13-sezon-6,16755,o.html"
+		}
+	]
+}
