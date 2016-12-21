@@ -4,8 +4,6 @@ import static java.lang.String.format;
 
 import java.util.Optional;
 import java.util.function.Function;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
 
 import org.geojson.Feature;
 import org.geojson.Point;
@@ -35,37 +33,49 @@ class EpisodeToFeatureMapper implements Function<Episode, Optional<Feature>> {
 
 	@Override
 	public Optional<Feature> apply(Episode episode) {
-		String address = episode.getAddress();
 		String name = episode.getName();
-		if (hasZipCode(address)) {
-			Optional<GeocodingResult> result = geocode(address);
+		if (name == null || name.isEmpty())
+			return Optional.empty();
+		if (episode.hasZipCode()) {
+			Optional<GeocodingResult> result = geocode(episode.getAddress());
 			if (result.isPresent()) {
-				Feature feature = new Feature();
-				Point point = new Point(result.get().geometry.location.lng, result.get().geometry.location.lat);
-				feature.setGeometry(point);
-				feature.getProperties().put("name", name);
-				feature.getProperties().put("url", episode.getUrl());
-				if (episode.hasHomepage())
-					feature.getProperties().put("homepage", episode.getHomepage());
-				feature.getProperties().put("icon", getIcon(episode));
-				return Optional.of(feature);
+				return newFeature(episode, result.get());
 			}
 		}
-		String city = getCity(address);
+		String city = episode.getCity();
 		String query = format("%s, %s", name, city);
 		Optional<PlacesSearchResult> result = textSearchQuery(query);
 		if (!result.isPresent())
 			return Optional.empty();
+		return newFeature(episode, result.get());
+	}
+
+	private Optional<Feature> newFeature(Episode episode, GeocodingResult result) {
 		Feature feature = new Feature();
-		Point point = new Point(result.get().geometry.location.lng, result.get().geometry.location.lat);
+		Point point = new Point(result.geometry.location.lng, result.geometry.location.lat);
 		feature.setGeometry(point);
-		feature.getProperties().put("name", name);
+		feature.getProperties().put("name", episode.getName());
 		feature.getProperties().put("url", episode.getUrl());
+		addHomepageIfExists(feature, episode);
+		feature.getProperties().put("icon", episode.getIcon());
+		return Optional.of(feature);
+	}
+
+	private Optional<Feature> newFeature(Episode episode, PlacesSearchResult result) {
+		Feature feature = new Feature();
+		Point point = new Point(result.geometry.location.lng, result.geometry.location.lat);
+		feature.setGeometry(point);
+		feature.getProperties().put("name", episode.getName());
+		feature.getProperties().put("url", episode.getUrl());
+		addHomepageIfExists(feature, episode);
+		// TODO: OpeningHours.permanentlyClosed
+		feature.getProperties().put("icon", episode.getIcon());
+		return Optional.of(feature);
+	}
+
+	private void addHomepageIfExists(Feature feature, Episode episode) {
 		if (episode.hasHomepage())
 			feature.getProperties().put("homepage", episode.getHomepage());
-		// TODO: OpeningHours.permanentlyClosed
-		feature.getProperties().put("icon", getIcon(episode));
-		return Optional.of(feature);
 	}
 
 	private Optional<GeocodingResult> geocode(String address) {
@@ -98,19 +108,6 @@ class EpisodeToFeatureMapper implements Function<Episode, Optional<Feature>> {
 			System.out.println(format("Multiple results found for '%s'. Using the first one.", query));
 		}
 		return Optional.of(array[0]);
-	}
-
-	private static String getIcon(Episode episode) {
-		return episode.isOpen() ? MARKER_RED : MARKER_PURPLE;
-	}
-
-	static boolean hasZipCode(String address) {
-		return PATTERN_ZIPCODE.matcher(address).find();
-	}
-
-	static String getCity(String address) {
-		Matcher matcher = PATTERN_ZIPCODE.matcher(address);
-		return matcher.find() ? matcher.group(1) : address;
 	}
 
 }
