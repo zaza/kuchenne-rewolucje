@@ -17,6 +17,10 @@ public class Episode {
 	public Episode(Map<String, Object> episode) {
 		this.episode = episode;
 	}
+	
+	public int getNumber() {
+		return (int) episode.get("odcinek");
+	}
 
 	public String getAddress() {
 		return (String) episode.get("adres");
@@ -38,7 +42,7 @@ public class Episode {
 		return (String) episode.get("homepage");
 	}
 
-	boolean isOpen() {
+	public boolean isOpen() {
 		return episode.get("zamkniete") == null || !((Boolean) episode.get("zamkniete"));
 	}
 
@@ -52,6 +56,10 @@ public class Episode {
 	}
 
 	public String getIcon() {
-		return isOpen() ? MARKER_RED : MARKER_PURPLE;
+		return getIcon(isOpen());
+	}
+
+	public String getIcon(boolean open) {
+		return open ? MARKER_RED : MARKER_PURPLE;
 	}
 }

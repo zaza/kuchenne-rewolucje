@@ -7,23 +7,21 @@ import java.util.function.Function;
 
 import org.geojson.Feature;
 import org.geojson.Point;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 
 import com.github.zaza.kuchennerewolucje.model.Episode;
 import com.google.maps.GeoApiContext;
 import com.google.maps.GeocodingApi;
 import com.google.maps.PlacesApi;
 import com.google.maps.model.GeocodingResult;
+import com.google.maps.model.PlaceDetails;
 import com.google.maps.model.PlaceType;
 import com.google.maps.model.PlacesSearchResult;
 
 class EpisodeToFeatureMapper implements Function<Episode, Optional<Feature>> {
 
-	private static final String MARKER_RED = "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png";
-
-	private static final String MARKER_PURPLE = "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_purple.png";
-
-	private static final Pattern PATTERN_ZIPCODE = Pattern.compile("\\d{2}-\\d{3} ([\\w ]+)",
-			Pattern.UNICODE_CHARACTER_CLASS);
+	private static final Logger LOG = LoggerFactory.getLogger(EpisodeToFeatureMapper.class);
 
 	private GeoApiContext context;
 
@@ -67,9 +65,8 @@ class EpisodeToFeatureMapper implements Function<Episode, Optional<Feature>> {
 		feature.setGeometry(point);
 		feature.getProperties().put("name", episode.getName());
 		feature.getProperties().put("url", episode.getUrl());
-		addHomepageIfExists(feature, episode);
-		// TODO: OpeningHours.permanentlyClosed
-		feature.getProperties().put("icon", episode.getIcon());
+		addHomepageIfExists(feature, episode, result.placeId);
+		feature.getProperties().put("icon", episode.getIcon(!result.permanentlyClosed));
 		return Optional.of(feature);
 	}
 
@@ -77,13 +74,23 @@ class EpisodeToFeatureMapper implements Function<Episode, Optional<Feature>> {
 		if (episode.hasHomepage())
 			feature.getProperties().put("homepage", episode.getHomepage());
 	}
+	
+	private void addHomepageIfExists(Feature feature, Episode episode, String placeId) {
+		addHomepageIfExists(feature, episode);
+		if (!feature.getProperties().containsKey("homepage")) {
+			Optional<PlaceDetails> placeDetails = placeDetails(placeId);
+			if (placeDetails.isPresent() && placeDetails.get().website != null) {
+				feature.getProperties().put("homepage", placeDetails.get().website.toString());
+			}
+		}
+	}
 
 	private Optional<GeocodingResult> geocode(String address) {
 		try {
 			GeocodingResult[] results = GeocodingApi.geocode(context, address).await();
 			return getFirst(results, address);
 		} catch (Exception e) {
-			System.err.println(format("Error occured retrieving geocode for '%s': %s", address, e.getMessage()));
+			LOG.error(format("Error occured retrieving geocode for '%s': %s", address, e.getMessage()));
 			return Optional.empty();
 		}
 	}
@@ -94,18 +101,28 @@ class EpisodeToFeatureMapper implements Function<Episode, Optional<Feature>> {
 					.type(PlaceType.RESTAURANT).await().results;
 			return getFirst(results, query);
 		} catch (Exception e) {
-			System.err.println(format("Error occured retrieving places for '%s': %s", query, e.getMessage()));
+			LOG.error(format("Error occured retrieving places for '%s': %s", query, e.getMessage()));
+			return Optional.empty();
+		}
+	}
+	
+	private Optional<PlaceDetails> placeDetails(String placeId) {
+		try {
+			PlaceDetails placeDetails = PlacesApi.placeDetails(context, placeId).await();
+			return Optional.of(placeDetails);
+		} catch (Exception e) {
+			LOG.error(format("Error occured retrieving place details for '%s': %s", placeId, e.getMessage()));
 			return Optional.empty();
 		}
 	}
 
 	private static <T> Optional<T> getFirst(T[] array, String query) {
 		if (array.length < 1) {
-			System.out.println(format("No results found for '%s'", query));
+			LOG.warn(format("No results found for '%s'", query));
 			return Optional.empty();
 		}
 		if (array.length > 1) {
-			System.out.println(format("Multiple results found for '%s'. Using the first one.", query));
+			LOG.warn(format("Multiple results found for '%s'. Using the first one.", query));
 		}
 		return Optional.of(array[0]);
 	}
