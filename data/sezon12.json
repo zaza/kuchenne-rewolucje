@@ -67,6 +67,31 @@
 			"adres": "Górecka 5, 43-430 Brenna",
 			"url": "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-5,brenna-karczma-gorecka,S12E05,53183.html",
 			"homepage": "https://pl-pl.facebook.com/owceiroza"
+		}, {
+			"odcinek": 5,
+			"nazwa": "Karczma górecka",
+			"adres": "Brenna",
+			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,12/odcinek-5,54809,o.html"
+		}, {
+			"odcinek": 4,
+			"nazwa": "Charlie’s",
+			"adres": "Nowy Dwór Mazowiecki",
+			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,12/odcinek-4,54615,o.html"
+		}, {
+			"odcinek": 3,
+			"nazwa": "Good Father",
+			"adres": "Katowice",
+			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,12/odcinek-3,54309,o.html"
+		}, {
+			"odcinek": 2,
+			"nazwa": "Tbilisi",
+			"adres": "Warszawa",
+			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,12/odcinek-2,54123,o.html"
+		}, {
+			"odcinek": 1,
+			"nazwa": "Czardasz",
+			"adres": "Gdańsk",
+			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,12/odcinek-1,53994,o.html"
 		}
 	]
 }

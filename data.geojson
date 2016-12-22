@@ -208,7 +208,8 @@
     "properties" : {
       "name" : "Barbarossa",
       "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
-      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,3/odcinek-11-sezon-3,10292,o.html"
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,3/odcinek-11-sezon-3,10292,o.html",
+      "homepage" : "http://www.cateringsiedlce.pl/"
     },
     "geometry" : {
       "type" : "Point",
@@ -219,7 +220,8 @@
     "properties" : {
       "name" : "Karczma U Jędzy",
       "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
-      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,3/odcinek-9-sezon-3,10290,o.html"
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,3/odcinek-9-sezon-3,10290,o.html",
+      "homepage" : "http://karczmamario.pl/"
     },
     "geometry" : {
       "type" : "Point",
@@ -228,9 +230,22 @@
   }, {
     "type" : "Feature",
     "properties" : {
+      "name" : "Valencia",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,3/odcinek-8-sezon-3,10289,o.html",
+      "homepage" : "http://www.valencia.info1.pl/"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.9966577, 52.254343 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "name" : "Maxim",
       "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
-      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,3/odcinek-7-sezon-3,10288,o.html"
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,3/odcinek-7-sezon-3,10288,o.html",
+      "homepage" : "http://www.maxim-restauracja.com/"
     },
     "geometry" : {
       "type" : "Point",
@@ -241,7 +256,8 @@
     "properties" : {
       "name" : "Alchemik",
       "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
-      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,3/odcinek-5-sezon-3,10286,o.html"
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,3/odcinek-5-sezon-3,10286,o.html",
+      "homepage" : "http://www.alchemik-restauracja.pl/"
     },
     "geometry" : {
       "type" : "Point",
@@ -252,7 +268,8 @@
     "properties" : {
       "name" : "Restauracja Peper's",
       "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
-      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,3/odcinek-3-sezon-3,10284,o.html"
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,3/odcinek-3-sezon-3,10284,o.html",
+      "homepage" : "http://panteon.bialystok.pl/"
     },
     "geometry" : {
       "type" : "Point",
@@ -263,7 +280,8 @@
     "properties" : {
       "name" : "Colloseum",
       "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
-      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,3/odcinek-2-sezon-3,10283,o.html"
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,3/odcinek-2-sezon-3,10283,o.html",
+      "homepage" : "http://www.podprosiakiem.pl/"
     },
     "geometry" : {
       "type" : "Point",
@@ -285,7 +303,8 @@
     "properties" : {
       "name" : "Zapiecek",
       "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
-      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,4/odcinek-14-sezon-4,10307,o.html"
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,4/odcinek-14-sezon-4,10307,o.html",
+      "homepage" : "http://www.bar-metka.pl/"
     },
     "geometry" : {
       "type" : "Point",
@@ -296,7 +315,8 @@
     "properties" : {
       "name" : "Karczma Polany",
       "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
-      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,4/odcinek-13-sezon-4,10306,o.html"
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,4/odcinek-13-sezon-4,10306,o.html",
+      "homepage" : "http://www.polany.pl/"
     },
     "geometry" : {
       "type" : "Point",
@@ -307,7 +327,8 @@
     "properties" : {
       "name" : "Karczma Nałęczowska",
       "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
-      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,4/odcinek-12-sezon-4,10305,o.html"
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,4/odcinek-12-sezon-4,10305,o.html",
+      "homepage" : "http://karczmanaleczowska.org/"
     },
     "geometry" : {
       "type" : "Point",
@@ -329,7 +350,8 @@
     "properties" : {
       "name" : "Stara Kuźnia",
       "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
-      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,4/odcinek-9-sezon-4,10302,o.html"
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,4/odcinek-9-sezon-4,10302,o.html",
+      "homepage" : "http://www.starakuznia.com/"
     },
     "geometry" : {
       "type" : "Point",
@@ -340,7 +362,8 @@
     "properties" : {
       "name" : "Braterska",
       "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
-      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,4/odcinek-7-sezon-4,10300,o.html"
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,4/odcinek-7-sezon-4,10300,o.html",
+      "homepage" : "https://www.facebook.com/RestauracjaBraterskaTarnow/"
     },
     "geometry" : {
       "type" : "Point",
@@ -351,7 +374,8 @@
     "properties" : {
       "name" : "Karczma przy dworze",
       "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
-      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,4/odcinek-6-sezon-4,10299,o.html"
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,4/odcinek-6-sezon-4,10299,o.html",
+      "homepage" : "http://www.karczma.rzeszow.pl/"
     },
     "geometry" : {
       "type" : "Point",
@@ -362,7 +386,8 @@
     "properties" : {
       "name" : "Ania z Zielonego Wzgórza",
       "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
-      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,4/odcinek-5-sezon-4,10298,o.html"
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,4/odcinek-5-sezon-4,10298,o.html",
+      "homepage" : "http://www.pierogarnia-bonzur.pl/"
     },
     "geometry" : {
       "type" : "Point",
@@ -373,7 +398,8 @@
     "properties" : {
       "name" : "Penelopa",
       "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
-      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,4/odcinek-4-sezon-4,10297,o.html"
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,4/odcinek-4-sezon-4,10297,o.html",
+      "homepage" : "http://hotelpenelopa.pl/"
     },
     "geometry" : {
       "type" : "Point",
@@ -384,7 +410,8 @@
     "properties" : {
       "name" : "Panorama",
       "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
-      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,4/odcinek-3-sezon-4,10296,o.html"
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,4/odcinek-3-sezon-4,10296,o.html",
+      "homepage" : "http://www.ogrodynadnarwia.pl/"
     },
     "geometry" : {
       "type" : "Point",
@@ -395,7 +422,8 @@
     "properties" : {
       "name" : "Steak House Rodeo",
       "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
-      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,4/odcinek-2-sezon-4,10295,o.html"
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,4/odcinek-2-sezon-4,10295,o.html",
+      "homepage" : "http://www.rodeosteakhousegrill.com/"
     },
     "geometry" : {
       "type" : "Point",
@@ -406,7 +434,8 @@
     "properties" : {
       "name" : "Open Air",
       "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
-      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,4/odcinek-1-sezon-4,10294,o.html"
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,4/odcinek-1-sezon-4,10294,o.html",
+      "homepage" : "http://www.pizzeriawawa.pl/"
     },
     "geometry" : {
       "type" : "Point",
@@ -416,7 +445,7 @@
     "type" : "Feature",
     "properties" : {
       "name" : "Kapitan Nemo",
-      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_purple.png",
       "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,5/odcinek-1-sezon-5,10720,o.html"
     },
     "geometry" : {
@@ -450,7 +479,8 @@
     "properties" : {
       "name" : "Syrenka",
       "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
-      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,5/odcinek-4-sezon-5,11304,o.html"
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,5/odcinek-4-sezon-5,11304,o.html",
+      "homepage" : "http://syrenkaustecka.pl/syrenka"
     },
     "geometry" : {
       "type" : "Point",
@@ -461,7 +491,8 @@
     "properties" : {
       "name" : "Greek",
       "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
-      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,5/odcinek-6-sezon-5,11691,o.html"
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,5/odcinek-6-sezon-5,11691,o.html",
+      "homepage" : "http://greekzorbas.com/"
     },
     "geometry" : {
       "type" : "Point",
@@ -471,7 +502,7 @@
     "type" : "Feature",
     "properties" : {
       "name" : "Campo di Fiori ",
-      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_purple.png",
       "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,5/odcinek-7-sezon-5,11873,o.html"
     },
     "geometry" : {
@@ -494,7 +525,8 @@
     "properties" : {
       "name" : "Namaste",
       "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
-      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,5/odcinek-11-sezon-5,12964,o.html"
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,5/odcinek-11-sezon-5,12964,o.html",
+      "homepage" : "http://www.namaste-india.eu/"
     },
     "geometry" : {
       "type" : "Point",
@@ -505,7 +537,8 @@
     "properties" : {
       "name" : "Karczma pod Łosiem",
       "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
-      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,5/odcinek-13-sezon-5,13360,o.html"
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,5/odcinek-13-sezon-5,13360,o.html",
+      "homepage" : "http://karczma-pod-losiem.pl/"
     },
     "geometry" : {
       "type" : "Point",
@@ -516,7 +549,8 @@
     "properties" : {
       "name" : "Fregata  ",
       "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
-      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,5/odcinek-14-sezon-5,13603,o.html"
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,5/odcinek-14-sezon-5,13603,o.html",
+      "homepage" : "http://www.fregatarestauracja.pl/"
     },
     "geometry" : {
       "type" : "Point",
@@ -538,7 +572,8 @@
     "properties" : {
       "name" : "Magnolia",
       "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
-      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,6/odcinek-2-sezon-6,14849,o.html"
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,6/odcinek-2-sezon-6,14849,o.html",
+      "homepage" : "http://restauracjaobora.pl/"
     },
     "geometry" : {
       "type" : "Point",
@@ -549,7 +584,8 @@
     "properties" : {
       "name" : "Łabędź",
       "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
-      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,6/odcinek-4-sezon-6,15080,o.html"
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,6/odcinek-4-sezon-6,15080,o.html",
+      "homepage" : "http://www.labedz.info/"
     },
     "geometry" : {
       "type" : "Point",
@@ -560,7 +596,8 @@
     "properties" : {
       "name" : "Antykwariat",
       "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
-      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,6/odcinek-5-sezon-6,15177,o.html"
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,6/odcinek-5-sezon-6,15177,o.html",
+      "homepage" : "http://ąka.pl/"
     },
     "geometry" : {
       "type" : "Point",
@@ -571,7 +608,8 @@
     "properties" : {
       "name" : "Kuźnia Smaków",
       "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
-      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,6/odcinek-7-sezon-6,15719,o.html"
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,6/odcinek-7-sezon-6,15719,o.html",
+      "homepage" : "http://www.trattoriadatadeusz.com/"
     },
     "geometry" : {
       "type" : "Point",
@@ -582,7 +620,8 @@
     "properties" : {
       "name" : "Orient Express",
       "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
-      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,6/odcinek-8-sezon-6,15879,o.html"
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,6/odcinek-8-sezon-6,15879,o.html",
+      "homepage" : "http://www.restauracja-orient-express.pl/"
     },
     "geometry" : {
       "type" : "Point",
@@ -593,7 +632,8 @@
     "properties" : {
       "name" : "Zajazd pod Jodłową Górą",
       "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
-      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,6/odcinek-9-sezon-6,16011,o.html"
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,6/odcinek-9-sezon-6,16011,o.html",
+      "homepage" : "http://www.zajazdpodjodlowagora.pl/"
     },
     "geometry" : {
       "type" : "Point",
@@ -604,7 +644,8 @@
     "properties" : {
       "name" : "Karczma Leśniczanka",
       "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
-      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,6/odcinek-11-sezon-6,16382,o.html"
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,6/odcinek-11-sezon-6,16382,o.html",
+      "homepage" : "http://www.karczmalesniczanka.pl/"
     },
     "geometry" : {
       "type" : "Point",
@@ -615,7 +656,8 @@
     "properties" : {
       "name" : "Villa Toscania",
       "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
-      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,6/odcinek-12-sezon-6,16645,o.html"
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,6/odcinek-12-sezon-6,16645,o.html",
+      "homepage" : "http://www.villatoscania.com/"
     },
     "geometry" : {
       "type" : "Point",
@@ -626,7 +668,8 @@
     "properties" : {
       "name" : "Restauracja Gaumarjos",
       "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
-      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,6/odcinek-13-sezon-6,16755,o.html"
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,6/odcinek-13-sezon-6,16755,o.html",
+      "homepage" : "http://www.gaumarjos.pl/"
     },
     "geometry" : {
       "type" : "Point",
@@ -637,7 +680,8 @@
     "properties" : {
       "name" : "Stary Kredens",
       "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
-      "url" : "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-15,S07E15,20212.html"
+      "url" : "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-15,S07E15,20212.html",
+      "homepage" : "http://starykredens.com/"
     },
     "geometry" : {
       "type" : "Point",
@@ -648,7 +692,8 @@
     "properties" : {
       "name" : "Bazylia i Oregano",
       "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
-      "url" : "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-14,S07E14,20211.html"
+      "url" : "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-14,S07E14,20211.html",
+      "homepage" : "http://www.bazyliaioregano.pl/"
     },
     "geometry" : {
       "type" : "Point",
@@ -658,19 +703,20 @@
     "type" : "Feature",
     "properties" : {
       "name" : "Viki Lektiko",
-      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_purple.png",
       "url" : "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-13,S07E13,20210.html"
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 19.4074469, 54.15637 ]
+      "coordinates" : [ 19.3968567, 54.1578263 ]
     }
   }, {
     "type" : "Feature",
     "properties" : {
       "name" : "Malinówka",
       "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
-      "url" : "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-12,S07E12,20209.html"
+      "url" : "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-12,S07E12,20209.html",
+      "homepage" : "http://www.malinowka.wisla.pl/"
     },
     "geometry" : {
       "type" : "Point",
@@ -681,7 +727,8 @@
     "properties" : {
       "name" : "Majaga",
       "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
-      "url" : "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-10,S07E10,19800.html"
+      "url" : "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-10,S07E10,19800.html",
+      "homepage" : "http://www.usiostr.pl/"
     },
     "geometry" : {
       "type" : "Point",
@@ -692,7 +739,8 @@
     "properties" : {
       "name" : "Perła",
       "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
-      "url" : "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-9,S07E09,19371.html"
+      "url" : "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-9,S07E09,19371.html",
+      "homepage" : "http://www.perlajaslo.pl/"
     },
     "geometry" : {
       "type" : "Point",
@@ -703,7 +751,8 @@
     "properties" : {
       "name" : "Restauracja Carska",
       "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
-      "url" : "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-8,S07E08,19370.html"
+      "url" : "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-8,S07E08,19370.html",
+      "homepage" : "http://www.carska.com/"
     },
     "geometry" : {
       "type" : "Point",
@@ -713,7 +762,7 @@
     "type" : "Feature",
     "properties" : {
       "name" : "VooDoo",
-      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_purple.png",
       "url" : "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-7,S07E07,18977.html"
     },
     "geometry" : {
@@ -725,7 +774,8 @@
     "properties" : {
       "name" : "Marrone",
       "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
-      "url" : "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-6,S07E06,18976.html"
+      "url" : "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-6,S07E06,18976.html",
+      "homepage" : "http://golonkawpepitke.pl"
     },
     "geometry" : {
       "type" : "Point",
@@ -778,6 +828,30 @@
   }, {
     "type" : "Feature",
     "properties" : {
+      "name" : "Tawerna",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,8/odcinek-14-sezon-8,24847,o.html",
+      "homepage" : "http://www.ararat.warszawa.pl/"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 21.0213626, 52.2658101 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Chata Paprocańska",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,8/odcinek-13-sezon-8,24573,o.html",
+      "homepage" : "http://dom-bawarski.pl/"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 18.9915895, 50.0938745 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "name" : "Zajazd pod Kłobukiem",
       "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
       "url" : "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-12,S08E12,23872.html",
@@ -786,6 +860,42 @@
     "geometry" : {
       "type" : "Point",
       "coordinates" : [ 19.7317454, 53.9092707 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Feniks",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,8/odcinek-11-sezon-8,24245,o.html",
+      "homepage" : "http://babcinykredens.pl/"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 18.9322141, 50.060247 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Paradis",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,8/odcinek-10-sezon-8,23964,o.html",
+      "homepage" : "http://www.restauracjabeka.pl/"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 18.3938153, 54.7108552 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Imperium Smaku",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,8/odcinek-9-sezon-8,23806,o.html",
+      "homepage" : "http://www.facebook.com/GoracaKielbasiarnia"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.471452, 51.788567 ]
     }
   }, {
     "type" : "Feature",
@@ -827,7 +937,8 @@
     "properties" : {
       "name" : "Villa Bianco",
       "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
-      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,9/odcinek-13-sezon-9,30204,o.html"
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,9/odcinek-13-sezon-9,30204,o.html",
+      "homepage" : "http://www.villabianco.pl/"
     },
     "geometry" : {
       "type" : "Point",
@@ -882,7 +993,8 @@
     "properties" : {
       "name" : "Bistro pod Aniołami",
       "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
-      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,9/odcinek-7-sezon-9,29043,o.html"
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,9/odcinek-7-sezon-9,29043,o.html",
+      "homepage" : "http://bistromadame.pl/"
     },
     "geometry" : {
       "type" : "Point",
@@ -1108,7 +1220,8 @@
     "properties" : {
       "name" : "Restauracja Dymarka",
       "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
-      "url" : "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-9,lancut-dymarka,S12E09,53187.html"
+      "url" : "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-9,lancut-dymarka,S12E09,53187.html",
+      "homepage" : "http://www.hoteldymarka.pl/"
     },
     "geometry" : {
       "type" : "Point",
@@ -1163,6 +1276,66 @@
   }, {
     "type" : "Feature",
     "properties" : {
+      "name" : "Karczma górecka",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,12/odcinek-5,54809,o.html",
+      "homepage" : "http://www.facebook.pl/owceiroza"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 18.866968, 49.755771 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Charlie’s",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_purple.png",
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,12/odcinek-4,54615,o.html",
+      "homepage" : "https://www.facebook.com/pages/Charlies/1433614446909541"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.7165984, 52.4305581 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Good Father",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,12/odcinek-3,54309,o.html",
+      "homepage" : "http://www.bestkompr.nazwa.pl/gfpizza/"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.0210687, 50.2654755 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Tbilisi",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,12/odcinek-2,54123,o.html",
+      "homepage" : "http://www.tbilisi.waw.pl/"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 21.0218334, 52.2069036 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Czardasz",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,12/odcinek-1,53994,o.html",
+      "homepage" : "http://www.czardasz.net/"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 18.5850237, 54.4059067 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "name" : "PHÚC PHÚ",
       "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
       "url" : "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-14,lubartow-ognisty-smok,S13E14,60229.html"
@@ -1187,7 +1360,8 @@
     "properties" : {
       "name" : "Wyszynk z szynką",
       "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
-      "url" : "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-12,kielce-jadlodajnia-bartosz,S13E12,60227.html"
+      "url" : "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-12,kielce-jadlodajnia-bartosz,S13E12,60227.html",
+      "homepage" : "https://m.facebook.com/Wyszynk-z-szynk%C4%85-440042279458505/"
     },
     "geometry" : {
       "type" : "Point",
@@ -1332,7 +1506,8 @@
     "properties" : {
       "name" : "Cykada",
       "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
-      "url" : "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-14,chlastawa-karczma-cykada,S14E14,65005.html"
+      "url" : "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-14,chlastawa-karczma-cykada,S14E14,65005.html",
+      "homepage" : "http://www.karczmacykada.pl/"
     },
     "geometry" : {
       "type" : "Point",
@@ -1418,6 +1593,18 @@
     "geometry" : {
       "type" : "Point",
       "coordinates" : [ 16.1759, 52.4523 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Blue Moon",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,14/odcinek-6,66890,o.html",
+      "homepage" : "http://www.restauracja-bluemoon.pl/"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.4717335, 53.2723098 ]
     }
   }, {
     "type" : "Feature",
