@@ -5,10 +5,40 @@
 			"adres": "Gdańska 36, 83-332 Borowo",
 			"url": "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-8,S11E08,50131.html"
 		}, {
+			"odcinek": 7,
+			"nazwa": "Polskie ranczo",
+			"adres": "Bestwinka",
+			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,11/odcinek-7-sezon-11,50010,o.html"
+		}, {
 			"odcinek": 6,
 			"nazwa": "Restauracja Młyn",
 			"adres": "Wolności 15, 77-100 Bytów",
 			"url": "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-6,S11E06,38120.html"
+		}, {
+			"odcinek": 5,
+			"nazwa": "Stary browar",
+			"adres": "Świdnica",
+			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,11/odcinek-5-sezon-11,38183,o.html"
+		}, {
+			"odcinek": 4,
+			"nazwa": "U' Bares",
+			"adres": "Rzeszów",
+			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,11/odcinek-4-sezon-11,37928,o.html"
+		}, {
+			"odcinek": 3,
+			"nazwa": "Pod Złotym Aniołem",
+			"adres": "Bolesławiec",
+			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,11/odcinek-3-sezon-11,37595,o.html"
+		}, {
+			"odcinek": 2,
+			"nazwa": "West End",
+			"adres": "Piła",
+			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,11/odcinek-2-sezon-11,37446,o.html"
+		}, {
+			"odcinek": 1,
+			"nazwa": "Cubanita",
+			"adres": "Sandomierz",
+			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,11/odcinek-1-sezon-11,36840,o.html"
 		}
 	]
 }

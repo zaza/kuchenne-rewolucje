@@ -18,6 +18,10 @@ public class Episode {
 		this.episode = episode;
 	}
 	
+	public int getSeason() {
+		return (int) episode.get("sezon");
+	}
+
 	public int getNumber() {
 		return (int) episode.get("odcinek");
 	}

@@ -20,6 +20,11 @@
 			"adres":"Wisła",
 			"url":"http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-12,S07E12,20209.html"
 		}, {
+			"odcinek":11,
+			"nazwa":"Tawerna Ellada",
+			"adres":"Głogów",
+			"url":"http://kuchennerewolucje.tvn.pl/odcinki-online,7/odcinek-11-sezon-7,20052,o.html"
+		}, {
 			"odcinek":10,
 			"nazwa":"Majaga",
 			"adres":"Dębica",
@@ -54,6 +59,16 @@
 			"nazwa":"Gospoda Nasza Chata Smaków",
 			"adres":"Babi Dół",
 			"url":"http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-4,S07E04,18748.html"
+		}, {
+			"odcinek":3,
+			"nazwa":"Restauracja Rybka",
+			"adres":"Gdańsk",
+			"url":"http://kuchennerewolucje.tvn.pl/odcinki-online,7/odcinek-3-sezon-7,18450,o.html"
+		}, {
+			"odcinek":2,
+			"nazwa":"Cieszyński Browar Mieszczański",
+			"adres":"Cieszyn",
+			"url":"http://kuchennerewolucje.tvn.pl/odcinki-online,7/odcinek-2-sezon-7,18174,o.html"
 		}, {
 			"odcinek":1,
 			"nazwa":"Folklor",

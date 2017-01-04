@@ -42,11 +42,36 @@
 			"adres": "Kościuszki 34, 83-400 Kościerzyna",
 			"url": "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-8,S08E08,23327.html"
 		}, {
+			"odcinek": 7,
+			"nazwa": "Mauritiana",
+			"adres": "Nowy Targ",
+			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,8/odcinek-7-sezon-8,23287,o.html"
+		}, {
+			"odcinek": 6,
+			"nazwa": "Euforia",
+			"adres": "Ciągowice",
+			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,8/odcinek-6-sezon-8,23221,o.html"
+		}, {
+			"odcinek": 5,
+			"nazwa": "Relax",
+			"adres": "Chełm",
+			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,8/odcinek-5-sezon-8,22971,o.html"
+		}, {
 			"odcinek": 4,
 			"nazwa": "Sielska Zagroda",
 			"adres": "Gdańska 12, 82-100 Nowy Dwór Gdański",
 			"url": "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-4,S08E04,22211.html",
 			"homepage": "http://www.sielskazagroda.com.pl/"
+		}, {
+			"odcinek": 3,
+			"nazwa": "U Wikinga",
+			"adres": "Słupsk",
+			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,8/odcinek-3-sezon-8,22436,o.html"
+		}, {
+			"odcinek": 2,
+			"nazwa": "Do Syta",
+			"adres": "Łódź",
+			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,8/odcinek-2-sezon-8,22340,o.html"
 		}, {
 			"odcinek": 1,
 			"nazwa": "U Przyjaciół",

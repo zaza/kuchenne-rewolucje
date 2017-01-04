@@ -56,6 +56,7 @@ class EpisodeToFeatureMapper implements Function<Episode, Optional<Feature>> {
 		feature.getProperties().put("url", episode.getUrl());
 		addHomepageIfExists(feature, episode);
 		feature.getProperties().put("icon", episode.getIcon());
+		addSeasonAndEpisodeNumber(feature, episode);
 		return Optional.of(feature);
 	}
 
@@ -67,6 +68,7 @@ class EpisodeToFeatureMapper implements Function<Episode, Optional<Feature>> {
 		feature.getProperties().put("url", episode.getUrl());
 		addHomepageIfExists(feature, episode, result.placeId);
 		feature.getProperties().put("icon", episode.getIcon(!result.permanentlyClosed));
+		addSeasonAndEpisodeNumber(feature, episode);
 		return Optional.of(feature);
 	}
 
@@ -83,6 +85,11 @@ class EpisodeToFeatureMapper implements Function<Episode, Optional<Feature>> {
 				feature.getProperties().put("homepage", placeDetails.get().website.toString());
 			}
 		}
+	}
+	
+	private void addSeasonAndEpisodeNumber(Feature feature, Episode episode) {
+		feature.getProperties().put("season", episode.getSeason());
+		feature.getProperties().put("episode", episode.getNumber());
 	}
 
 	private Optional<GeocodingResult> geocode(String address) {

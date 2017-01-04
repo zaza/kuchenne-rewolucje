@@ -31,6 +31,7 @@ public class EpisodesReader {
 			int seasonNumber = getSeasonNumber(season);
 			List<Map<String, Object>> episodes = readEpisodes(season.toFile());
 			for (Map<String, Object> episode : episodes) {
+				episode.put("sezon", seasonNumber);
 				result.put(seasonNumber, new Episode(episode));
 			}
 		}

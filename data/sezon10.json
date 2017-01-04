@@ -7,11 +7,26 @@
 			"url": "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-11,S10E11,34595.html",
 			"homepage": "https://www.facebook.com/cechowybar"
 		}, {
+			"odcinek": 10,
+			"nazwa": "Karczma Śląska",
+			"adres": "Dąbrowa Górnicza",
+			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,10/odcinek-10-sezon-10,34556,o.html"
+		}, {
+			"odcinek": 9,
+			"nazwa": "Ranczo pod strusiem",
+			"adres": "Bielsko Biała",
+			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,10/odcinek-9-sezon-10,34231,o.html"
+		}, {
 			"odcinek": 8,
 			"nazwa": "Francja Elegancja",
 			"dawniej": "Szachownica",
 			"adres": "Wroniecka 18, 61-763 Poznań",
 			"url": "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-8,S10E08,33897.html"
+		}, {
+			"odcinek": 7,
+			"nazwa": "Gęsia szyja",
+			"adres": "Chełm",
+			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,10/odcinek-7-sezon-10,33898,o.html"
 		}, {
 			"odcinek": 6,
 			"nazwa": "Pod Cielakiem",
@@ -19,12 +34,27 @@
 			"adres": "Dmowskiego 15, 80-243 Gdańsk",
 			"url": "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-6,S10E06,33152.html"
 		}, {
+			"odcinek": 5,
+			"nazwa": "Sekrety Buska",
+			"adres": "Busko Zdrój",
+			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,10/odcinek-5-sezon-10,33381,o.html"
+		}, {
 			"odcinek": 4,
 			"nazwa": "Przystanek Łosoś",
 			"dawniej": "Jurand",
 			"adres": "Egiertowo 77, 83-312 Egiertowo",
 			"url": "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-4,S10E04,33150.html",
 			"homepage": "http://przystanek-losos.pl/restauracja.html"
+		}, {
+			"odcinek": 3,
+			"nazwa": "Millenium",
+			"adres": "Tczew",
+			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,10/odcinek-3-sezon-10,33167,o.html"
+		}, {
+			"odcinek": 2,
+			"nazwa": "Bufet Country",
+			"adres": "Kobiór",
+			"url": "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-2,S10E02,32393.html"
 		}, {
 			"odcinek": 1,
 			"nazwa": "Gościniec Myśliwski",

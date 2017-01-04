@@ -14,16 +14,20 @@ import com.google.maps.GeoApiContext;
 
 public class Geocoder {
 
+	private static final File GEOJSON_FILE = new File("data.geojson");
+	
 	private static GeoApiContext CONTEXT;
 
 	public static void main(String[] args) throws Exception {
 		CONTEXT = createContext();
-		FeatureCollection featureCollection = new FeatureCollection();
+		FeatureCollection features = FeatureCollectionReader.read(GEOJSON_FILE);
+		NotExistingFeaturePredicate notExisting = new NotExistingFeaturePredicate(features); 
 		EpisodesReader.readAllEpisodes().values().stream() //
+				.filter(notExisting)
 				.map(new EpisodeToFeatureMapper(CONTEXT)) //
 				.filter(f -> f.isPresent()) //
-				.forEach(f -> featureCollection.add(f.get()));
-		createObjectWriter().writeValue(new File("data.geojson"), featureCollection);
+				.forEach(f -> features.add(f.get()));
+		createObjectWriter().writeValue(GEOJSON_FILE, features);
 	}
 
 	private static ObjectWriter createObjectWriter() {
