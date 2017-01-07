@@ -2326,5 +2326,18 @@
       "type" : "Point",
       "coordinates" : [ 18.6343372, 49.7450054 ]
     }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Zajazd Leśna Chata",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "season" : 6,
+      "episode" : 3,
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,6/odcinek-3-sezon-6,15008,o.html"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.417182, 51.387642 ]
+    }
   } ]
 }
