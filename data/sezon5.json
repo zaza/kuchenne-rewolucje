@@ -21,9 +21,11 @@
 			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,5/odcinek-4-sezon-5,11304,o.html"
 		}, {
 			"odcinek": 5,
-			"nazwa": "Enigma",
-			"adres": "Radom",
-			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,5/odcinek-5-sezon-5,11411,o.html"
+			"dawniej": "Enigma",
+			"nazwa": "Pyszny Browar",
+			"adres": "Wałowa 45, 26-600 Radom",
+			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,5/odcinek-5-sezon-5,11411,o.html",
+			"approved": false
 		}, {
 			"odcinek": 6,
 			"nazwa": "Greek",

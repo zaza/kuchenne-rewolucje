@@ -17,8 +17,9 @@
 		}, {
 			"odcinek":11,
 			"nazwa":"Stella Cafe",
-			"adres":"Lębork",
-			"url":"http://kuchennerewolucje.tvn.pl/odcinki-online,4/odcinek-11-sezon-4,10304,o.html"
+			"adres":"Staromiejska, 84-300 Lębork",
+			"url":"http://kuchennerewolucje.tvn.pl/odcinki-online,4/odcinek-11-sezon-4,10304,o.html",
+			"zamkniete": true
 		}, {
 			"odcinek":10,
 			"nazwa":"Galeria Smaku",

@@ -105,7 +105,7 @@ class EpisodeToFeatureMapper implements Function<Episode, Optional<Feature>> {
 	private Optional<PlacesSearchResult> textSearchQuery(String query) {
 		try {
 			PlacesSearchResult[] results = PlacesApi.textSearchQuery(context, query).type(PlaceType.FOOD)
-					.type(PlaceType.RESTAURANT).await().results;
+					.type(PlaceType.RESTAURANT).type(PlaceType.LODGING).await().results;
 			return getFirst(results, query);
 		} catch (Exception e) {
 			LOG.error(format("Error occured retrieving places for '%s': %s", query, e.getMessage()));

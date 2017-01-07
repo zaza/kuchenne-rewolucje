@@ -41,9 +41,12 @@
 			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,6/odcinek-9-sezon-6,16011,o.html"
 		}, {
 			"odcinek": 10,
-			"nazwa": "Goczałkowice",
-			"adres": "Matalmara",
-			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,6/odcinek-10-sezon-6,16230,o.html"
+			"adres": "Szkolna 82H, 43-230 Goczałkowice",
+			"dawniej": "Matalmara",
+			"nazwa": "Willa pod Złotym Ziemniakiem",
+			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,6/odcinek-10-sezon-6,16230,o.html",
+			"zamkniete": true,
+			"youtube": "https://www.youtube.com/watch?v=utE-ooynxak"
 		}, {
 			"odcinek": 11,
 			"nazwa": "Karczma Leśniczanka",

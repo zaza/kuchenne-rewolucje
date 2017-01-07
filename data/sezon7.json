@@ -67,8 +67,10 @@
 		}, {
 			"odcinek":2,
 			"nazwa":"Cieszyński Browar Mieszczański",
-			"adres":"Cieszyn",
-			"url":"http://kuchennerewolucje.tvn.pl/odcinki-online,7/odcinek-2-sezon-7,18174,o.html"
+			"adres":"Ks.I.Świeżego 6, 43-400 Cieszyn",
+			"url":"http://kuchennerewolucje.tvn.pl/odcinki-online,7/odcinek-2-sezon-7,18174,o.html",
+			"youtube": "https://www.youtube.com/watch?v=ABAVVXcIg6M",
+			"zamkniete": true
 		}, {
 			"odcinek":1,
 			"nazwa":"Folklor",

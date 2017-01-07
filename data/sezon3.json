@@ -14,8 +14,9 @@
 		{
 			"odcinek":10,
 			"nazwa":"Barcelonka",
-			"adres":"Przemyśl",
-			"url":"http://kuchennerewolucje.tvn.pl/odcinki-online,3/odcinek-10-sezon-3,10291,o.html"
+			"adres":"Sienkiewicza 7, 37-700 Przemyśl",
+			"url":"http://kuchennerewolucje.tvn.pl/odcinki-online,3/odcinek-10-sezon-3,10291,o.html",
+			"zamkniete": true
 		},
 		{
 			"odcinek":9,

@@ -2192,5 +2192,139 @@
       "type" : "Point",
       "coordinates" : [ 16.4717335, 53.2723098 ]
     }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Corum",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "season" : 5,
+      "episode" : 10,
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,5/odcinek-10-sezon-5,12675,o.html",
+      "homepage" : "http://www.corum.pl/"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 15.7786647, 50.7735309 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Pałac Nieznanice",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "season" : 5,
+      "episode" : 12,
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,5/odcinek-12-sezon-5,13179,o.html",
+      "homepage" : "http://www.nieznanice.pl/"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.3093943, 50.9199176 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Leo Libra",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "season" : 6,
+      "episode" : 6,
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,6/odcinek-6-sezon-6,15564,o.html",
+      "homepage" : "http://www.hotelgewert.pl/"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 17.6094103, 52.5432944 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Euforia",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "season" : 8,
+      "episode" : 6,
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,8/odcinek-6-sezon-8,23221,o.html"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.3690467, 50.4501171 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Zajazd pod zamkiem",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "season" : 9,
+      "episode" : 9,
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,9/odcinek-9-sezon-9,29585,o.html",
+      "homepage" : "http://www.zajazd.ketrzyn.pl/"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 21.3765299, 54.0745426 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Barcelonka",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_purple.png",
+      "season" : 3,
+      "episode" : 10,
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,3/odcinek-10-sezon-3,10291,o.html"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.7629401, 49.7816932 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Stella Cafe",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_purple.png",
+      "season" : 4,
+      "episode" : 11,
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,4/odcinek-11-sezon-4,10304,o.html"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 17.7475293, 54.5404228 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Pyszny Browar",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "season" : 5,
+      "episode" : 5,
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,5/odcinek-5-sezon-5,11411,o.html"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 21.1405002, 51.4023067 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Willa pod Złotym Ziemniakiem",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_purple.png",
+      "season" : 6,
+      "episode" : 10,
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,6/odcinek-10-sezon-6,16230,o.html"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 18.954991, 49.944089 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Cieszyński Browar Mieszczański",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_purple.png",
+      "season" : 7,
+      "episode" : 2,
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,7/odcinek-2-sezon-7,18174,o.html"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 18.6343372, 49.7450054 ]
+    }
   } ]
 }
