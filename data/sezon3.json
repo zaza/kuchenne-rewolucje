@@ -37,10 +37,24 @@
 			"url":"http://kuchennerewolucje.tvn.pl/odcinki-online,3/odcinek-7-sezon-3,10288,o.html"
 		},
 		{
+			"odcinek":6,
+			"nazwa":"Indian Ocean",
+			"adres":"osiedle Czecha 73, 60-101 Poznań",
+			"url":"http://kuchennerewolucje.tvn.pl/odcinki-online,3/odcinek-6-sezon-3,10287,o.html",
+			"zamkniete": true
+		},
+		{
 			"odcinek":5,
 			"nazwa":"Alchemik",
 			"adres":"Tomaszów Mazowiecki",
 			"url":"http://kuchennerewolucje.tvn.pl/odcinki-online,3/odcinek-5-sezon-3,10286,o.html"
+		},
+		{
+			"odcinek":4,
+			"nazwa":"Kuchnia i wino",
+			"adres":"Zdrojowa 4, 43-200 Pszczyna",
+			"url":"http://kuchennerewolucje.tvn.pl/odcinki-online,3/odcinek-4-sezon-3,10285,o.html",
+			"zamkniete": true
 		},
 		{
 			"odcinek":3,

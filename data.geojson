@@ -2366,5 +2366,31 @@
       "type" : "Point",
       "coordinates" : [ 21.019978, 52.2359989 ]
     }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Indian Ocean",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_purple.png",
+      "season" : 3,
+      "episode" : 6,
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,3/odcinek-6-sezon-3,10287,o.html"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.977406, 52.3859252 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Kuchnia i wino",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_purple.png",
+      "season" : 3,
+      "episode" : 4,
+      "url" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 18.9308934, 49.9684447 ]
+    }
   } ]
 }
