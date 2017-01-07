@@ -2339,5 +2339,32 @@
       "type" : "Point",
       "coordinates" : [ 20.417182, 51.387642 ]
     }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Samui",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "season" : 5,
+      "episode" : 8,
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,5/odcinek-8-sezon-5,12041,o.html",
+      "homepage" : "http://www.samui.com.pl/"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.9346362, 50.0602643 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Li-Du",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "season" : 4,
+      "episode" : 8,
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,4/odcinek-8-sezon-4,10301,o.html"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 21.019978, 52.2359989 ]
+    }
   } ]
 }

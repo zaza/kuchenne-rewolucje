@@ -33,9 +33,15 @@
 			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,5/odcinek-6-sezon-5,11691,o.html"
 		}, {
 			"odcinek": 7,
-			"nazwa": "Campo di Fiori ",
+			"nazwa": "Campo di Fiori",
 			"adres": "Nowy Sącz",
 			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,5/odcinek-7-sezon-5,11873,o.html"
+		}, {
+			"odcinek": 8,
+			"nazwa": "Samui",
+			"adres": "Wiślna 10, 30-001 Kraków",
+			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,5/odcinek-8-sezon-5,12041,o.html",
+			"homepage": "http://www.samui.com.pl/"
 		}, {
 			"odcinek": 9,
 			"nazwa": "Niebieski Parasol",
@@ -63,7 +69,7 @@
 			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,5/odcinek-13-sezon-5,13360,o.html"
 		}, {
 			"odcinek": 14,
-			"nazwa": "Fregata  ",
+			"nazwa": "Fregata",
 			"adres": "Koszalin",
 			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,5/odcinek-14-sezon-5,13603,o.html"
 		}
