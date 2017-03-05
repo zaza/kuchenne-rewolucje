@@ -1,0 +1,27 @@
+{
+	"odcinki": [ {
+			"odcinek": 1,
+			"nazwa": "Francuska Bajadera",
+			"dawniej": "Lawendowy dom",
+			"adres": "Czeladź",
+			"url": "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-1,czeladz-lawendowy-dom,S15E01,69813.html",
+			"homepage": "http://piekielna-kuchnia.blogspot.com"
+		}, {
+			"odcinek": 2,
+			"nazwa": "Pizzerie Solare",
+			"adres": "Biała Podlaska",
+			"url": "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-2,biala-podlaska-pizzeria-solare,S15E02,69815.html",
+			"homepage": "http://pizzeriasolare.pl"
+		}, {
+			"odcinek": 3,
+			"nazwa": "Zajazd w Strażnicy",
+			"adres": "Ujsoły",
+			"url": "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-3,ujsoly-zajazd-w-straznicy,S15E03,69816.html"
+		}, {
+			"odcinek": 4,
+			"nazwa": "Szafran",
+			"adres": "Łódź",
+			"url": "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-4,lodz-szafran,S15E04,69817.html"
+		}
+	]
+}

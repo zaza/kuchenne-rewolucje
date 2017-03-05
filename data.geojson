@@ -2392,5 +2392,18 @@
       "type" : "Point",
       "coordinates" : [ 18.9308934, 49.9684447 ]
     }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Zajazd w Strażnicy",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "season" : 15,
+      "episode" : 3,
+      "url" : "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-3,ujsoly-zajazd-w-straznicy,S15E03,69816.html"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.141273, 49.436653 ]
+    }
   } ]
 }
