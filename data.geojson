@@ -2405,5 +2405,61 @@
       "type" : "Point",
       "coordinates" : [ 19.141273, 49.436653 ]
     }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Francuska Bajadera",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "season" : 15,
+      "episode" : 1,
+      "url" : "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-1,czeladz-lawendowy-dom,S15E01,69813.html",
+      "homepage" : "http://piekielna-kuchnia.blogspot.com"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.069606, 50.3082112 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Restauracja Rodzinna",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "season" : 15,
+      "episode" : 5,
+      "url" : "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-5,lubin-restauracja-rodzinna,S15E05,69818.html",
+      "homepage" : "http://hotelastone.pl/"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.1967498, 51.3811779 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Italian House",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "season" : 15,
+      "episode" : 6,
+      "url" : "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-6,torun-italian-house,S15E06,69819.html",
+      "homepage" : "http://www.hotelbb.pl/"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 18.608651, 53.014053 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Przedzamcze",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "season" : 15,
+      "episode" : 7,
+      "url" : "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-7,sztum-restauracja-przedzamcze,S15E07,69820.html",
+      "homepage" : "http://www.przedzamcze.com.pl/"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.0434208, 53.915305 ]
+    }
   } ]
 }

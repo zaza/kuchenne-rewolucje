@@ -22,6 +22,27 @@
 			"nazwa": "Szafran",
 			"adres": "Łódź",
 			"url": "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-4,lodz-szafran,S15E04,69817.html"
+		}, {
+			"odcinek": 5,
+			"nazwa": "Restauracja Rodzinna",
+			"adres": "Lubin",
+			"url": "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-5,lubin-restauracja-rodzinna,S15E05,69818.html"
+		}, {
+			"odcinek": 6,
+			"nazwa": "Italian House",
+			"adres": "Toruń",
+			"url": "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-6,torun-italian-house,S15E06,69819.html",
+			"homepage": "http://italianhousetorun.pl"
+		}, {
+			"odcinek": 7,
+			"nazwa": "Przedzamcze",
+			"adres": "Sztum",
+			"url": "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-7,sztum-restauracja-przedzamcze,S15E07,69820.html"
+		}, {
+			"odcinek": 8,
+			"nazwa": "Zajazd u Stefana",
+			"adres": "Odolanów",
+			"url": "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-8,odolanow-zajazd-u-stefana,S15E08,69821.html"
 		}
 	]
 }
