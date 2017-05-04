@@ -2461,5 +2461,47 @@
       "type" : "Point",
       "coordinates" : [ 19.0434208, 53.915305 ]
     }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Na Skarpie",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "season" : 15,
+      "episode" : 9,
+      "url" : "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-9,radziejow-na-skarpie,S15E09,69822.html",
+      "homepage" : "http://www.restauracja-arkadia.pl/"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 18.5248028, 52.6285427 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Lizawka",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "season" : 15,
+      "episode" : 12,
+      "url" : "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-12,poznan-lizawka,S15E12,69825.html",
+      "homepage" : "http://lizawka.pl/"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 17.02191, 52.420383 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Pizzeria Solare",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "season" : 15,
+      "episode" : 2,
+      "url" : "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-2,biala-podlaska-pizzeria-solare,S15E02,69815.html",
+      "homepage" : "http://pizzeriasolare.pl"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 23.115103, 52.033206 ]
+    }
   } ]
 }
