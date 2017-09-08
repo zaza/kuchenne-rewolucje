@@ -63,6 +63,16 @@
 			"nazwa": "Lizawka",
 			"adres": "Poznań",
 			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-12,poznan-lizawka,S15E12,69825.html"
+		}, {
+			"odcinek": 13,
+			"nazwa": "Bajkowa",
+			"adres": "Swarzędz",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-13,swarzedz-bajkowa,S15E13,69826.html"
+		}, {
+			"odcinek": 14,
+			"nazwa": "Fang Youn",
+			"adres": "Ostróda",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-14,ostroda-fang-youn,S15E14,69827.html"
 		}
 	]
 }

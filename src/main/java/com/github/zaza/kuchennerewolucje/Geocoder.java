@@ -1,8 +1,11 @@
 package com.github.zaza.kuchennerewolucje;
 
+import static com.google.common.base.Preconditions.checkState;
+
 import java.io.File;
 import java.io.IOException;
 import java.nio.file.Files;
+import java.nio.file.Path;
 import java.nio.file.Paths;
 
 import org.geojson.FeatureCollection;
@@ -36,6 +39,8 @@ public class Geocoder {
 	}
 
 	private static GeoApiContext createContext() throws IOException {
-		return new GeoApiContext().setApiKey(new String(Files.readAllBytes(Paths.get("api-key")), "UTF-8"));
+		Path apiKey = Paths.get("api-key");
+		checkState(apiKey.toFile().exists(), "file with API key not found");
+		return new GeoApiContext().setApiKey(new String(Files.readAllBytes(apiKey), "UTF-8"));
 	}
 }

@@ -1,0 +1,14 @@
+{
+	"odcinki": [ {
+			"odcinek": 1,
+			"nazwa": "Sale & Pepe",
+			"adres": "Sosnowiec",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-1,sosnowiec-pizzeria-sale-pepe,S16E01,79296.html"
+		}, {
+			"odcinek": 2,
+			"nazwa": "Ślonsko gościno",
+			"adres": "Tarnowskie Góry",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-2,tarnowskie-gory-slonsko-goscino,S16E02,79297.html"
+		}
+	]
+}
