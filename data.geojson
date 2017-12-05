@@ -2503,5 +2503,103 @@
       "type" : "Point",
       "coordinates" : [ 23.115103, 52.033206 ]
     }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Bajkowa",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "season" : 15,
+      "episode" : 13,
+      "url" : "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-13,swarzedz-bajkowa,S15E13,69826.html",
+      "homepage" : "http://bb-astoria.pl/"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 17.0839595, 52.4209966 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Ślonsko gościno",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "season" : 16,
+      "episode" : 2,
+      "url" : "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-2,tarnowskie-gory-slonsko-goscino,S16E02,79297.html",
+      "homepage" : "http://www.operahotel.pl/"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 18.8545404, 50.4433406 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Magiliana",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "season" : 16,
+      "episode" : 6,
+      "url" : "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-6,S16E06,79301",
+      "homepage" : "http://www.kamionki.com.pl/"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.1940847, 50.2940218 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Retka",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "season" : 16,
+      "episode" : 8,
+      "url" : "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-8,S16E08,79303",
+      "homepage" : "http://www.hostelmolo.pl/"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.4696543, 51.7977146 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Niebo w gębie i na talerzu",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "season" : 16,
+      "episode" : 10,
+      "url" : "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-10,S16E10,79305",
+      "homepage" : "http://rj-hotel-pabianice.business.site/"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.3613588, 51.6484793 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Kanion",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "season" : 16,
+      "episode" : 12,
+      "url" : "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-12,S16E12,79307",
+      "homepage" : "http://pensjonatkanion.pl/"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 15.5257976, 50.824826 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Esencja i smak",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "season" : 16,
+      "episode" : 13,
+      "url" : "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-13,S16E13,79308",
+      "homepage" : "http://lodowisko.pszow.pl/?s=hotel"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 18.4041113, 50.041248 ]
+    }
   } ]
 }
