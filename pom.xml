@@ -19,7 +19,7 @@
 		<dependency>
 			<groupId>com.google.maps</groupId>
 			<artifactId>google-maps-services</artifactId>
-			<version>0.1.17</version>
+			<version>0.10.1</version>
 		</dependency>
 		<dependency>
 			<groupId>de.grundid.opendatalab</groupId>

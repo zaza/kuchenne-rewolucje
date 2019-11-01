@@ -482,12 +482,11 @@
       "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
       "season" : 4,
       "episode" : 2,
-      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,4/odcinek-2-sezon-4,10295,o.html",
-      "homepage" : "http://www.rodeosteakhousegrill.com/"
+      "url" : "http://kuchennerewolucje.tvn.pl/odcinki-online,4/odcinek-2-sezon-4,10295,o.html"
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ -124.2126007, 43.3739058 ]
+      "coordinates" : [ 18.9262177, 53.7342507 ]
     }
   }, {
     "type" : "Feature",
@@ -2600,6 +2599,163 @@
     "geometry" : {
       "type" : "Point",
       "coordinates" : [ 18.4041113, 50.041248 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Bar na Stawkach",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "season" : 15,
+      "episode" : 11,
+      "url" : "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-11,ostrowiec-swietokrzyski-bar-na-stawkach,S15E11,69824.html"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 21.3635509, 50.9196273 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Pirat",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "season" : 16,
+      "episode" : 5,
+      "url" : "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-5,S16E05,79300",
+      "homepage" : "http://www.pirat.com.pl/"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.4258739, 53.797946 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Szafran",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "season" : 15,
+      "episode" : 4,
+      "url" : "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-4,lodz-szafran,S15E04,69817.html"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.4560105, 51.7548631 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Zajazd u Stefana",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "season" : 15,
+      "episode" : 8,
+      "url" : "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-8,odolanow-zajazd-u-stefana,S15E08,69821.html"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 17.67016, 51.57823 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Rammer Jammer",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "season" : 15,
+      "episode" : 10,
+      "url" : "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-10,glogowek-rammer-jammer,S15E10,69823.html"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 17.8615678, 50.3536426 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Fang Youn",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_purple.png",
+      "season" : 15,
+      "episode" : 14,
+      "url" : "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-14,ostroda-fang-youn,S15E14,69827.html"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.960808, 53.701649 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Sale & Pepe",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "season" : 16,
+      "episode" : 1,
+      "url" : "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-1,sosnowiec-pizzeria-sale-pepe,S16E01,79296.html"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.108866, 50.282191 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Utarte",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "season" : 16,
+      "episode" : 3,
+      "url" : "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-3,S16E03,79298"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.4045229, 50.1421829 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "1,2,3",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "season" : 16,
+      "episode" : 4,
+      "url" : "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-4,S16E04,79299"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.9921897, 50.0138563 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "La Papillon Noir",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_purple.png",
+      "season" : 16,
+      "episode" : 7,
+      "url" : "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-7,S16E07,79302"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.006815, 50.2628706 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Pizzeria Vicenti",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "season" : 16,
+      "episode" : 9,
+      "url" : "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-9,S16E09,79304"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.9338857, 50.0631084 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Quatro",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "season" : 16,
+      "episode" : 11,
+      "url" : "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-11,S16E11,79306"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.838659, 52.741114 ]
     }
   } ]
 }
