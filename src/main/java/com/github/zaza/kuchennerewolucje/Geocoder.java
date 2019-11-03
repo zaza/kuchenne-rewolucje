@@ -10,6 +10,7 @@ import java.nio.file.Paths;
 
 import org.geojson.FeatureCollection;
 
+import com.fasterxml.jackson.annotation.JsonInclude.Include;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.ObjectWriter;
 import com.fasterxml.jackson.databind.SerializationFeature;
@@ -45,8 +46,8 @@ public class Geocoder {
 	}
 
 	private void write(FeatureCollection updatedFeatures) throws IOException {
-		ObjectWriter writer = new ObjectMapper().writer().with(SerializationFeature.INDENT_OUTPUT)
-		.without(SerializationFeature.WRITE_NULL_MAP_VALUES);
+		ObjectMapper mapper = new ObjectMapper().setSerializationInclusion(Include.NON_NULL);
+		ObjectWriter writer = mapper.writer().with(SerializationFeature.INDENT_OUTPUT);
 		writer.writeValue(GEOJSON_FILE, updatedFeatures);
 	}
 
