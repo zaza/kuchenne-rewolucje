@@ -1,0 +1,74 @@
+{
+	"odcinki": [ {
+			"odcinek": 1,
+			"nazwa": "Sjesta",
+			"adres": "Częstochowa",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-1,S18E01,113041"
+		}, {
+			"odcinek": 2,
+			"nazwa": "Pracowania dobrych smaków - Rozmaryn",
+			"adres": "Szczecin",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-2,S18E02,113042"
+		}, {
+			"odcinek": 3,
+			"nazwa": "Perfect Pub",
+			"adres": "Pasłęk",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-3,S18E03,113043"
+		}, {
+			"odcinek": 4,
+			"nazwa": "Ziołowa Chata",
+			"adres": "Brenna",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-4,S18E04,113044"
+		}, {
+			"odcinek": 5,
+			"nazwa": "Alladin's",
+			"adres": "Wrocław",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-5,S18E05,113045"
+		}, {
+			"odcinek": 6,
+			"nazwa": "Włoszczyzna",
+			"adres": "Łódź",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-6,S18E06,117559"
+		}, {
+			"odcinek": 7,
+			"nazwa": "Czarny Bawół",
+			"adres": "Stare Czarnowo",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-7,S18E07,117560"
+		}, {
+			"odcinek": 8,
+			"nazwa": "James Bomba-lina",
+			"adres": "Białystok",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-8,S18E08,117561"
+		}, {
+			"odcinek": 9,
+			"nazwa": "Karuzela smaku",
+			"adres": "Warszawa",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-9,S18E09,117562"
+		}, {
+			"odcinek": 10,
+			"nazwa": "Zorba",
+			"adres": "Tychy",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-10,S18E10,117563"
+		}, {
+			"odcinek": 11,
+			"nazwa": "Porto di mare",
+			"adres": "Trzebinia",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-11,S18E11,117564"
+		}, {
+			"odcinek": 12,
+			"nazwa": "Szafran",
+			"adres": "Kwidzyn",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-12,S18E12,117565"
+		}, {
+			"odcinek": 13,
+			"nazwa": "Masala Twist",
+			"adres": "Toruń",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-13,S18E13,117566"
+		}, {
+			"odcinek": 14,
+			"nazwa": "Karczma Ordynat",
+			"adres": "Wielącza k. Zamościa",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-14,S18E14,117567"
+		}
+	]
+}

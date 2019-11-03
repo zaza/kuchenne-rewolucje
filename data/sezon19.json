@@ -1,0 +1,69 @@
+{
+	"odcinki": [ {
+			"odcinek": 1,
+			"nazwa": "Hacjenda",
+			"adres": "Słupia",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-1,S19E01,129743"
+		}, {
+			"odcinek": 2,
+			"nazwa": "Taste",
+			"adres": "Świnoujście",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-2,S19E02,129744"
+		}, {
+			"odcinek": 3,
+			"nazwa": "Dzika Róża",
+			"adres": "Rybnik",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-3,S19E03,129745"
+		}, {
+			"odcinek": 4,
+			"nazwa": "Mada",
+			"adres": "Warszawa",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-4,S19E04,129746"
+		}, {
+			"odcinek": 5,
+			"nazwa": "Paradiso",
+			"adres": "Kawice",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-5,S19E05,129747"
+		}, {
+			"odcinek": 6,
+			"nazwa": "Zapiecek",
+			"adres": "Lublin",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-6,S19E06,129748"
+		}, {
+			"odcinek": 7,
+			"nazwa": "Zakątek smaku",
+			"adres": "Konstantynów Łódźki",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-7,S19E07,129749"
+		}, {
+			"odcinek": 8,
+			"nazwa": "Pierogarnia",
+			"adres": "Tczew",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-8,S19E08,129750"
+		}, {
+			"odcinek": 9,
+			"nazwa": "Bar Tarchomin",
+			"adres": "Warszawa",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-9,S19E09,129751"
+		}, {
+			"odcinek": 10,
+			"nazwa": "Pierogarnia u Marty",
+			"adres": "Nowogard",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-10,S19E10,129752"
+		}, {
+			"odcinek": 11,
+			"nazwa": "Pierogatka",
+			"adres": "Kalisz",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-11,S19E11,129753"
+		}, {
+			"odcinek": 12,
+			"nazwa": "Pod przykryfką",
+			"adres": "Gdańsk",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-12,S19E12,129754"
+		}, {
+			"odcinek": 13,
+			"nazwa": "Złota kura",
+			"adres": "Elbląg",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-13,S19E13,129755"
+		}
+	]
+}

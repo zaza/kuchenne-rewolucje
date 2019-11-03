@@ -1,0 +1,54 @@
+{
+	"odcinki": [ {
+			"odcinek": 1,
+			"nazwa": "Best Bar",
+			"adres": "Ostrów Wielkopolski",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-1,S20E01,149874"
+		}, {
+			"odcinek": 2,
+			"nazwa": "Ludwinka",
+			"adres": "Ludwina",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-2,S20E02,149875"
+		}, {
+			"odcinek": 3,
+			"nazwa": "Zajazd Florencja",
+			"adres": "Nowy Klincz",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-3,S20E03,149876"
+		}, {
+			"odcinek": 4,
+			"nazwa": "Gościnna Ukrainka",
+			"adres": "Wejcherowo",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-4,S20E04,149877"
+		}, {
+			"odcinek": 5,
+			"nazwa": "Tarta poducha",
+			"adres": "Wrocław",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-5,S20E05,149878"
+		}, {
+			"odcinek": 6,
+			"nazwa": "Bistro Galancie",
+			"adres": "Łódź",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-6,S20E06,149879"
+		}, {
+			"odcinek": 7,
+			"nazwa": "Pod zachrypniętym kogutem",
+			"adres": "Glewo",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-7,S20E07,149880"
+		}, {
+			"odcinek": 8,
+			"nazwa": "Ukradli talerze",
+			"adres": "Prudnik",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-8,S20E08,149881"
+		}, {
+			"odcinek": 9,
+			"nazwa": "U Mariusza",
+			"adres": "Płock",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-9,S20E09,149882"
+		}, {
+			"odcinek": 10,
+			"nazwa": "Vintuna",
+			"adres": "Warszawa",
+			"url": "https://player.pl/playerplus/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-10,S20E10,149883"
+		}
+	]
+}
