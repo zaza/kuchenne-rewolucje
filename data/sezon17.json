@@ -1,0 +1,74 @@
+{
+	"odcinki": [ {
+			"odcinek": 1,
+			"nazwa": "Granola",
+			"adres": "Gdynia",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-1,S17E01,95155"
+		}, {
+			"odcinek": 2,
+			"nazwa": "Cuda Wianki",
+			"adres": "Kraków",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-2,S17E02,95156"
+		}, {
+			"odcinek": 3,
+			"nazwa": "Biała Karczma",
+			"adres": "Grudziąc",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-3,S17E03,95157"
+		}, {
+			"odcinek": 4,
+			"nazwa": "Sielsko Anielsko",
+			"adres": "Sieradz",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-4,S17E04,95158"
+		}, {
+			"odcinek": 5,
+			"nazwa": "Czerwony Kapturek",
+			"adres": "Poznań",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-5,S17E05,95159"
+		}, {
+			"odcinek": 6,
+			"nazwa": "Marysieńka",
+			"adres": "Babice k. Oświęcimia",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-6,S17E06,95160"
+		}, {
+			"odcinek": 7,
+			"nazwa": "Kwadratowy Talerz",
+			"adres": "Wrocław",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-7,S17E07,95161"
+		}, {
+			"odcinek": 8,
+			"nazwa": "Helios",
+			"adres": "Czerwionka Leszczyny",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-8,S17E08,95162"
+		}, {
+			"odcinek": 9,
+			"nazwa": "Ibis",
+			"adres": "Goszczanów",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-9,S17E09,95163"
+		}, {
+			"odcinek": 10,
+			"nazwa": "Famiglia per Amici",
+			"adres": "Łódź",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-10,S17E10,95164"
+		}, {
+			"odcinek": 11,
+			"nazwa": "Bistro przy Rondzie",
+			"adres": "Radzionków",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-11,S17E11,95165"
+		}, {
+			"odcinek": 12,
+			"nazwa": "Figa z makiem",
+			"adres": "Kołobrzeg",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-12,S17E12,95166"
+		}, {
+			"odcinek": 13,
+			"nazwa": "No i fajnie",
+			"adres": "Zgierz",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-13,S17E13,95167"
+		}, {
+			"odcinek": 14,
+			"nazwa": "Krupniok",
+			"adres": "Namysłów",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-14,S17E14,95168"
+		}
+	]
+}

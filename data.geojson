@@ -2757,5 +2757,185 @@
       "type" : "Point",
       "coordinates" : [ 22.838659, 52.741114 ]
     }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Granola",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "season" : 17,
+      "episode" : 1,
+      "url" : "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-1,S17E01,95155",
+      "homepage" : "https://sledz-i-chleb.business.site/"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 18.535797, 54.520545 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Cuda Wianki",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "season" : 17,
+      "episode" : 2,
+      "url" : "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-2,S17E02,95156",
+      "homepage" : "https://kielbasaisznurek.eu/"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.9376778, 50.0653023 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Biała Karczma",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "season" : 17,
+      "episode" : 3,
+      "url" : "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-3,S17E03,95157",
+      "homepage" : "http://bialakarczma.pl/"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 18.7342591, 53.4940896 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Sielsko Anielsko",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_purple.png",
+      "season" : 17,
+      "episode" : 4,
+      "url" : "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-4,S17E04,95158"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 18.737291, 51.593519 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Czerwony Kapturek",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "season" : 17,
+      "episode" : 5,
+      "url" : "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-5,S17E05,95159",
+      "homepage" : "https://www.facebook.com/kotletbistro/"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.9335613, 52.4031015 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Marysieńka",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "season" : 17,
+      "episode" : 6,
+      "url" : "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-6,S17E06,95160",
+      "homepage" : "http://zajazdbabski.com/"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.212439, 50.050827 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Kwadratowy Talerz",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_purple.png",
+      "season" : 17,
+      "episode" : 7,
+      "url" : "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-7,S17E07,95161"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 17.0457, 51.08985 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Helios",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "season" : 17,
+      "episode" : 8,
+      "url" : "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-8,S17E08,95162",
+      "homepage" : "http://www.ckecl.pl/"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 18.669708, 50.15439 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Ibis",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "season" : 17,
+      "episode" : 9,
+      "url" : "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-9,S17E09,95163",
+      "homepage" : "https://www.facebook.com/kaczkizawoda/"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 18.500562, 51.788515 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Bistro przy Rondzie",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "season" : 17,
+      "episode" : 11,
+      "url" : "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-11,S17E11,95165",
+      "homepage" : "http://www.mazurspj.pl/kontakt/"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 18.900234, 50.385574 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Figa z makiem",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "season" : 17,
+      "episode" : 12,
+      "url" : "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-12,S17E12,95166",
+      "homepage" : "https://www.facebook.com/figazmakiemkg/"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 15.53648, 54.16167799999999 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "No i fajnie",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "season" : 17,
+      "episode" : 13,
+      "url" : "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-13,S17E13,95167",
+      "homepage" : "https://m.facebook.com/tortowefantazje"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.438766, 51.9592227 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Krupniok",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "season" : 17,
+      "episode" : 14,
+      "url" : "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-14,S17E14,95168",
+      "homepage" : "https://m.facebook.com/plaaaacekchrupiacy/?ref=bookmarks"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 17.3381811, 50.4749072 ]
+    }
   } ]
 }
