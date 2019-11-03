@@ -107,8 +107,8 @@ class EpisodeToFeatureMapper implements Function<Episode, Optional<Feature>> {
 	private Optional<PlacesSearchResult> textSearchQuery(String query) {
 		try {
 			PlacesSearchResult[] candidates = PlacesApi.findPlaceFromText(context, query, InputType.TEXT_QUERY)
-					.fields(FieldMask.PLACE_ID, FieldMask.NAME, FieldMask.GEOMETRY, FieldMask.PERMANENTLY_CLOSED).await().candidates;
-			return getFirst(candidates, query);
+					.fields(FieldMask.PLACE_ID, FieldMask.NAME, FieldMask.GEOMETRY, FieldMask.PERMANENTLY_CLOSED, FieldMask.TYPES).await().candidates;
+			return new CandidatesSelector(query).select(candidates);
 		} catch (Exception e) {
 			LOG.error(format("Error occured retrieving places for '%s': %s", query, e.getMessage()));
 			return Optional.empty();
@@ -127,11 +127,11 @@ class EpisodeToFeatureMapper implements Function<Episode, Optional<Feature>> {
 
 	private static <T> Optional<T> getFirst(T[] array, String query) {
 		if (array.length < 1) {
-			LOG.warn(format("No candidates found for '%s'", query));
+			LOG.warn(format("No results found for '%s'", query));
 			return Optional.empty();
 		}
 		if (array.length > 1) {
-			LOG.warn(format("Multiple candidates found for '%s'. Using the first one.", query));
+			LOG.warn(format("Multiple results found for '%s'. Using the first one.", query));
 		}
 		return Optional.of(array[0]);
 	}
