@@ -14,6 +14,10 @@ class FeatureCollectionReader {
 	private static final Logger LOG = LoggerFactory.getLogger(FeatureCollectionReader.class);
 
 	static FeatureCollection read(File file) {
+		if (!file.exists()) {
+			LOG.warn("No input file found {}", file.getAbsolutePath());
+			return new FeatureCollection();
+		}
 		try {
 			return new ObjectMapper().readValue(file, FeatureCollection.class);
 		} catch (IOException e) {

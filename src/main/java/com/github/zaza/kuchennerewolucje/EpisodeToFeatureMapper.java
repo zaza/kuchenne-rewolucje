@@ -2,6 +2,7 @@ package com.github.zaza.kuchennerewolucje;
 
 import static java.lang.String.format;
 
+import java.util.EnumSet;
 import java.util.Optional;
 import java.util.function.Function;
 
@@ -10,7 +11,9 @@ import org.geojson.Point;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+import com.github.zaza.kuchennerewolucje.model.BusinessStatus;
 import com.github.zaza.kuchennerewolucje.model.Episode;
+import com.google.common.base.Strings;
 import com.google.maps.FindPlaceFromTextRequest.FieldMask;
 import com.google.maps.FindPlaceFromTextRequest.InputType;
 import com.google.maps.GeoApiContext;
@@ -69,16 +72,23 @@ class EpisodeToFeatureMapper implements Function<Episode, Optional<Feature>> {
 		feature.getProperties().put("name", episode.getName());
 		feature.getProperties().put("url", episode.getUrl());
 		addHomepageIfExists(feature, episode, result.placeId);
-		feature.getProperties().put("icon", episode.getIcon(!result.permanentlyClosed));
+		feature.getProperties().put("icon", episode.getIcon(isClosed(result.businessStatus)));
 		addSeasonAndEpisodeNumber(feature, episode);
 		return Optional.of(feature);
+	}
+
+	private boolean isClosed(String businessStatus) {
+		if (Strings.emptyToNull(businessStatus) == null)
+			return false;
+		return EnumSet.of(BusinessStatus.CLOSED_PERMANENTLY, BusinessStatus.CLOSED_TEMPORARILY)
+				.contains(BusinessStatus.valueOf(businessStatus));
 	}
 
 	private void addHomepageIfExists(Feature feature, Episode episode) {
 		if (episode.hasHomepage())
 			feature.getProperties().put("homepage", episode.getHomepage());
 	}
-	
+
 	private void addHomepageIfExists(Feature feature, Episode episode, String placeId) {
 		addHomepageIfExists(feature, episode);
 		if (!feature.getProperties().containsKey("homepage")) {
@@ -88,7 +98,7 @@ class EpisodeToFeatureMapper implements Function<Episode, Optional<Feature>> {
 			}
 		}
 	}
-	
+
 	private void addSeasonAndEpisodeNumber(Feature feature, Episode episode) {
 		feature.getProperties().put("season", episode.getSeason());
 		feature.getProperties().put("episode", episode.getNumber());
@@ -107,14 +117,16 @@ class EpisodeToFeatureMapper implements Function<Episode, Optional<Feature>> {
 	private Optional<PlacesSearchResult> textSearchQuery(String query) {
 		try {
 			PlacesSearchResult[] candidates = PlacesApi.findPlaceFromText(context, query, InputType.TEXT_QUERY)
-					.fields(FieldMask.PLACE_ID, FieldMask.NAME, FieldMask.GEOMETRY, FieldMask.PERMANENTLY_CLOSED, FieldMask.TYPES).await().candidates;
+					.fields(FieldMask.PLACE_ID, FieldMask.NAME, FieldMask.GEOMETRY, FieldMask.BUSINESS_STATUS,
+							FieldMask.TYPES)
+					.await().candidates;
 			return new CandidatesSelector(query).select(candidates);
 		} catch (Exception e) {
 			LOG.error(format("Error occured retrieving places for '%s': %s", query, e.getMessage()));
 			return Optional.empty();
 		}
 	}
-	
+
 	private Optional<PlaceDetails> placeDetails(String placeId) {
 		try {
 			PlaceDetails placeDetails = PlacesApi.placeDetails(context, placeId).await();
