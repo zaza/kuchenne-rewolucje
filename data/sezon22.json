@@ -1,0 +1,79 @@
+{
+	"odcinki": [ {
+			"odcinek": 1,
+			"nazwa": "Wielkopolanka",
+			"adres": "Barlinek",
+			"url": "https://player.pl/playerplus/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-1,S22E01,196064"
+		}, {
+			"odcinek": 2,
+			"nazwa": "Gargoły",
+			"adres": "Łódź",
+			"url": "https://player.pl/playerplus/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-2,S22E02,196065"
+		}, {
+			"odcinek": 3,
+			"nazwa": "Sezonowa",
+			"adres": "Częstochowa",
+			"url": "https://player.pl/playerplus/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-3,S22E03,196066"
+		}, {
+			"odcinek": 4,
+			"nazwa": "Mikołajek",
+			"adres": "Słupsk",
+			"url": "https://player.pl/playerplus/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-4,S22E04,196067"
+		}, {
+			"odcinek": 5,
+			"nazwa": "Gorąca Patelnia",
+			"adres": "Kraków",
+			"url": "https://player.pl/playerplus/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-5,S22E05,196068"
+		}, {
+			"odcinek": 6,
+			"nazwa": "Na okrągło",
+			"adres": "Warszawa",
+			"url": "https://player.pl/playerplus/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-6,S22E06,196069"
+		}, {
+			"odcinek": 7,
+			"nazwa": "Bar u Skwarka",
+			"adres": "Pogorzelice",
+			"url": "https://player.pl/playerplus/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-7,S22E07,196070"
+		}, {
+			"odcinek": 8,
+			"nazwa": "Mąka i Magia",
+			"adres": "Zambrów",
+			"url": "https://player.pl/playerplus/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-8,S22E08,196071"
+		}, {
+			"odcinek": 9,
+			"nazwa": "Palce lizać",
+			"adres": "Łódź",
+			"url": "https://player.pl/playerplus/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-9,S22E09,196072"
+		}, {
+			"odcinek": 10,
+			"nazwa": "Cztery Smaki",
+			"adres": "Libiąż",
+			"url": "https://player.pl/playerplus/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-10,S22E10,196073"
+		}, {
+			"odcinek": 11,
+			"nazwa": "Restauracja Floriańska",
+			"adres": "Szczyrk",
+			"url": "https://player.pl/playerplus/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-11,S22E11,196074"
+		}, {
+			"odcinek": 12,
+			"nazwa": "Baku",
+			"adres": "Toruń",
+			"url": "https://player.pl/playerplus/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-12,S22E12,196075"
+		}, {
+			"odcinek": 13,
+			"nazwa": "Neptun",
+			"adres": "Gdynia",
+			"url": "https://player.pl/playerplus/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-13,S22E13,196076"
+		}, {
+			"odcinek": 14,
+			"nazwa": "Wilcza 8",
+			"adres": "Brzeg Dolny",
+			"url": "https://player.pl/playerplus/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-14,S22E14,208107"
+		}, {
+			"odcinek": 15,
+			"nazwa": "Dama Kier",
+			"adres": "Lędziny",
+			"url": "https://player.pl/playerplus/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-15,S22E15,208108"
+		}
+	]
+}

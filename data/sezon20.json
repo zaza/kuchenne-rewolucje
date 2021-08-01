@@ -49,6 +49,21 @@
 			"nazwa": "Vintuna",
 			"adres": "Warszawa",
 			"url": "https://player.pl/playerplus/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-10,S20E10,149883"
+		}, {
+			"odcinek": 11,
+			"nazwa": "Kuchnia z piwnicą",
+			"adres": "Człuchów",
+			"url": "https://player.pl/playerplus/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-11,S20E11,149884"
+		}, {
+			"odcinek": 12,
+			"nazwa": "Prova Gourmet",
+			"adres": "Toruń",
+			"url": "https://player.pl/playerplus/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-12,S20E12,149885"
+		}, {
+			"odcinek": 13,
+			"nazwa": "Karczma u Sołtysa",
+			"adres": "Dusznika Zdrój",
+			"url": "https://player.pl/playerplus/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-13,S20E13,149886"
 		}
 	]
 }

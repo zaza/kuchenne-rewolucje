@@ -3442,5 +3442,481 @@
       "type" : "Point",
       "coordinates" : [ 20.9446101, 52.24276099999999 ]
     }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Famiglia per Amici",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "season" : 17,
+      "episode" : 10,
+      "url" : "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-10,S17E10,95164",
+      "homepage" : "https://www.facebook.com/TrattoriaBandieraitaliana/"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.4390057, 51.72046479999999 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Kuchnia z piwnicą",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_purple.png",
+      "season" : 20,
+      "episode" : 11,
+      "url" : "https://player.pl/playerplus/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-11,S20E11,149884",
+      "homepage" : "https://www.facebook.com/Kuchnia-z-Piwnic%C4%85-947036518831703/"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 17.3590508, 53.6646393 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Prova Gourmet",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "season" : 20,
+      "episode" : 12,
+      "url" : "https://player.pl/playerplus/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-12,S20E12,149885",
+      "homepage" : "https://www.facebook.com/ProvaGourmetTorun/"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 18.611738, 53.0114159 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Karczma u Sołtysa",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "season" : 20,
+      "episode" : 13,
+      "url" : "https://player.pl/playerplus/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-13,S20E13,149886"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.3732175, 50.3825522 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Szybka szama",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "season" : 21,
+      "episode" : 1,
+      "url" : "https://player.pl/playerplus/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-1,S21E01,167555"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.7241344, 52.4857787 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Pizza Bella",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_purple.png",
+      "season" : 21,
+      "episode" : 2,
+      "url" : "https://player.pl/playerplus/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-2,S21E02,167556",
+      "homepage" : "https://pizzaportal.pl/ustron/pizza-bella/?utm_source=google&utm_medium=organic&utm_campaign=seo_mojafirma"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 18.8190041, 49.71241759999999 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Pod Kamienicą",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_purple.png",
+      "season" : 21,
+      "episode" : 3,
+      "url" : "https://player.pl/playerplus/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-3,S21E03,167557"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 18.7686328, 53.4997908 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Smacznego",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "season" : 21,
+      "episode" : 4,
+      "url" : "https://player.pl/playerplus/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-4,S21E04,167558",
+      "homepage" : "http://lisikura.pl/"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 18.3855133, 54.3932571 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Trattoria da Maria",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "season" : 21,
+      "episode" : 5,
+      "url" : "https://player.pl/playerplus/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-5,S21E05,167559",
+      "homepage" : "https://www.facebook.com/KarczochyuMarii/"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.9268619, 50.0798879 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Bar Kartuska",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "season" : 21,
+      "episode" : 6,
+      "url" : "https://player.pl/playerplus/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-6,S21E06,167560"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 18.6322842, 54.350299 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Trops",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "season" : 21,
+      "episode" : 7,
+      "url" : "https://player.pl/playerplus/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-7,S21E07,167561",
+      "homepage" : "https://www.dibufala.pl/"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.3726764, 52.6219669 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "W podwórku",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "season" : 21,
+      "episode" : 8,
+      "url" : "https://player.pl/playerplus/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-8,S21E08,167562"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 21.7378949, 52.147924 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Amore Mio",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "season" : 21,
+      "episode" : 9,
+      "url" : "https://player.pl/playerplus/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-9,S21E09,167563",
+      "homepage" : "https://amore-mio-pizzeria-i-ristorante.business.site/?utm_source=gmb&utm_medium=referral"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 18.9461891, 50.2905768 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Chicken Flow",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "season" : 21,
+      "episode" : 10,
+      "url" : "https://player.pl/playerplus/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-10,S21E10,167564",
+      "homepage" : "https://www.facebook.com/pages/category/Local-Business/Gospoda-Zdolne-%C5%81apy-484777658927922/"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.9554396, 52.9503561 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Bistro na Drzewiarzu",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_purple.png",
+      "season" : 21,
+      "episode" : 11,
+      "url" : "https://player.pl/playerplus/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-11,S21E11,167565"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 18.9217095, 49.80148570000001 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Gold",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "season" : 21,
+      "episode" : 12,
+      "url" : "https://player.pl/playerplus/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-12,S21E12,167566",
+      "homepage" : "https://www.facebook.com/restauracjaGOLD/"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 18.565758, 53.939983 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Pizzeria Familijna",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "season" : 21,
+      "episode" : 13,
+      "url" : "https://player.pl/playerplus/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-13,S21E13,167567",
+      "homepage" : "http://www.familijna-zerkow.pl/"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 17.5629062, 52.0704807 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Diavolo",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "season" : 21,
+      "episode" : 14,
+      "url" : "https://player.pl/playerplus/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-14,S21E14,190980",
+      "homepage" : "http://www.diavolorestauracja.pl/"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.12074, 50.812129 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Zamek",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "season" : 21,
+      "episode" : 15,
+      "url" : "https://player.pl/playerplus/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-15,S21E15,190981",
+      "homepage" : "http://www.zamek.szczecinek.pl/"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.6937231, 53.706907 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Barka",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "season" : 21,
+      "episode" : 16,
+      "url" : "https://player.pl/playerplus/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-16,S21E16,190982",
+      "homepage" : "https://www.facebook.com/barka.pila/"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.738726, 53.1523988 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Nowa Villa Ostródzka",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "season" : 21,
+      "episode" : 17,
+      "url" : "https://player.pl/playerplus/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-17,S21E17,190983"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 21.0380733, 52.3413313 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Wielkopolanka",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "season" : 22,
+      "episode" : 1,
+      "url" : "https://player.pl/playerplus/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-1,S22E01,196064"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 15.217311, 52.9920362 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Gargoły",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "season" : 22,
+      "episode" : 2,
+      "url" : "https://player.pl/playerplus/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-2,S22E02,196065",
+      "homepage" : "https://restauracja-imber.eatbu.com/?lang=pl"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.4557035, 51.7710838 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Sezonowa",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "season" : 22,
+      "episode" : 3,
+      "url" : "https://player.pl/playerplus/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-3,S22E03,196066",
+      "homepage" : "http://trattoriaverde.com/"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.1285929, 50.7834823 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Mikołajek",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_purple.png",
+      "season" : 22,
+      "episode" : 4,
+      "url" : "https://player.pl/playerplus/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-4,S22E04,196067"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 17.0320984, 54.4699018 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Gorąca Patelnia",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "season" : 22,
+      "episode" : 5,
+      "url" : "https://player.pl/playerplus/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-5,S22E05,196068",
+      "homepage" : "http://www.facebook.com/KolorowePatelnie/"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.9316408, 50.06229889999999 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Na okrągło",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_purple.png",
+      "season" : 22,
+      "episode" : 6,
+      "url" : "https://player.pl/playerplus/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-6,S22E06,196069"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.8941497, 52.231821 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Bar u Skwarka",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "season" : 22,
+      "episode" : 7,
+      "url" : "https://player.pl/playerplus/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-7,S22E07,196070",
+      "homepage" : "https://www.facebook.com/Bar-u-Skwarka-109305640807491/"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 17.6345983, 54.4993941 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Mąka i Magia",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "season" : 22,
+      "episode" : 8,
+      "url" : "https://player.pl/playerplus/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-8,S22E08,196071"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.2525456, 52.9901584 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Palce lizać",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "season" : 22,
+      "episode" : 9,
+      "url" : "https://player.pl/playerplus/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-9,S22E09,196072"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.4650065, 51.7723005 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Cztery Smaki",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "season" : 22,
+      "episode" : 10,
+      "url" : "https://player.pl/playerplus/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-10,S22E10,196073",
+      "homepage" : "http://restauracja4smaki.com/"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.3283396, 50.10663419999999 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Restauracja Floriańska",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "season" : 22,
+      "episode" : 11,
+      "url" : "https://player.pl/playerplus/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-11,S22E11,196074"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.0188858, 49.7117958 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Neptun",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "season" : 22,
+      "episode" : 13,
+      "url" : "https://player.pl/playerplus/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-13,S22E13,196076",
+      "homepage" : "https://neptun24.pl/"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 18.5505437, 54.518228 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Wilcza 8",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "season" : 22,
+      "episode" : 14,
+      "url" : "https://player.pl/playerplus/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-14,S22E14,208107"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.6986159, 51.27069299999999 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Dama Kier",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "season" : 22,
+      "episode" : 15,
+      "url" : "https://player.pl/playerplus/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-15,S22E15,208108",
+      "homepage" : "https://slaskieniebo.pl/"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.1058925, 50.1294001 ]
+    }
   } ]
 }

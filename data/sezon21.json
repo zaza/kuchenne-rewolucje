@@ -1,0 +1,89 @@
+{
+	"odcinki": [ {
+			"odcinek": 1,
+			"nazwa": "Szybka szama",
+			"adres": "Napachanie",
+			"url": "https://player.pl/playerplus/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-1,S21E01,167555"
+		}, {
+			"odcinek": 2,
+			"nazwa": "Pizza Bella",
+			"adres": "Ustroń",
+			"url": "https://player.pl/playerplus/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-2,S21E02,167556"
+		}, {
+			"odcinek": 3,
+			"nazwa": "Pod Kamienicą",
+			"adres": "Grudziądz",
+			"url": "https://player.pl/playerplus/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-3,S21E03,167557"
+		}, {
+			"odcinek": 4,
+			"nazwa": "Smacznego",
+			"adres": "Banino",
+			"url": "https://player.pl/playerplus/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-4,S21E04,167558"
+		}, {
+			"odcinek": 5,
+			"nazwa": "Trattoria da Maria",
+			"adres": "Kraków",
+			"url": "https://player.pl/playerplus/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-5,S21E05,167559"
+		}, {
+			"odcinek": 6,
+			"nazwa": "Bar Kartuska",
+			"adres": "Gdańsk",
+			"url": "https://player.pl/playerplus/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-6,S21E06,167560"
+		}, {
+			"odcinek": 7,
+			"nazwa": "Trops",
+			"adres": "Płońsk",
+			"url": "https://player.pl/playerplus/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-7,S21E07,167561"
+		}, {
+			"odcinek": 8,
+			"nazwa": "W podwórku",
+			"adres": "Cegłów",
+			"url": "https://player.pl/playerplus/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-8,S21E08,167562"
+		}, {
+			"odcinek": 9,
+			"nazwa": "Amore Mio",
+			"adres": "Chorzów",
+			"url": "https://player.pl/playerplus/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-9,S21E09,167563"
+		}, {
+			"odcinek": 10,
+			"nazwa": "Chicken Flow",
+			"adres": "Łapy",
+			"url": "https://player.pl/playerplus/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-10,S21E10,167564"
+		}, {
+			"odcinek": 11,
+			"nazwa": "Bistro na Drzewiarzu",
+			"adres": "Jasienica",
+			"url": "https://player.pl/playerplus/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-11,S21E11,167565"
+		}, {
+			"odcinek": 12,
+			"nazwa": "Gold",
+			"adres": "Janowo",
+			"url": "https://player.pl/playerplus/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-12,S21E12,167566"
+		}, {
+			"odcinek": 13,
+			"nazwa": "Pizzeria Familijna",
+			"adres": "Żerków",
+			"url": "https://player.pl/playerplus/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-13,S21E13,167567"
+		}, {
+			"odcinek": 14,
+			"nazwa": "Diavolo",
+			"adres": "Częstochowa",
+			"url": "https://player.pl/playerplus/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-14,S21E14,190980"
+		}, {
+			"odcinek": 15,
+			"nazwa": "Zamek",
+			"adres": "Szczecinek",
+			"url": "https://player.pl/playerplus/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-15,S21E15,190981"
+		}, {
+			"odcinek": 16,
+			"nazwa": "Barka",
+			"adres": "Piła",
+			"url": "https://player.pl/playerplus/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-16,S21E16,190982"
+		}, {
+			"odcinek": 17,
+			"nazwa": "Nowa Villa Ostródzka",
+			"adres": "Warszawa",
+			"url": "https://player.pl/playerplus/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-17,S21E17,190983"
+		}
+	]
+}

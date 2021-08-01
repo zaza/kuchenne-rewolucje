@@ -1,12 +1,12 @@
 # Mapa restauracji po Kuchennych Rewolucjach
 
-Ostatnia aktualizacja **2019-11-03**, sezon 20, odcinek 10.
+Ostatnia aktualizacja **2021-08-01**, sezon 22, odcinek 15.
 
-Liczba odcinków w bazie: 255
+Liczba odcinków w bazie: 288
 
 ---
 
-Format map wymaga jeszcze dopracowania, ale mapy zawierają wszystkie restauracje z bazy. 
+Sam wygląd map wymaga jeszcze dopracowania, ale zawierają one wszystkie restauracje z bazy. 
 
 Na razie można podglądnąć dwie robocze wersje:
 * http://zaza.github.io/kuchenne-rewolucje/ w wersji Google Maps

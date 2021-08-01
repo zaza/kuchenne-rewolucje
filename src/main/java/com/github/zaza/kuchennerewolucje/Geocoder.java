@@ -7,6 +7,7 @@ import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
+import java.util.Optional;
 
 import org.geojson.FeatureCollection;
 
@@ -14,12 +15,13 @@ import com.fasterxml.jackson.annotation.JsonInclude.Include;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.ObjectWriter;
 import com.fasterxml.jackson.databind.SerializationFeature;
+import com.google.common.base.Charsets;
 import com.google.maps.GeoApiContext;
 
 public class Geocoder {
 
 	private static final File GEOJSON_FILE = new File("data.geojson");
-	
+
 	private GeoApiContext context;
 
 	public static void main(String[] args) throws Exception {
@@ -36,11 +38,10 @@ public class Geocoder {
 	private FeatureCollection mapExistingEpisodesToFeatures(FeatureCollection existingFeatures) throws IOException {
 		FeatureCollection updatedFeatures = new FeatureCollection();
 		updatedFeatures.setFeatures(existingFeatures.getFeatures());
-		NotExistingFeaturePredicate notExisting = new NotExistingFeaturePredicate(updatedFeatures); 
+		NotExistingFeaturePredicate notExisting = new NotExistingFeaturePredicate(updatedFeatures);
 		EpisodesReader.readAllEpisodes().values().stream() //
-				.filter(notExisting)
-				.map(new EpisodeToFeatureMapper(context)) //
-				.filter(f -> f.isPresent()) //
+				.filter(notExisting).map(new EpisodeToFeatureMapper(context)) //
+				.filter(Optional::isPresent) //
 				.forEach(f -> updatedFeatures.add(f.get()));
 		return updatedFeatures;
 	}
@@ -54,6 +55,6 @@ public class Geocoder {
 	private GeoApiContext createContext() throws IOException {
 		Path apiKey = Paths.get("api-key");
 		checkState(apiKey.toFile().exists(), "file with API key not found");
-		return new GeoApiContext.Builder().apiKey(new String(Files.readAllBytes(apiKey), "UTF-8")).build();
+		return new GeoApiContext.Builder().apiKey(new String(Files.readAllBytes(apiKey), Charsets.UTF_8)).build();
 	}
 }
