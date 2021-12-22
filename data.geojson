@@ -3918,5 +3918,227 @@
       "type" : "Point",
       "coordinates" : [ 19.1058925, 50.1294001 ]
     }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Modry Kociołek",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_purple.png",
+      "season" : 23,
+      "episode" : 1,
+      "url" : "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-1,S23E01,216357",
+      "homepage" : "http://www.modrykociolek.pl/"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 18.956995, 50.3944437 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Ajax",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_purple.png",
+      "season" : 23,
+      "episode" : 2,
+      "url" : "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-2,S23E02,216358",
+      "homepage" : "https://www.facebook.com/ZajazdZieloneRykowisko/"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.8942077, 52.1248808 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Cafe Filiżanka",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_purple.png",
+      "season" : 23,
+      "episode" : 3,
+      "url" : "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-3,S23E03,216359",
+      "homepage" : "http://www.cafefilizanka.pl/promocje.html"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.4440308, 52.0563202 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Tasty",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "season" : 23,
+      "episode" : 4,
+      "url" : "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-4,S23E04,216360"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 18.9503377, 50.38604100000001 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Kuźnia Smaków",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_purple.png",
+      "season" : 23,
+      "episode" : 5,
+      "url" : "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-5,S23E05,216361"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.254369, 52.40687610000001 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Magnolia",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_purple.png",
+      "season" : 23,
+      "episode" : 6,
+      "url" : "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-6,S23E06,216362",
+      "homepage" : "http://www.magnoliajawor.pl/"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.2013179, 51.0577183 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Silvano",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "season" : 23,
+      "episode" : 7,
+      "url" : "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-7,S23E07,216363",
+      "homepage" : "http://restauracjasilvano.manifo.com/"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.7364079, 52.797777 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Domowa kura",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_purple.png",
+      "season" : 23,
+      "episode" : 8,
+      "url" : "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-8,S23E08,216364",
+      "homepage" : "https://www.facebook.com/pages/category/Fast-Food-Restaurant/Ziemniak-czy-Kartofel-115300076516554/"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 23.2670187, 50.7122982 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Kawiarnia Marysieńka",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_purple.png",
+      "season" : 23,
+      "episode" : 9,
+      "url" : "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-9,S23E09,216365",
+      "homepage" : "https://www.facebook.com/Bistro-Tajemniczy-Staw-101033012243182/"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.977668, 53.9997701 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Geneza Smaku",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_purple.png",
+      "season" : 23,
+      "episode" : 10,
+      "url" : "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-10,S23E10,216366",
+      "homepage" : "https://www.facebook.com/Bistro-Pod-Papryk%C4%85-103521642001491/"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 15.7481878, 50.7743267 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Orient X-press",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_purple.png",
+      "season" : 23,
+      "episode" : 11,
+      "url" : "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-11,S23E11,216367",
+      "homepage" : "https://www.orientxpress.pl/"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.6220216, 52.1091133 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Bar Agata",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_purple.png",
+      "season" : 23,
+      "episode" : 12,
+      "url" : "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-12,S23E12,216368",
+      "homepage" : "https://www.facebook.com/Bar-mleczny-Agata-Tkkf-Stilon-100223675771716/"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 15.2284579, 52.7303513 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Palce lizać",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_purple.png",
+      "season" : 23,
+      "episode" : 13,
+      "url" : "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-13,S23E13,216369",
+      "homepage" : "https://barvioli.pl/"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.2004959, 53.241695 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Okrąglak",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_purple.png",
+      "season" : 23,
+      "episode" : 14,
+      "url" : "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-14,S23E14,225386",
+      "homepage" : "http://www.bizmir.pl/"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.1501556, 50.2861439 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "Restauracja w Borach",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_red.png",
+      "season" : 23,
+      "episode" : 15,
+      "url" : "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-15,S23E15,225387",
+      "homepage" : "https://www.facebook.com/Zajazd-Grasz-w-zielone-100111865830663"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 17.7867764, 53.6099568 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "name" : "List z Kaukazu",
+      "icon" : "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_purple.png",
+      "season" : 22,
+      "episode" : 12,
+      "url" : "https://player.pl/playerplus/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-12,S22E12,196075",
+      "homepage" : "https://www.listzkaukazu.com/"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 18.6066858, 53.0098104 ]
+    }
   } ]
 }

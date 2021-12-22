@@ -1,0 +1,79 @@
+{
+	"odcinki": [ {
+			"odcinek": 1,
+			"nazwa": "Modry Kociołek",
+			"adres": "Piekary Śląskie",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-1,S23E01,216357"
+		}, {
+			"odcinek": 2,
+			"nazwa": "Ajax",
+			"adres": "Janki",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-2,S23E02,216358"
+		}, {
+			"odcinek": 3,
+			"nazwa": "Cafe Filiżanka",
+			"adres": "Żyrardów",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-3,S23E03,216359"
+		}, {
+			"odcinek": 4,
+			"nazwa": "Tasty",
+			"adres": "Piekary Śląskie",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-4,S23E04,216360"
+		}, {
+			"odcinek": 5,
+			"nazwa": "Kuźnia Smaków",
+			"adres": "Sokołów",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-5,S23E05,216361"
+		}, {
+			"odcinek": 6,
+			"nazwa": "Magnolia",
+			"adres": "Jawor",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-6,S23E06,216362"
+		}, {
+			"odcinek": 7,
+			"nazwa": "Silvano",
+			"adres": "Połajewo",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-7,S23E07,216363"
+		}, {
+			"odcinek": 8,
+			"nazwa": "Domowa kura",
+			"adres": "Zamość",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-8,S23E08,216364"
+		}, {
+			"odcinek": 9,
+			"nazwa": "Kawiarnia Marysieńka",
+			"adres": "Miastko",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-9,S23E09,216365"
+		}, {
+			"odcinek": 10,
+			"nazwa": "Geneza Smaku",
+			"adres": "Karpacz",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-10,S23E10,216366"
+		}, {
+			"odcinek": 11,
+			"nazwa": "Orient X-press",
+			"adres": "Grodzisk Mazowiecki",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-11,S23E11,216367"
+		}, {
+			"odcinek": 12,
+			"nazwa": "Bar Agata",
+			"adres": "Gorzów Wielkopolski",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-12,S23E12,216368"
+		}, {
+			"odcinek": 13,
+			"nazwa": "Palce lizać",
+			"adres": "Działdowo",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-13,S23E13,216369"
+		}, {
+			"odcinek": 14,
+			"nazwa": "Okrąglak",
+			"adres": "Sosnowiec",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-14,S23E14,225386"
+		}, {
+			"odcinek": 15,
+			"nazwa": "Restauracja w Borach",
+			"adres": "Żalno",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-15,S23E15,225387"
+		}
+	]
+}

@@ -56,9 +56,11 @@
 			"url": "https://player.pl/playerplus/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-11,S22E11,196074"
 		}, {
 			"odcinek": 12,
-			"nazwa": "Baku",
+			"nazwa": "List z Kaukazu",
 			"adres": "Toruń",
-			"url": "https://player.pl/playerplus/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-12,S22E12,196075"
+			"url": "https://player.pl/playerplus/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-12,S22E12,196075",
+			"dawniej": "Baku",
+			"homepage": "https://www.listzkaukazu.com/"
 		}, {
 			"odcinek": 13,
 			"nazwa": "Neptun",
