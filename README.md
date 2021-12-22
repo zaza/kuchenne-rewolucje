@@ -1,8 +1,8 @@
 # Mapa restauracji po Kuchennych Rewolucjach
 
-Ostatnia aktualizacja **2021-08-01**, sezon 22, odcinek 15.
+Ostatnia aktualizacja **2021-12-22**, sezon 23, odcinek 15.
 
-Liczba odcinków w bazie: 288
+Liczba odcinków w bazie: 304
 
 ---
 
