@@ -1,0 +1,69 @@
+{
+	"odcinki": [ {
+			"odcinek": 1,
+			"nazwa": "Gościnna",
+			"adres": "Bartoszyce",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-1,S24E01,231412"
+		}, {
+			"odcinek": 2,
+			"nazwa": "Ghvino i Śpiew",
+			"adres": "Kudowa-Zdrój",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-2,S24E02,231413"
+		}, {
+			"odcinek": 3,
+			"nazwa": "Imperia",
+			"adres": "Żyrardów",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-3,S24E03,231414"
+		}, {
+			"odcinek": 4,
+			"nazwa": "Staropolska",
+			"adres": "Szczucin",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-4,S24E04,231415"
+		}, {
+			"odcinek": 5,
+			"nazwa": "Calabria",
+			"adres": "Olsztyn",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-5,S24E05,231416"
+		}, {
+			"odcinek": 6,
+			"nazwa": "Masters",
+			"adres": "Inowrocław",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-6,S24E06,231417"
+		}, {
+			"odcinek": 7,
+			"nazwa": "Polski Nie-rząd",
+			"adres": "Sosnowiec",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-7,S24E07,231418"
+		}, {
+			"odcinek": 8,
+			"nazwa": "Pizzeria DaviOli",
+			"adres": "Krzeszyce",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-8,S24E08,231419"
+		}, {
+			"odcinek": 9,
+			"nazwa": "Zielony Nosorożec",
+			"adres": "Białystok",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-9,S24E09,231420"
+		}, {
+			"odcinek": 10,
+			"nazwa": "Pizzeria Bujani",
+			"adres": "Tarnów",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-10,S24E10,231421"
+		}, {
+			"odcinek": 11,
+			"nazwa": "Dobre Jadło",
+			"adres": "Czeladź",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-11,S24E11,231422"
+		}, {
+			"odcinek": 12,
+			"nazwa": "American Dream",
+			"adres": "Wrocław",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-12,S24E12,231423"
+		}, {
+			"odcinek": 13,
+			"nazwa": "Caverna Cafe",
+			"adres": "Opole",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-13,S24E13,231424"
+		}
+	]
+}
