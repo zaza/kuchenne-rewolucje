@@ -1,0 +1,24 @@
+{
+	"odcinki": [ {
+			"odcinek": 1,
+			"nazwa": "Voila",
+			"adres": "Kraków",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-1,S26E01,251398"
+		}, {
+			"odcinek": 2,
+			"nazwa": "Czterej pancerni",
+			"adres": "Biedrusko",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-2,S26E02,251399"
+		}, {
+			"odcinek": 3,
+			"nazwa": "Vis a Vis",
+			"adres": "Mielec",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-3,S26E03,251400"
+		}, {
+			"odcinek": 4,
+			"nazwa": "Margaret",
+			"adres": "Wrocław",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-4,S26E04,251401"
+		}
+	]
+}

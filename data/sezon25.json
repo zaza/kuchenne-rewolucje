@@ -1,0 +1,74 @@
+{
+	"odcinki": [ {
+			"odcinek": 1,
+			"nazwa": "Irlandia",
+			"adres": "Czechowice - Dziedzice",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-1,S25E01,242621"
+		}, {
+			"odcinek": 2,
+			"nazwa": "Cafe Elegancko",
+			"adres": "Szczecin",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-2,S25E02,242622"
+		}, {
+			"odcinek": 3,
+			"nazwa": "Smaczne... go",
+			"adres": "Tomaszów Mazowiecki",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-3,S25E03,242623"
+		}, {
+			"odcinek": 4,
+			"nazwa": "Cudnie",
+			"adres": "Puławy",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-4,S25E04,242624"
+		}, {
+			"odcinek": 5,
+			"nazwa": "Sakartvelo",
+			"adres": "Zakręt",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-5,S25E05,242625"
+		}, {
+			"odcinek": 6,
+			"nazwa": "Fyrtel Smaków",
+			"adres": "Kamionki",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-6,S25E06,242626"
+		}, {
+			"odcinek": 7,
+			"nazwa": "Limba",
+			"adres": "Barlinek",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-7,S25E07,242627"
+		}, {
+			"odcinek": 8,
+			"nazwa": "Pod Przykrywką",
+			"adres": "Szczecin",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-8,S25E08,242628"
+		}, {
+			"odcinek": 9,
+			"nazwa": "Bistro Aę",
+			"adres": "Chorzów",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-9,S25E09,242629"
+		}, {
+			"odcinek": 10,
+			"nazwa": "Czwórka",
+			"adres": "Elbląg",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-10,S25E10,242630"
+		}, {
+			"odcinek": 11,
+			"nazwa": "Sho Sho",
+			"adres": "Płock",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-11,S25E11,242631"
+		}, {
+			"odcinek": 12,
+			"nazwa": "Spagheterria",
+			"adres": "Białystok",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-12,S25E12,242632"
+		}, {
+			"odcinek": 13,
+			"nazwa": "43 300",
+			"adres": "Bielsko-Biała",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-13,S25E13,242633"
+		}, {
+			"odcinek": 14,
+			"nazwa": "Kulinarna Warszawka",
+			"adres": "Kępno",
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-14,S25E14,242634"
+		}
+	]
+}
