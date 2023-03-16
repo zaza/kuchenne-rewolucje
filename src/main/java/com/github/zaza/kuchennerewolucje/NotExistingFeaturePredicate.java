@@ -17,8 +17,8 @@ class NotExistingFeaturePredicate implements Predicate<Episode> {
 	@Override
 	public boolean test(Episode episode) {
 		return existingFeatures.getFeatures().stream()
-				.noneMatch(f -> new Integer(episode.getNumber()).equals(f.getProperty("episode"))
-						&& new Integer(episode.getSeason()).equals(f.getProperty("season")) );
+				.noneMatch(f -> Integer.valueOf(episode.getNumber()).equals(f.getProperty("episode"))
+						&& Integer.valueOf(episode.getSeason()).equals(f.getProperty("season")) );
 	}
 
 }

@@ -6,7 +6,6 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.Collections;
-import java.util.Comparator;
 import java.util.List;
 import java.util.stream.Collectors;
 
@@ -35,13 +34,7 @@ public class DataSetChecker {
 
 		for (Integer season : episodesBySeason.keySet()) {
 			List<Episode> episodeList = new ArrayList<>(episodesBySeason.get(season));
-			Collections.sort(episodeList, new Comparator<Episode>() {
-
-				@Override
-				public int compare(Episode e1, Episode e2) {
-					return e1.getNumber() - e2.getNumber();
-				}
-			});
+			Collections.sort(episodeList, (e1, e2) -> e1.getNumber() - e2.getNumber());
 			Integer lastEpisode = Iterables.getLast(episodeList).getNumber();
 			List<Integer> episodeNumbers = episodeList.stream().map(e -> e.getNumber()).collect(Collectors.toList());
 			List<Integer> missingEpisodes = findMissingNumbers(episodeNumbers, lastEpisode);

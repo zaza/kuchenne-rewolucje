@@ -40,9 +40,11 @@ public class Geocoder {
 		updatedFeatures.setFeatures(existingFeatures.getFeatures());
 		NotExistingFeaturePredicate notExisting = new NotExistingFeaturePredicate(updatedFeatures);
 		EpisodesReader.readAllEpisodes().values().stream() //
-				.filter(notExisting).map(new EpisodeToFeatureMapper(context)) //
+				.filter(notExisting) //
+				.map(new EpisodeToFeatureMapper(context)) //
 				.filter(Optional::isPresent) //
-				.forEach(f -> updatedFeatures.add(f.get()));
+				.map(Optional::get) //
+				.forEach(updatedFeatures::add);
 		return updatedFeatures;
 	}
 

@@ -1,10 +1,8 @@
 package com.github.zaza.kuchennerewolucje;
 
 import static java.lang.String.format;
-import static java.util.stream.Collectors.toList;
 
 import java.util.Arrays;
-import java.util.List;
 import java.util.Optional;
 import java.util.function.Predicate;
 
@@ -31,12 +29,12 @@ class CandidatesSelector {
 		if (candidates.length == 1)
 			return Optional.of(candidates[0]);
 
-		Optional<PlacesSearchResult> byType = Arrays.stream(candidates).filter(withType("food", "restaurant"))
+		var byType = Arrays.stream(candidates).filter(withType("food", "restaurant"))
 				.findFirst();
 		if (byType.isPresent())
 			return byType;
 
-		Optional<PlacesSearchResult> isOpen = Arrays.stream(candidates).filter(c -> !c.permanentlyClosed).findFirst();
+		var isOpen = Arrays.stream(candidates).filter(c -> !c.permanentlyClosed).findFirst();
 		if (isOpen.isPresent())
 			return isOpen;
 
@@ -48,9 +46,7 @@ class CandidatesSelector {
 		return candidate -> {
 			if (candidate.types == null || candidate.types.length == 0)
 				return false;
-			List<String> filterTypes = Arrays.asList(types);
-			List<String> foundTypes = Arrays.stream(candidate.types).filter(filterTypes::contains).collect(toList());
-			return !foundTypes.isEmpty();
+			return Arrays.stream(candidate.types).anyMatch(t -> Arrays.asList(types).contains(t));
 		};
 	}
 
