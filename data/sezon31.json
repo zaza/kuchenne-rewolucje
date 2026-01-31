@@ -1,0 +1,74 @@
+{
+	"odcinki": [ {
+			"odcinek": 1,
+			"nazwa": "Biały Kredens",
+			"adres": "Włocławek",
+			"url": "https://player.pl/programy-online,2/kuchenne-rewolucje-odcinki,52954/odcinek-1,S31E01,12162269"
+		}, {
+			"odcinek": 2,
+			"nazwa": "Bistro 12",
+			"adres": "Siedliszcze",
+			"url": "https://player.pl/programy-online,2/kuchenne-rewolucje-odcinki,52954/odcinek-2,S31E02,12162268"
+		}, {
+			"odcinek": 3,
+			"nazwa": "Pizzalover",
+			"adres": "Lublin",
+			"url": "https://player.pl/programy-online,2/kuchenne-rewolucje-odcinki,52954/odcinek-3,S31E03,12162267"
+		}, {
+			"odcinek": 4,
+			"nazwa": "Bistro Kociołek",
+			"adres": "Mroków",
+			"url": "https://player.pl/programy-online,2/kuchenne-rewolucje-odcinki,52954/odcinek-4,S31E04,12162266"
+		}, {
+			"odcinek": 5,
+			"nazwa": "La Farina",
+			"adres": "Mysłowice",
+			"url": "https://player.pl/programy-online,2/kuchenne-rewolucje-odcinki,52954/odcinek-5,S31E05,12162265"
+		}, {
+			"odcinek": 6,
+			"nazwa": "Pod Orłem",
+			"adres": "Garwolin",
+			"url": "https://player.pl/programy-online,2/kuchenne-rewolucje-odcinki,52954/odcinek-6,S31E06,12162264"
+		}, {
+			"odcinek": 7,
+			"nazwa": "Bar Alpejski",
+			"adres": "Warszawa",
+			"url": "https://player.pl/programy-online,2/kuchenne-rewolucje-odcinki,52954/odcinek-7,S31E07,12162263"
+		}, {
+			"odcinek": 8,
+			"nazwa": "Domowe obiady u rudej",
+			"adres": "Myślibórz",
+			"url": "https://player.pl/programy-online,2/kuchenne-rewolucje-odcinki,52954/odcinek-8,S31E08,12162262"
+		}, {
+			"odcinek": 9,
+			"nazwa": "Toscania",
+			"adres": "Tomaszów Mazowiecki",
+			"url": "https://player.pl/programy-online,2/kuchenne-rewolucje-odcinki,52954/odcinek-9,S31E09,12162261"
+		}, {
+			"odcinek": 10,
+			"nazwa": "Pod Batutą",
+			"adres": "Jelenia Góra",
+			"url": "https://player.pl/programy-online,2/kuchenne-rewolucje-odcinki,52954/odcinek-10,S31E10,12162260"
+		}, {
+			"odcinek": 11,
+			"nazwa": "Zdrojowa",
+			"adres": "Wisła",
+			"url": "https://player.pl/programy-online,2/kuchenne-rewolucje-odcinki,52954/odcinek-11,S31E11,12162259"
+		}, {
+			"odcinek": 12,
+			"nazwa": "Bistro Zapętlone",
+			"adres": "Wrocław",
+			"url": "https://player.pl/programy-online,2/kuchenne-rewolucje-odcinki,52954/odcinek-12,S31E12,12162258"
+		}, {
+			"odcinek": 13,
+			"nazwa": "Przystań na Kępce",
+			"adres": "Marklowice Górne",
+			"url": "https://player.pl/programy-online,2/kuchenne-rewolucje-odcinki,52954/odcinek-13,S31E13,12162257"
+		}, {
+			"odcinek": 14,
+			"nazwa": "Bistro 2020",
+			"adres": "Warszawa",
+			"url": "https://player.pl/programy-online,2/kuchenne-rewolucje-odcinki,52954/odcinek-14,S31E14,12162256"
+		}
+	]
+}
