@@ -8,7 +8,7 @@ public class Episode {
 
 	private static final String MARKER_OPEN = "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_blue.png";
 
-	private static final String MARKER_CLOSED = "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_gray.png";
+	private static final String MARKER_CLOSED = "https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_grey.png";
 
 	private static final Pattern PATTERN_ZIPCODE = Pattern.compile("\\d{2}-\\d{3} ([\\w ]+)",
 			Pattern.UNICODE_CHARACTER_CLASS);
