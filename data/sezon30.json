@@ -1,64 +1,80 @@
 {
-	"odcinki": [ {
+	"odcinki": [
+		{
 			"odcinek": 1,
 			"nazwa": "Schab w Panierce",
 			"adres": "Borysławice",
 			"url": "https://player.pl/programy-online,2/kuchenne-rewolucje-odcinki,52954/odcinek-1,S30E01,10966149"
-		}, {
+		},
+		{
 			"odcinek": 2,
 			"nazwa": "Baszta",
 			"adres": "Świdnica",
-			"url": "https://player.pl/programy-online,2/kuchenne-rewolucje-odcinki,52954/odcinek-2,S30E02,10923968"
-		}, {
+			"url": "https://player.pl/programy-online,2/kuchenne-rewolucje-odcinki,52954/odcinek-2,S30E02,10923968",
+			"zamkniete": true
+		},
+		{
 			"odcinek": 3,
 			"nazwa": "Nasze smaki",
 			"adres": "Koronowo",
-			"url": "https://player.pl/programy-online,2/kuchenne-rewolucje-odcinki,52954/odcinek-3,S30E03,10966148"
-		}, {
+			"url": "https://player.pl/programy-online,2/kuchenne-rewolucje-odcinki,52954/odcinek-3,S30E03,10966148",
+			"zamkniete": true
+		},
+		{
 			"odcinek": 4,
 			"nazwa": "Bistro Zalewajka",
 			"adres": "Sierpów",
 			"url": "https://player.pl/programy-online,2/kuchenne-rewolucje-odcinki,52954/odcinek-4,S30E04,10966147"
-		}, {
+		},
+		{
 			"odcinek": 5,
 			"nazwa": "Worek mąki",
 			"adres": "Gdynia",
 			"url": "https://player.pl/programy-online,2/kuchenne-rewolucje-odcinki,52954/odcinek-5,S30E05,10966146"
-		}, {
+		},
+		{
 			"odcinek": 6,
 			"nazwa": "Stara Kuźnia",
 			"adres": "Magnuszew",
 			"url": "https://player.pl/programy-online,2/kuchenne-rewolucje-odcinki,52954/odcinek-6,S30E06,10966145"
-		}, {
+		},
+		{
 			"odcinek": 7,
 			"nazwa": "Piwnica Smaku",
 			"adres": "Turek",
 			"url": "https://player.pl/programy-online,2/kuchenne-rewolucje-odcinki,52954/odcinek-7,S30E07,10966144"
-		}, {
+		},
+		{
 			"odcinek": 8,
 			"nazwa": "EkoTradycja",
 			"adres": "Cieszyn",
 			"url": "https://player.pl/programy-online,2/kuchenne-rewolucje-odcinki,52954/odcinek-8,S30E08,10966143"
-		}, {
+		},
+		{
 			"odcinek": 9,
 			"nazwa": "Hot Italian Pizza",
 			"adres": "Zielona Góra",
 			"url": "https://player.pl/programy-online,2/kuchenne-rewolucje-odcinki,52954/odcinek-9,S30E09,10966142"
-		}, {
+		},
+		{
 			"odcinek": 10,
 			"nazwa": "Bistro Mateczka",
 			"adres": "Wójtowo",
-			"url": "https://player.pl/programy-online,2/kuchenne-rewolucje-odcinki,52954/odcinek-10,S30E10,10966141"
-		}, {
+			"url": "https://player.pl/programy-online,2/kuchenne-rewolucje-odcinki,52954/odcinek-10,S30E10,10966141",
+			"zamkniete": true
+		},
+		{
 			"odcinek": 11,
 			"nazwa": "Asia Box",
 			"adres": "Gorzów Wielkopolski",
 			"url": "https://player.pl/programy-online,2/kuchenne-rewolucje-odcinki,52954/odcinek-11,S30E11,10966140"
-		}, {
+		},
+		{
 			"odcinek": 12,
 			"nazwa": "Karczma Stodoła",
 			"adres": "Świerklany",
-			"url": "https://player.pl/programy-online,2/kuchenne-rewolucje-odcinki,52954/odcinek-12,S30E12,10966139"
+			"url": "https://player.pl/programy-online,2/kuchenne-rewolucje-odcinki,52954/odcinek-12,S30E12,10966139",
+			"zamkniete": true
 		}
 	]
 }

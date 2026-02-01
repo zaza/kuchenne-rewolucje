@@ -1,60 +1,74 @@
 {
-	"odcinki": [ {
+	"odcinki": [
+		{
 			"odcinek": 1,
 			"nazwa": "Piccownia",
 			"adres": "Warszawa",
 			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-1,S29E01,275117"
-		}, {
+		},
+		{
 			"odcinek": 2,
 			"nazwa": "Paleta Smaków",
 			"adres": "Bobowa",
 			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-2,S29E02,275118"
-		}, {
+		},
+		{
 			"odcinek": 3,
 			"nazwa": "EPTO",
 			"adres": "Toruń",
 			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-3,S29E03,275119"
-		}, {
+		},
+		{
 			"odcinek": 4,
 			"nazwa": "Meltini",
 			"adres": "Katowice",
 			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-4,S29E04,275120"
-		}, {
+		},
+		{
 			"odcinek": 5,
 			"nazwa": "Antonio",
 			"adres": "Łódź",
 			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-5,S29E05,275121"
-		}, {
+		},
+		{
 			"odcinek": 6,
 			"nazwa": "Via Piada",
 			"adres": "Kraków",
-			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-6,S29E06,275122"
-		}, {
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-6,S29E06,275122",
+			"zamkniete": true
+		},
+		{
 			"odcinek": 7,
 			"nazwa": "Kujawska",
 			"adres": "Włocławek",
 			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-7,S29E07,275123"
-		}, {
+		},
+		{
 			"odcinek": 8,
 			"nazwa": "Kuchnia na Górce",
 			"adres": "Zielona Góra",
 			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-8,S29E08,275124"
-		}, {
+		},
+		{
 			"odcinek": 9,
 			"nazwa": "Suliko",
 			"adres": "Podkowa Leśna",
 			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-9,S29E09,275125"
-		}, {
+		},
+		{
 			"odcinek": 10,
 			"nazwa": "Głodny Polak",
 			"adres": "Rawicz",
 			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-10,S29E10,275126"
-		}, {
+		},
+		{
 			"odcinek": 11,
 			"nazwa": "Bistro Rozmaryn",
 			"adres": "Warszawa",
-			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-11,S29E11,275127"
-		}, {
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-11,S29E11,275127",
+			"zamkniete": true
+		},
+		{
 			"odcinek": 12,
 			"nazwa": "Czarny Domek",
 			"adres": "Konin",

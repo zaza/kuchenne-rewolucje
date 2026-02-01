@@ -1,81 +1,97 @@
 {
-	"odcinki": [{
-			"odcinek":15,
-			"nazwa":"Stary Kredens",
-			"adres":"Sanok",
-			"url":"http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-15,S07E15,20212.html"
-		}, {
-			"odcinek":14,
-			"nazwa":"Bazylia i Oregano",
-			"adres":"Poznań",
-			"url":"http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-14,S07E14,20211.html"
-		}, {
-			"odcinek":13,
-			"nazwa":"Viki Lektiko",
-			"adres":"Elbląg",
-			"url":"http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-13,S07E13,20210.html"
-		}, {
-			"odcinek":12,
-			"nazwa":"Malinówka",
-			"adres":"Wisła",
-			"url":"http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-12,S07E12,20209.html"
-		}, {
-			"odcinek":11,
-			"nazwa":"Tawerna Ellada",
-			"adres":"Głogów",
-			"url":"http://kuchennerewolucje.tvn.pl/odcinki-online,7/odcinek-11-sezon-7,20052,o.html"
-		}, {
-			"odcinek":10,
-			"nazwa":"Majaga",
-			"adres":"Dębica",
-			"url":"http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-10,S07E10,19800.html"
-		}, {
-			"odcinek":9,
-			"nazwa":"Perła",
-			"adres":"Jasło",
-			"url":"http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-9,S07E09,19371.html"
-		}, {
-			"odcinek":8,
-			"nazwa":"Restauracja Carska",
-			"adres":"Legionowa",
-			"url":"http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-8,S07E08,19370.html"
-		}, {
-			"odcinek":7,
-			"nazwa":"VooDoo",
-			"adres":"Kielce",
-			"url":"http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-7,S07E07,18977.html"
-		}, {
-			"odcinek":6,
-			"nazwa":"Marrone",
-			"adres":"Ostrów Wielkopolski",
-			"url":"http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-6,S07E06,18976.html"
-		}, {
-			"odcinek":5,
-			"nazwa":"Magistrat",
-			"adres":"Hrubieszów",
-			"url":"http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-5,S07E05,18913.html"
-		}, {
-			"odcinek":4,
-			"nazwa":"Gospoda Nasza Chata Smaków",
-			"adres":"Babi Dół",
-			"url":"http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-4,S07E04,18748.html"
-		}, {
-			"odcinek":3,
-			"nazwa":"Restauracja Rybka",
-			"adres":"Gdańsk",
-			"url":"http://kuchennerewolucje.tvn.pl/odcinki-online,7/odcinek-3-sezon-7,18450,o.html"
-		}, {
-			"odcinek":2,
-			"nazwa":"Cieszyński Browar Mieszczański",
-			"adres":"Ks.I.Świeżego 6, 43-400 Cieszyn",
-			"url":"http://kuchennerewolucje.tvn.pl/odcinki-online,7/odcinek-2-sezon-7,18174,o.html",
+	"odcinki": [
+		{
+			"odcinek": 15,
+			"nazwa": "Stary Kredens",
+			"adres": "Sanok",
+			"url": "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-15,S07E15,20212.html"
+		},
+		{
+			"odcinek": 14,
+			"nazwa": "Bazylia i Oregano",
+			"adres": "Poznań",
+			"url": "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-14,S07E14,20211.html"
+		},
+		{
+			"odcinek": 13,
+			"nazwa": "Viki Lektiko",
+			"adres": "Elbląg",
+			"url": "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-13,S07E13,20210.html"
+		},
+		{
+			"odcinek": 12,
+			"nazwa": "Malinówka",
+			"adres": "Wisła",
+			"url": "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-12,S07E12,20209.html"
+		},
+		{
+			"odcinek": 11,
+			"nazwa": "Tawerna Ellada",
+			"adres": "Głogów",
+			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,7/odcinek-11-sezon-7,20052,o.html",
+			"zamkniete": true
+		},
+		{
+			"odcinek": 10,
+			"nazwa": "Majaga",
+			"adres": "Dębica",
+			"url": "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-10,S07E10,19800.html"
+		},
+		{
+			"odcinek": 9,
+			"nazwa": "Perła",
+			"adres": "Jasło",
+			"url": "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-9,S07E09,19371.html"
+		},
+		{
+			"odcinek": 8,
+			"nazwa": "Restauracja Carska",
+			"adres": "Legionowa",
+			"url": "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-8,S07E08,19370.html"
+		},
+		{
+			"odcinek": 7,
+			"nazwa": "VooDoo",
+			"adres": "Kielce",
+			"url": "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-7,S07E07,18977.html"
+		},
+		{
+			"odcinek": 6,
+			"nazwa": "Marrone",
+			"adres": "Ostrów Wielkopolski",
+			"url": "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-6,S07E06,18976.html"
+		},
+		{
+			"odcinek": 5,
+			"nazwa": "Magistrat",
+			"adres": "Hrubieszów",
+			"url": "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-5,S07E05,18913.html"
+		},
+		{
+			"odcinek": 4,
+			"nazwa": "Gospoda Nasza Chata Smaków",
+			"adres": "Babi Dół",
+			"url": "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-4,S07E04,18748.html"
+		},
+		{
+			"odcinek": 3,
+			"nazwa": "Restauracja Rybka",
+			"adres": "Gdańsk",
+			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,7/odcinek-3-sezon-7,18450,o.html"
+		},
+		{
+			"odcinek": 2,
+			"nazwa": "Cieszyński Browar Mieszczański",
+			"adres": "Ks.I.Świeżego 6, 43-400 Cieszyn",
+			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,7/odcinek-2-sezon-7,18174,o.html",
 			"youtube": "https://www.youtube.com/watch?v=ABAVVXcIg6M",
 			"zamkniete": true
-		}, {
-			"odcinek":1,
-			"nazwa":"Folklor",
-			"adres":"Roosevelta 6, 64-915 Jastrowie",
-			"url":"http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-1,S07E01,17913.html"
+		},
+		{
+			"odcinek": 1,
+			"nazwa": "Folklor",
+			"adres": "Roosevelta 6, 64-915 Jastrowie",
+			"url": "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-1,S07E01,17913.html"
 		}
 	]
 }

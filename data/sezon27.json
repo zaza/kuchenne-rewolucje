@@ -1,60 +1,74 @@
 {
-	"odcinki": [ {
+	"odcinki": [
+		{
 			"odcinek": 1,
 			"nazwa": "Cooking and events",
 			"adres": "Czarna Dąbrówka",
 			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-1,S27E01,259428"
-		}, {
+		},
+		{
 			"odcinek": 2,
 			"nazwa": "Zajazd Dwa Koguty",
 			"adres": "Przędzel",
 			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-2,S27E02,259429"
-		}, {
+		},
+		{
 			"odcinek": 3,
 			"nazwa": "Bar Mleczny",
 			"adres": "Warszawa",
 			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-3,S27E03,259430"
-		}, {
+		},
+		{
 			"odcinek": 4,
 			"nazwa": "Dziupla u Wuja",
 			"adres": "Górki Wielkie",
 			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-4,S27E04,259431"
-		}, {
+		},
+		{
 			"odcinek": 5,
 			"nazwa": "Mio Gastro",
 			"adres": "Gdańsk",
-			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-5,S27E05,259432"
-		}, {
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-5,S27E05,259432",
+			"zamkniete": true
+		},
+		{
 			"odcinek": 6,
 			"nazwa": "Restauracja pod Orzechem",
 			"adres": "Bytom",
 			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-6,S27E06,259433"
-		}, {
+		},
+		{
 			"odcinek": 7,
 			"nazwa": "Bistro Pyza",
 			"adres": "Białogard",
 			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-7,S27E07,259434"
-		}, {
+		},
+		{
 			"odcinek": 8,
 			"nazwa": "Bar Pierożek",
 			"adres": "Grudziądz",
 			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-8,S27E08,259435"
-		}, {
+		},
+		{
 			"odcinek": 9,
 			"nazwa": "Hot Devil Pizza",
 			"adres": "Łódź",
-			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-9,S27E09,259436"
-		}, {
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-9,S27E09,259436",
+			"zamkniete": true
+		},
+		{
 			"odcinek": 10,
 			"nazwa": "Jani Sushi",
 			"adres": "Tarnów",
 			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-10,S27E10,259437"
-		}, {
+		},
+		{
 			"odcinek": 11,
 			"nazwa": "Burger i Spółka",
 			"adres": "Łódź",
 			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-11,S27E11,259438"
-		}, {
+		},
+		{
 			"odcinek": 12,
 			"nazwa": "Nusma",
 			"adres": "Lębork",

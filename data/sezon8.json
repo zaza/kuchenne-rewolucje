@@ -1,83 +1,100 @@
 {
-	"odcinki": [{
+	"odcinki": [
+		{
 			"odcinek": 15,
 			"nazwa": "Marilyn",
 			"dawniej": "One Way",
 			"adres": "Starogardzka 42, 83-010 Straszyn",
 			"url": "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-15,S08E15,24443.html"
-		}, {
+		},
+		{
 			"odcinek": 14,
 			"nazwa": "Tawerna",
 			"adres": "Warszawa",
 			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,8/odcinek-14-sezon-8,24847,o.html"
-		}, {
+		},
+		{
 			"odcinek": 13,
 			"nazwa": "Chata Paprocańska",
 			"adres": "Tychy",
 			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,8/odcinek-13-sezon-8,24573,o.html"
-		}, {
+		},
+		{
 			"odcinek": 12,
 			"nazwa": "Zajazd pod Kłobukiem",
 			"adres": "Zamkowa 11, 14-330 Małdyty",
 			"url": "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-12,S08E12,23872.html",
 			"homepage": "http://klobuk.pl/"
-		}, {
+		},
+		{
 			"odcinek": 11,
 			"nazwa": "Feniks",
 			"adres": "Kobiór",
-			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,8/odcinek-11-sezon-8,24245,o.html"
-		}, {
+			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,8/odcinek-11-sezon-8,24245,o.html",
+			"zamkniete": true
+		},
+		{
 			"odcinek": 10,
 			"nazwa": "Paradis",
 			"adres": "Puck",
 			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,8/odcinek-10-sezon-8,23964,o.html"
-		}, {
+		},
+		{
 			"odcinek": 9,
 			"nazwa": "Imperium Smaku",
 			"adres": "Łódź",
 			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,8/odcinek-9-sezon-8,23806,o.html"
-		}, {
+		},
+		{
 			"odcinek": 8,
 			"nazwa": "Bar Zigi",
 			"adres": "Kościuszki 34, 83-400 Kościerzyna",
 			"url": "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-8,S08E08,23327.html"
-		}, {
+		},
+		{
 			"odcinek": 7,
 			"nazwa": "Mauritiana",
 			"adres": "Nowy Targ",
 			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,8/odcinek-7-sezon-8,23287,o.html"
-		}, {
+		},
+		{
 			"odcinek": 6,
 			"nazwa": "Euforia",
 			"adres": "Ciągowice",
 			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,8/odcinek-6-sezon-8,23221,o.html"
-		}, {
+		},
+		{
 			"odcinek": 5,
 			"nazwa": "Relax",
 			"adres": "Chełm",
 			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,8/odcinek-5-sezon-8,22971,o.html"
-		}, {
+		},
+		{
 			"odcinek": 4,
 			"nazwa": "Sielska Zagroda",
 			"adres": "Gdańska 12, 82-100 Nowy Dwór Gdański",
 			"url": "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-4,S08E04,22211.html",
 			"homepage": "http://www.sielskazagroda.com.pl/"
-		}, {
+		},
+		{
 			"odcinek": 3,
 			"nazwa": "U Wikinga",
 			"adres": "Słupsk",
 			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,8/odcinek-3-sezon-8,22436,o.html"
-		}, {
+		},
+		{
 			"odcinek": 2,
 			"nazwa": "Do Syta",
 			"adres": "Łódź",
 			"url": "http://kuchennerewolucje.tvn.pl/odcinki-online,8/odcinek-2-sezon-8,22340,o.html"
-		}, {
+		},
+		{
 			"odcinek": 1,
 			"nazwa": "U Przyjaciół",
 			"adres": "Polna 55, 81-701 Sopot",
 			"url": "http://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-1,S08E01,21796.html",
-			"homepage": "http://www.uprzyjaciol.com.pl/"
+			"homepage": "http://www.uprzyjaciol.com.pl/",
+			"zamkniete": true
 		}
 	]
 }

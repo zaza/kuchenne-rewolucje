@@ -1,60 +1,76 @@
 {
-	"odcinki": [ {
+	"odcinki": [
+		{
 			"odcinek": 1,
 			"nazwa": "Gusto Kuchnia i Wino",
 			"adres": "Bydgoszcz",
-			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-1,S28E01,267287"
-		}, {
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-1,S28E01,267287",
+			"zamkniete": true
+		},
+		{
 			"odcinek": 2,
 			"nazwa": "Karpielówka",
 			"adres": "Warszawa",
-			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-2,S28E02,267288"
-		}, {
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-2,S28E02,267288",
+			"zamkniete": true
+		},
+		{
 			"odcinek": 3,
 			"nazwa": "Don Martinez",
 			"adres": "Rybnik",
-			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-3,S28E03,267289"
-		}, {
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-3,S28E03,267289",
+			"zamkniete": true
+		},
+		{
 			"odcinek": 4,
 			"nazwa": "Na Winklu",
 			"adres": "Nowy Targ",
-			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-4,S28E04,267290"
-		}, {
+			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-4,S28E04,267290",
+			"zamkniete": true
+		},
+		{
 			"odcinek": 5,
 			"nazwa": "Pomylone Gary",
 			"adres": "Poznań",
 			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-5,S28E05,267291"
-		}, {
+		},
+		{
 			"odcinek": 6,
 			"nazwa": "Oaza Smaku",
 			"adres": "Nowy Tomyśl",
 			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-6,S28E06,267292"
-		}, {
+		},
+		{
 			"odcinek": 7,
 			"nazwa": "Chicken Go",
 			"adres": "Żnin",
 			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-7,S28E07,267293"
-		}, {
+		},
+		{
 			"odcinek": 8,
 			"nazwa": "Bar Świńskie Sprawki",
 			"adres": "Łódź",
 			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-8,S28E08,267294"
-		}, {
+		},
+		{
 			"odcinek": 9,
 			"nazwa": "Gościniec",
 			"adres": "Myszęcin",
 			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-9,S28E09,267295"
-		}, {
+		},
+		{
 			"odcinek": 10,
 			"nazwa": "Schabowy i spółka",
 			"adres": "Kalinowiec",
 			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-10,S28E10,267296"
-		}, {
+		},
+		{
 			"odcinek": 11,
 			"nazwa": "Art-smaku",
 			"adres": "Tarnowskie Góry",
 			"url": "https://player.pl/programy-online/kuchenne-rewolucje-odcinki,114/odcinek-11,S28E11,267297"
-		}, {
+		},
+		{
 			"odcinek": 12,
 			"nazwa": "Fresco",
 			"adres": "Suwałki",
